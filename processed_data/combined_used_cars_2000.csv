@@ -1,0 +1,2001 @@
+Record_ID,Brand,Model,Year,City,Kilometers_Driven,Fuel_Type,Transmission,Selling_Price,Source,Source_Record_ID
+1,Mercedes-Benz,Mercedes-Benz M-Class 320 CDI,2008,Hyderabad,73451,Diesel,Not available,1100000,Used Car Sales,814
+2,Toyota,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],2018,Delhi,80000,Diesel,Not available,2050000,Used Car Sales,358
+3,Toyota,Toyota Innova Crysta 2.4 G 7 STR [2016-2017],2017,Mumbai,60000,Diesel,Not available,1575000,Used Car Sales,106
+4,Skoda,Skoda Rapid Monte Carlo 1.6 MPI MT,2019,Chennai,10000,Petrol,Not available,1175000,Used Car Sales,1021
+5,Hyundai,Hyundai Elite i20 Magna 1.2 [2016-2017],2020,Hyderabad,11500,Petrol,Not available,750000,Used Car Sales,866
+6,Audi,Audi Q3 30 TDI S,2016,Chennai,72000,Diesel,Not available,1395000,Used Car Sales,1351
+7,Honda,Honda CR-V 2.4L 4WD AVN,2013,Bangalore,94030,Petrol,Not available,1399000,Used Car Sales,516
+8,Maruti Suzuki,Maruti Suzuki Ertiga ZDI + SHVS,2017,Chennai,48000,Diesel,Not available,910000,Used Car Sales,1120
+9,Hyundai,Hyundai Tucson 2WD AT GLS Diesel,2020,Pune,10000,Diesel,Not available,2600000,Used Car Sales,1503
+10,Mahindra,Mahindra KUV100 NXT K4 Plus 6 STR [2017-2020],2018,Pune,60484,Petrol,Not available,450000,Used Car Sales,1643
+11,Hyundai,Hyundai Tucson GL 2WD AT Petrol,2020,Chennai,4500,Petrol,Not available,2500000,Used Car Sales,1162
+12,Hyundai,Hyundai i10 1.1L iRDE Magna Special Edition,2015,Chennai,54000,Petrol,Not available,325000,Used Car Sales,1379
+13,Toyota,Toyota Innova 2.5 VX 8 STR BS-IV,2012,Chennai,93000,Diesel,Not available,1190000,Used Car Sales,1446
+14,Volvo,Volvo S60 Polestar [2017-2020],2017,Chennai,49855,Petrol,Not available,3950000,Used Car Sales,1418
+15,Bmw,BMW X4 M [2019],2020,Chennai,20000,Petrol,Not available,6800000,Used Car Sales,1184
+16,Bmw,BMW X1 sDrive20d xLine,2016,Chennai,36000,Diesel,Not available,2600000,Used Car Sales,1222
+17,Hyundai,Hyundai Elite i20 Asta 1.4 (O) CRDi,2015,Delhi,55000,Diesel,Not available,550000,Used Car Sales,479
+18,Mercedes-Benz,Mercedes-Benz C-Class C 220 CDI Avantgarde,2016,Mumbai,85000,Diesel,Not available,2200000,Used Car Sales,234
+19,Land Rover,Land Rover Range Rover Evoque Prestige SD4,2012,Dehradun,127000,Diesel,Not available,1900000,Used Car Sales,96
+20,Maruti Suzuki,Maruti Suzuki Swift VDi ABS [2014-2017],2018,Pune,22838,Diesel,Not available,680000,Used Car Sales,1509
+21,Skoda,Skoda Rapid 1.5 TDI CR Style Plus AT,2016,Hyderabad,42282,Diesel,Not available,950000,Used Car Sales,750
+22,Honda,Honda Brio S MT,2015,Pune,19000,Petrol,Not available,410000,Used Car Sales,1524
+23,Hyundai,Hyundai Elite i20 Sportz 1.2 (O),2014,Bangalore,75447,Petrol,Not available,599000,Used Car Sales,564
+24,Maruti Suzuki,Maruti Suzuki Ciaz Zeta 1.4 AT,2018,Hyderabad,18178,Petrol,Not available,980000,Used Car Sales,751
+25,Maruti Suzuki,Maruti Suzuki Ertiga VDi,2012,Pune,56011,Diesel,Not available,575000,Used Car Sales,1717
+26,Renault,Renault Duster 110 PS RXZ 4X4 MT Diesel,2016,Delhi,50000,Diesel,Not available,545000,Used Car Sales,466
+27,Toyota,Toyota Corolla Altis 1.8 G,2010,Mumbai,46000,Petrol,Not available,375000,Used Car Sales,103
+28,Bmw,BMW 7 Series 730Ld Eminence,2015,Dehradun,66000,Diesel,Not available,3700000,Used Car Sales,73
+29,Jaguar,Jaguar F-Pace Prestige,2018,Pune,20518,Diesel,Not available,5550000,Used Car Sales,1552
+30,Land Rover,Land Rover Range Rover Evoque SE Dynamic,2018,Dehradun,29500,Diesel,Not available,4800000,Used Car Sales,78
+31,Maruti Suzuki,Maruti Suzuki Baleno Delta 1.3,2018,Delhi,70000,Diesel,Not available,635000,Used Car Sales,442
+32,Skoda,Skoda Superb Elegance 1.8 TSI MT,2011,Mumbai,54000,Petrol,Not available,390000,Used Car Sales,163
+33,Hyundai,Hyundai Verna 1.6 CRDI SX (O),2018,Chennai,38000,Diesel,Not available,1250000,Used Car Sales,1374
+34,Honda,Honda Amaze 1.2 S AT i-VTEC,2018,Pune,18000,Petrol,Not available,730000,Used Car Sales,1530
+35,Mahindra,Mahindra TUV300 T8,2016,Chennai,64000,Diesel,Not available,675000,Used Car Sales,1148
+36,Maruti Suzuki,Maruti Suzuki Alto K10 VXi AMT [2014-2018],2018,Pune,6800,Petrol,Not available,440000,Used Car Sales,1607
+37,Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi+ Dual Tone [2017-2018],2019,Chennai,14000,Diesel,Not available,1150000,Used Car Sales,1008
+38,Ford,Ford EcoSport Titanium 1.5L TDCi,2019,Hyderabad,15250,Diesel,Not available,1050000,Used Car Sales,745
+39,Bmw,BMW Z4 sDrive 35i,2016,Dehradun,26700,Petrol,Not available,4850000,Used Car Sales,65
+40,Maruti Suzuki,Maruti Suzuki Swift VDi BS-IV,2010,Hyderabad,82000,Diesel,Not available,295000,Used Car Sales,944
+41,Maruti Suzuki,Maruti Suzuki Baleno Delta 1.2,2018,Bangalore,37422,Petrol,Not available,699000,Used Car Sales,641
+42,Maruti Suzuki,Maruti Suzuki Swift VDi,2009,Hyderabad,82000,Diesel,Not available,295000,Used Car Sales,920
+43,Hyundai,Hyundai Elite i20 Sportz 1.2,2017,Mumbai,32000,Petrol,Not available,595000,Used Car Sales,144
+44,Mercedes-Benz,Mercedes-Benz GLC 220d 4MATIC Progressive [2019-2021],2019,Bangalore,78000,Diesel,Not available,4500000,Used Car Sales,717
+45,Honda,Honda CR-V 2.4 MT,2007,Chennai,120000,Petrol,Not available,475000,Used Car Sales,1292
+46,Ford,Ford EcoSport Titanium 1.5 Ti-VCT AT,2014,Pune,32800,Petrol,Not available,550000,Used Car Sales,1608
+47,Bmw,BMW 7 Series 730Ld DPE,2018,Delhi,31000,Diesel,Not available,6950000,Used Car Sales,347
+48,Toyota,Toyota Innova 2.5 V 7 STR,2013,Chennai,130000,Diesel,Not available,1250000,Used Car Sales,1404
+49,Maruti Suzuki,Maruti Suzuki Ciaz ZDi+ SHVS RS [2015-2017],2017,Hyderabad,54000,Diesel,Not available,795000,Used Car Sales,972
+50,Mercedes-Benz,Mercedes-Benz CLA 200 D Urban Sport,2018,Hyderabad,23107,Diesel,Not available,3400000,Used Car Sales,820
+51,Bmw,BMW X1 sDrive20d,2011,Hyderabad,84000,Diesel,Not available,1095000,Used Car Sales,921
+52,Toyota,Toyota Fortuner 2.8 4x2 AT [2016-2020],2018,Chennai,100000,Diesel,Not available,2700000,Used Car Sales,1450
+53,Maruti Suzuki,Maruti Suzuki Ciaz ZXi (O) [2014-2015],2015,Mumbai,52000,Petrol,Not available,575000,Used Car Sales,116
+54,Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi,2017,Thane,43494,Diesel,Not available,895000,Used Car Sales,206
+55,Maruti Suzuki,Maruti Suzuki Estilo LXi BS-IV,2013,Delhi,56567,Petrol,Not available,215000,Used Car Sales,255
+56,Hyundai,Hyundai Santro Xing GLS,2009,Delhi,43000,Petrol,Not available,150000,Used Car Sales,258
+57,Audi,Audi A4 2.0 TDI (177bhp) Premium,2011,Chennai,44000,Diesel,Not available,1200000,Used Car Sales,1306
+58,Hyundai,Hyundai i10 Sportz 1.2,2008,Chennai,73000,Petrol,Not available,250000,Used Car Sales,1383
+59,Hyundai,Hyundai Elite i20 Magna Executive 1.2,2017,Mumbai,20000,Petrol,Not available,550000,Used Car Sales,169
+60,Jaguar,Jaguar XE Prestige,2019,Delhi,18000,Petrol,Not available,3390000,Used Car Sales,446
+61,Maruti Suzuki,Maruti Suzuki Swift VXi [2014-2017],2016,Bangalore,59117,Petrol,Not available,560000,Used Car Sales,566
+62,Hyundai,Hyundai Eon Magna [2011-2012],2016,Pune,23797,Petrol,Not available,335000,Used Car Sales,1500
+63,Mahindra,Mahindra XUV500 W5 [2018-2020],2018,Delhi,23000,Diesel,Not available,1075000,Used Car Sales,487
+64,Tata,Tata Tiago Revotron XZ,2017,Bangalore,8081,Petrol,Not available,590000,Used Car Sales,664
+65,Hyundai,Hyundai Creta SX 1.6 Petrol,2019,Hyderabad,20000,Petrol,Not available,1285000,Used Car Sales,968
+66,Bmw,BMW X1 sDrive20d,2012,Chennai,59000,Diesel,Not available,1385000,Used Car Sales,1381
+67,Hyundai,Hyundai Creta SX 1.6 AT Petrol,2019,Chennai,32000,Petrol,Not available,1380000,Used Car Sales,1166
+68,Bmw,BMW 7 Series 730Ld Sedan,2013,Dehradun,59000,Diesel,Not available,2900000,Used Car Sales,75
+69,Maruti Suzuki,Maruti Suzuki Alto K10 VXi AMT (Airbag) [2014-2019],2016,Pune,37000,Petrol,Not available,345000,Used Car Sales,1670
+70,Toyota,Toyota Corolla Altis VL AT Petrol,2016,Mumbai,97679,Petrol,Not available,1035000,Used Car Sales,16
+71,Hyundai,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],2015,Pune,79461,Petrol,Not available,450000,Used Car Sales,1590
+72,Mahindra,Mahindra Thar CRDe 4x4 AC,2015,Chennai,64000,Diesel,Not available,750000,Used Car Sales,1132
+73,Hyundai,Hyundai Creta SX Plus 1.6 Petrol,2017,Mumbai,38000,Petrol,Not available,995000,Used Car Sales,177
+74,Toyota,Toyota Innova Crysta 2.8 GX AT 8 STR [2016-2020],2018,Hyderabad,78263,Diesel,Not available,1645000,Used Car Sales,848
+75,Maruti Suzuki,Maruti Suzuki Celerio VXi AMT [2017-2019],2018,Pune,78000,Petrol,Not available,505000,Used Car Sales,1512
+76,Toyota,Toyota Innova 2.5 V 8 STR,2009,Mumbai,65000,Diesel,Not available,525000,Used Car Sales,178
+77,Mahindra,Mahindra XUV500 W7 [2018-2020],2018,Hyderabad,72000,Diesel,Not available,1230000,Used Car Sales,831
+78,Hyundai,Hyundai Eon D-Lite +,2015,Chennai,36000,Petrol,Not available,320000,Used Car Sales,1414
+79,Renault,Renault Duster 110 PS RXZ 4X2 MT Diesel,2017,Bangalore,57800,Diesel,Not available,999000,Used Car Sales,582
+80,Hyundai,Hyundai Elite i20 Magna Executive 1.2,2018,Bangalore,28131,Petrol,Not available,660000,Used Car Sales,735
+81,Hyundai,Hyundai Creta SX Plus 1.6 AT CRDI,2017,Pune,31028,Diesel,Not available,1395000,Used Car Sales,1724
+82,Tata,Tata Nano Twist XT,2016,Mumbai,2814,Petrol,Not available,215000,Used Car Sales,30
+83,Maruti Suzuki,Maruti Suzuki Ertiga VDi,2014,Lucknow,98500,Diesel,Not available,550000,Used Car Sales,387
+84,Datsun,Datsun GO T,2015,Noida,54000,Petrol,Not available,260000,Used Car Sales,268
+85,Maruti Suzuki,Maruti Suzuki Baleno Delta 1.2,2019,Delhi,13000,Petrol,Not available,635000,Used Car Sales,437
+86,Hyundai,Hyundai Verna EX 1.4 VTVT,2019,Chennai,24800,Petrol,Not available,925000,Used Car Sales,1012
+87,Bmw,BMW 5 Series 530d M Sport [2013-2017],2019,Delhi,9800,Diesel,Not available,5500000,Used Car Sales,349
+88,Audi,Audi Q7 35 TDI Technology Pack,2013,Mumbai,80000,Diesel,Not available,2175000,Used Car Sales,56
+89,Toyota,Toyota Innova Crysta 2.4 VX 8 STR [2016-2020],2018,Chennai,41000,Diesel,Not available,2050000,Used Car Sales,1194
+90,Maruti Suzuki,Maruti Suzuki Baleno Zeta,2018,Chennai,35000,Petrol,Not available,690000,Used Car Sales,1436
+91,Volkswagen,Volkswagen Vento Highline Petrol AT,2015,Chennai,66000,Petrol,Not available,600000,Used Car Sales,1297
+92,Mahindra,Mahindra TUV300 T8,2016,Bangalore,55946,Diesel,Not available,745000,Used Car Sales,602
+93,Hyundai,Hyundai Creta 1.6 SX,2016,Chennai,69138,Diesel,Not available,1090000,Used Car Sales,1242
+94,Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI+ (O),2020,Delhi,7823,Petrol,Not available,565000,Used Car Sales,332
+95,Mg,MG Hector Sharp 1.5 DCT Petrol [2019-2020],2019,Delhi,24000,Petrol,Not available,1640000,Used Car Sales,436
+96,Tata,Tata Nexon XM,2018,Bangalore,12200,Petrol,Not available,825000,Used Car Sales,733
+97,Audi,Audi A6 2.0 TDI Premium,2012,Chennai,76000,Diesel,Not available,1700000,Used Car Sales,1219
+98,Skoda,Skoda Superb Elegance 1.8 TSI AT,2009,Hyderabad,95000,Petrol,Not available,345000,Used Car Sales,868
+99,Maruti Suzuki,Maruti Suzuki Swift VXi,2006,Thane,79915,Petrol,Not available,175000,Used Car Sales,61
+100,Audi,Audi Q3 35 TDI quattro Premium Plus,2018,Ghaziabad,37000,Diesel,Not available,2750000,Used Car Sales,480
+101,Toyota,Toyota Innova Crysta 2.4 VX 7 STR [2016-2020],2018,Hyderabad,142000,Diesel,Not available,1875000,Used Car Sales,984
+102,Volkswagen,Volkswagen Vento Highline Diesel,2015,Chennai,54000,Diesel,Not available,620000,Used Car Sales,1027
+103,Bmw,BMW X4 M [2019],2020,Chennai,20000,Petrol,Not available,6800000,Used Car Sales,1431
+104,Maruti Suzuki,Maruti Suzuki Swift Dzire LXI,2015,Hyderabad,12208,Petrol,Not available,560000,Used Car Sales,915
+105,Hyundai,Hyundai Creta SX Plus 1.6 CRDI Dual Tone,2018,Pune,42000,Diesel,Not available,1475000,Used Car Sales,1704
+106,Hyundai,Hyundai Verna 1.6 VTVT SX (O),2019,Chennai,10000,Petrol,Not available,1195000,Used Car Sales,1253
+107,Ford,Ford EcoSport Ambiente 1.5 TDCi,2021,Pune,3681,Diesel,Not available,950000,Used Car Sales,1719
+108,Bmw,BMW X5 xDrive 30d,2016,Pune,53000,Diesel,Not available,3800000,Used Car Sales,1669
+109,Maruti Suzuki,Maruti Suzuki Ritz Vdi BS-IV,2012,Bangalore,83522,Diesel,Not available,429000,Used Car Sales,734
+110,Bmw,BMW 7 Series 730Ld Prestige,2015,Dehradun,48000,Diesel,Not available,3700000,Used Car Sales,74
+111,Mahindra,Mahindra XUV300 1.5 W8 (O) [2019-2020],2019,Delhi,25000,Diesel,Not available,925000,Used Car Sales,492
+112,Bmw,BMW 5 Series 520d Luxury Line,2014,Pune,50000,Diesel,Not available,2250000,Used Car Sales,1549
+113,Ford,Ford Endeavour Titanium Plus 2.0 4x4 AT,2021,Chennai,8000,Diesel,Not available,3850000,Used Car Sales,1237
+114,Bmw,BMW X1 sDrive20d Expedition,2018,Dehradun,33500,Diesel,Not available,2500000,Used Car Sales,307
+115,Hyundai,Hyundai i10 Magna 1.2 Kappa2,2011,Hyderabad,75000,Petrol,Not available,325000,Used Car Sales,863
+116,Honda,Honda City V,2016,Chennai,45000,Petrol,Not available,790000,Used Car Sales,1338
+117,Maruti Suzuki,Maruti Suzuki Celerio VXi AMT,2016,Pune,83000,Petrol,Not available,430000,Used Car Sales,1513
+118,Land Rover,Land Rover Range Rover Evoque HSE,2017,Chennai,30980,Diesel,Not available,3500000,Used Car Sales,1350
+119,Ford,Ford EcoSport Titanium + 1.5L Ti-VCT,2019,Delhi,6372,Petrol,Not available,950000,Used Car Sales,398
+120,Volkswagen,Volkswagen Polo Highline1.2L (P),2015,Mumbai,14846,Petrol,Not available,480000,Used Car Sales,18
+121,Audi,Audi Q5 3.0 TDI quattro Premium Plus,2015,Hyderabad,550000,Diesel,Not available,2850000,Used Car Sales,883
+122,Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi+ Dual Tone [2017-2018],2017,Delhi,39000,Diesel,Not available,825000,Used Car Sales,264
+123,Skoda,Skoda Octavia 2.0 TDI CR Style Plus AT [2017],2017,Chennai,30000,Diesel,Not available,2000000,Used Car Sales,1447
+124,Hyundai,Hyundai Elite i20 Era 1.2,2014,Chennai,29000,Petrol,Not available,515000,Used Car Sales,1140
+125,Honda,Honda City 1.5 E MT,2012,Chennai,40000,Petrol,Not available,525000,Used Car Sales,1281
+126,Ford,Ford EcoSport Titanium 1.5L TDCi,2019,Chennai,45000,Diesel,Not available,890000,Used Car Sales,1143
+127,Maruti Suzuki,Maruti Suzuki Ertiga VXi,2019,Pune,60878,Petrol,Not available,950000,Used Car Sales,1702
+128,Skoda,Skoda Rapid Ambition 1.5 TDI,2017,Chennai,112000,Diesel,Not available,735000,Used Car Sales,1198
+129,Mercedes-Benz,Mercedes-Benz GLA 220 d 4MATIC,2018,Lucknow,55000,Diesel,Not available,2850000,Used Car Sales,388
+130,Mini,MINI Countryman Cooper D,2015,Pune,40614,Diesel,Not available,2300000,Used Car Sales,1483
+131,Mercedes-Benz,Mercedes-Benz C-Class 250 CDI Elegance,2011,Pune,55000,Diesel,Not available,975000,Used Car Sales,1574
+132,Audi,Audi A6 35 TDI Matrix,2016,Pune,89000,Diesel,Not available,2450000,Used Car Sales,1571
+133,Honda,Honda Jazz V Petrol,2015,Hyderabad,33400,Petrol,Not available,540000,Used Car Sales,784
+134,Mercedes-Benz,Mercedes-Benz S-Class S 350 CDI,2014,Pune,47000,Diesel,Not available,4600000,Used Car Sales,1624
+135,Hyundai,Hyundai Venue SX 1.0 Turbo iMT,2019,Hyderabad,13470,Petrol,Not available,1050000,Used Car Sales,956
+136,Hyundai,Hyundai i10 Era 1.1 iRDE2 [2010-2017],2012,Thane,34600,Petrol,Not available,315000,Used Car Sales,209
+137,Hyundai,Hyundai Verna Fluidic 1.6 CRDi SX,2012,Mumbai,23800,Diesel,Not available,475000,Used Car Sales,4
+138,Ford,Ford Figo Titanium1.5 TDCi,2016,Chennai,40000,Diesel,Not available,475000,Used Car Sales,1137
+139,Hyundai,Hyundai i20 Magna 1.2,2010,Bangalore,64321,Petrol,Not available,310000,Used Car Sales,616
+140,Hyundai,Hyundai Santro Xing GLS,2008,Chennai,63000,Petrol,Not available,170000,Used Car Sales,1002
+141,Maruti Suzuki,Maruti Suzuki Wagon R LXi Minor,2009,Pune,55000,Petrol,Not available,180000,Used Car Sales,1715
+142,Renault,Renault Duster 110 PS RxL Diesel,2012,Chennai,65000,Diesel,Not available,525000,Used Car Sales,1186
+143,Kia,Kia Seltos HTK Plus AT 1.5 Diesel [2020-2021],2020,Hyderabad,4100,Diesel,Not available,1599000,Used Car Sales,843
+144,Honda,Honda City 1.5 S MT,2014,Pune,24010,Petrol,Not available,565000,Used Car Sales,1712
+145,Mercedes-Benz,Mercedes-Benz GLA 200 Sport,2017,Mumbai,24000,Petrol,Not available,2350000,Used Car Sales,45
+146,Bmw,BMW 5 Series 520d Luxury Line [2017-2019],2019,Mumbai,25000,Diesel,Not available,4975000,Used Car Sales,102
+147,Jaguar,Jaguar XF 3.0 V6 Premium Luxury,2016,Chennai,63000,Diesel,Not available,2850000,Used Car Sales,1174
+148,Volkswagen,Volkswagen Vento Highline Diesel,2014,Chennai,86000,Diesel,Not available,575000,Used Car Sales,1303
+149,Toyota,Toyota Innova Crysta 2.4 ZX 7 STR [2016-2020],2019,Hyderabad,43000,Diesel,Not available,2330000,Used Car Sales,819
+150,Hyundai,Hyundai Elite i20 Asta 1.2 [2016-2017],2016,Chennai,57000,Petrol,Not available,630000,Used Car Sales,1048
+151,Hyundai,Hyundai Verna SX Plus 1.6 VTVT AT,2018,Chennai,19900,Petrol,Not available,1200000,Used Car Sales,1348
+152,Hyundai,Hyundai i10 Sportz 1.1 iRDE2 [2010--2017],2015,Chennai,40000,Petrol,Not available,400000,Used Car Sales,1250
+153,Jaguar,Jaguar XF Portfolio Diesel,2018,Bangalore,20000,Diesel,Not available,4200000,Used Car Sales,718
+154,Maruti Suzuki,Maruti Suzuki Swift ZXi,2019,Pune,12500,Petrol,Not available,710000,Used Car Sales,1706
+155,Mercedes-Benz,Mercedes-Benz GLE 250 d,2017,Bangalore,50000,Diesel,Not available,4500000,Used Car Sales,723
+156,Hyundai,Hyundai Venue S 1.2 Petrol [2019-2020],2019,Bangalore,29350,Petrol,Not available,815000,Used Car Sales,693
+157,Hyundai,Hyundai Verna 1.6 VTVT S,2017,Pune,31414,Petrol,Not available,675000,Used Car Sales,1504
+158,Bmw,BMW X1 sDrive20d,2012,Chennai,59000,Diesel,Not available,1385000,Used Car Sales,1400
+159,Toyota,Toyota Etios Liva G SP*,2014,Thane,31913,Petrol,Not available,350000,Used Car Sales,135
+160,Mercedes-Benz,Mercedes-Benz C-Class C 200 Avantgarde,2014,Dehradun,22000,Petrol,Not available,2700000,Used Car Sales,313
+161,Mahindra,Mahindra XUV500 W8 [2015-2017],2014,Bangalore,52255,Diesel,Not available,915000,Used Car Sales,499
+162,Toyota,Toyota Innova Crysta 2.8 GX AT 8 STR [2016-2020],2017,Thane,56089,Diesel,Not available,1760000,Used Car Sales,118
+163,Mahindra,Mahindra XUV500 W10 AT,2016,Mumbai,72000,Diesel,Not available,1275000,Used Car Sales,63
+164,Honda,Honda CR-V 2.4 AT,2014,Mumbai,108200,Petrol,Not available,1200000,Used Car Sales,114
+165,Audi,Audi Q3 35 TDI quattro Premium Plus,2018,Chennai,81296,Diesel,Not available,2650000,Used Car Sales,1368
+166,Tata,Tata Hexa XT 4x2 7 STR,2017,Hyderabad,160015,Diesel,Not available,1200000,Used Car Sales,962
+167,Hyundai,Hyundai Grand i10 Sportz (O) AT 1.2 Kappa VTVT [2017-2018],2017,Mumbai,44329,Petrol,Not available,565000,Used Car Sales,8
+168,Hyundai,Hyundai Creta SX 1.6 AT Petrol,2019,Chennai,32000,Petrol,Not available,1380000,Used Car Sales,1415
+169,Skoda,Skoda Rapid Ambition 1.5 TDI AT,2017,Pune,108500,Diesel,Not available,675000,Used Car Sales,1618
+170,Honda,Honda Jazz VX CVT Petrol,2018,Agra,32000,Petrol,Not available,695000,Used Car Sales,372
+171,Honda,Honda City SV,2014,Bangalore,55000,Petrol,Not available,625000,Used Car Sales,583
+172,Toyota,Toyota Innova 2.5 G4 8 STR,2012,Hyderabad,69000,Diesel,Not available,800000,Used Car Sales,852
+173,Volkswagen,Volkswagen Vento Highline Petrol,2012,Pune,59908,Petrol,Not available,397000,Used Car Sales,1495
+174,Mercedes-Benz,Mercedes-Benz GLC 220 d Sport,2018,Dehradun,43000,Diesel,Not available,4500000,Used Car Sales,419
+175,Volkswagen,Volkswagen Vento TSI,2015,Bangalore,48987,Petrol,Not available,725000,Used Car Sales,603
+176,Honda,Honda City SV,2014,Bangalore,55000,Petrol,Not available,625000,Used Car Sales,584
+177,Hyundai,Hyundai Elite i20 Era 1.2,2014,Chennai,29000,Petrol,Not available,515000,Used Car Sales,1387
+178,Volkswagen,Volkswagen Ameo Highline1.5L (D) [2016-2018],2017,Chennai,55000,Diesel,Not available,575000,Used Car Sales,1171
+179,Toyota,Toyota Fortuner 2.8 4x2 AT [2016-2020],2018,Chennai,100000,Diesel,Not available,2700000,Used Car Sales,1203
+180,Hyundai,Hyundai Verna Fluidic 1.6 VTVT SX Opt AT,2019,Chennai,4000,Petrol,Not available,1300000,Used Car Sales,1332
+181,Hyundai,Hyundai Creta 1.6 S Plus AT,2015,Delhi,69000,Diesel,Not available,835000,Used Car Sales,303
+182,Hyundai,Hyundai Creta SX Plus 1.6 Petrol,2018,Bangalore,26605,Petrol,Not available,1295000,Used Car Sales,523
+183,Maruti Suzuki,Maruti Suzuki Swift VXi [2014-2017],2016,Bangalore,51016,Petrol,Not available,595000,Used Car Sales,513
+184,Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi,2018,Hyderabad,98000,Diesel,Not available,930000,Used Car Sales,888
+185,Audi,Audi Q3 30 TDI Premium FWD,2018,Pune,33000,Diesel,Not available,2750000,Used Car Sales,1677
+186,Hyundai,Hyundai i10 Asta 1.2 AT with Sunroof,2011,Chennai,22000,Petrol,Not available,360000,Used Car Sales,1328
+187,Maruti Suzuki,Maruti Suzuki Baleno Zeta 1.2 AT,2016,Thane,22272,Petrol,Not available,699000,Used Car Sales,219
+188,Hyundai,Hyundai Grand i10 Asta 1.2 Kappa VTVT [2013-2016],2018,Hyderabad,43000,Petrol,Not available,625000,Used Car Sales,983
+189,Mercedes-Benz,Mercedes-Benz GLE Coupe 43 4MATIC [2017-2019],2018,Hyderabad,26000,Petrol,Not available,8500000,Used Car Sales,807
+190,Mercedes-Benz,Mercedes-Benz GLA 200 CDI Sport,2015,Mumbai,52717,Diesel,Not available,1950000,Used Car Sales,32
+191,Bmw,BMW X5 xDrive35i Pure Experience (5 seater),2017,Delhi,47000,Petrol,Not available,4700000,Used Car Sales,439
+192,Mercedes-Benz,Mercedes-Benz M-Class 350 CDI,2012,Hyderabad,83000,Diesel,Not available,2900000,Used Car Sales,795
+193,Hyundai,Hyundai Creta SX 1.6 CRDi,2018,Pune,55600,Diesel,Not available,1275000,Used Car Sales,1580
+194,Skoda,Skoda Rapid Elegance 1.6 TDI CR MT,2012,Pune,58000,Diesel,Not available,400000,Used Car Sales,1660
+195,Ford,Ford EcoSport Titanium 1.5L TDCi,2016,Chennai,68000,Diesel,Not available,575000,Used Car Sales,1146
+196,Maruti Suzuki,Maruti Suzuki Baleno Alpha 1.2,2017,Bangalore,33905,Petrol,Not available,735000,Used Car Sales,497
+197,Skoda,Skoda Superb Elegance TSI AT,2010,Bangalore,61000,Petrol,Not available,675000,Used Car Sales,496
+198,Honda,Honda City 1.5 E MT,2012,Chennai,40000,Petrol,Not available,525000,Used Car Sales,1034
+199,Hyundai,Hyundai Verna 1.6 VTVT SX (O),2019,Chennai,10000,Petrol,Not available,1195000,Used Car Sales,985
+200,Maruti Suzuki,Maruti Suzuki Swift DZire VDI,2012,Ghaziabad,66000,Diesel,Not available,245000,Used Car Sales,337
+201,Maruti Suzuki,Maruti Suzuki Alto K10 LXi,2011,Pune,51921,Petrol,Not available,220000,Used Car Sales,1542
+202,Toyota,Toyota Innova 2.5 VX 7 STR BS-III,2014,Thane,150116,Diesel,Not available,975000,Used Car Sales,204
+203,Mercedes-Benz,Mercedes-Benz A-Class A 180 CDI Style,2014,Delhi,56000,Diesel,Not available,1275000,Used Car Sales,424
+204,Maruti Suzuki,Maruti Suzuki Ciaz Alpha 1.4 AT,2018,Delhi,34000,Petrol,Not available,910000,Used Car Sales,453
+205,Bmw,BMW X3 xDrive-20d xLine,2016,Chennai,40000,Diesel,Not available,3400000,Used Car Sales,1156
+206,Tata,Tata Safari Storme 2019 2.2 VX 4x2 Varicor400,2018,Hyderabad,194000,Diesel,Not available,999000,Used Car Sales,923
+207,Maruti Suzuki,Maruti Suzuki Swift ZXi 1.2 BS-IV,2010,Hyderabad,44900,Petrol,Not available,365000,Used Car Sales,823
+208,Mercedes-Benz,Mercedes-Benz E-Class E 220d Expression [2019-2019],2018,Dehradun,38200,Diesel,Not available,4700000,Used Car Sales,417
+209,Maruti Suzuki,Maruti Suzuki Ertiga VDi,2014,Hyderabad,126000,Diesel,Not available,725000,Used Car Sales,884
+210,Skoda,Skoda Superb L&K TSI AT,2021,Mumbai,7500,Petrol,Not available,3495000,Used Car Sales,226
+211,Hyundai,Hyundai i10 1.1L iRDE Magna Special Edition,2015,Chennai,54000,Petrol,Not available,325000,Used Car Sales,1388
+212,Renault,Renault Duster 85 PS RxL Diesel,2012,Hyderabad,77000,Diesel,Not available,430000,Used Car Sales,906
+213,Bmw,BMW X1 sDrive20d Expedition,2019,Bangalore,17800,Diesel,Not available,3785000,Used Car Sales,610
+214,Toyota,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],2019,Delhi,38000,Diesel,Not available,2325000,Used Car Sales,412
+215,Audi,Audi A4 2.0 TDI (143bhp),2013,Mumbai,79000,Diesel,Not available,1150000,Used Car Sales,52
+216,Skoda,Skoda Superb Elegance 2.0 TDI CR AT,2010,Chennai,104000,Diesel,Not available,600000,Used Car Sales,1444
+217,Honda,Honda City VX (O) MT BL,2019,Delhi,21963,Petrol,Not available,1145000,Used Car Sales,431
+218,Hyundai,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,2015,Bangalore,63900,Petrol,Not available,489000,Used Car Sales,611
+219,Mercedes-Benz,Mercedes-Benz E-Class E 350 d Exclusive [2017-2019],2018,Delhi,14880,Diesel,Not available,5175000,Used Car Sales,447
+220,Kia,Kia Seltos GTX Plus AT 1.5 Diesel [2019-2020],2020,Hyderabad,57786,Diesel,Not available,1850000,Used Car Sales,766
+221,Honda,Honda City V Diesel,2016,Mumbai,69380,Diesel,Not available,685000,Used Car Sales,24
+222,Hyundai,Hyundai Creta SX (O) 1.5 Diesel,2020,Hyderabad,23906,Diesel,Not available,1890000,Used Car Sales,981
+223,Bentley,Bentley Continental Flying Spur W12,2011,Hyderabad,45000,Petrol,Not available,9500000,Used Car Sales,821
+224,Hyundai,Hyundai i10 Sportz 1.2 Kappa2,2011,Pune,62000,Petrol,Not available,275000,Used Car Sales,1632
+225,Ford,Ford Endeavour Titanium 2.2 4x2 AT,2019,Delhi,40000,Diesel,Not available,3000000,Used Car Sales,368
+226,Maruti Suzuki,Maruti Suzuki Alto 800 Lxi,2014,Hyderabad,21000,Petrol,Not available,315000,Used Car Sales,902
+227,Renault,Renault Duster RXS CVT,2018,Bangalore,22586,Petrol,Not available,950000,Used Car Sales,579
+228,Volkswagen,Volkswagen Vento Highline Petrol,2016,Hyderabad,70844,Petrol,Not available,690000,Used Car Sales,864
+229,Jaguar,Jaguar XE Portfolio Diesel,2019,Bangalore,14000,Diesel,Not available,4200000,Used Car Sales,711
+230,Maruti Suzuki,Maruti Suzuki Ciaz Alpha 1.4 AT,2018,Delhi,34000,Petrol,Not available,910000,Used Car Sales,440
+231,Hyundai,Hyundai Elite i20 Asta 1.2,2015,Hyderabad,70000,Petrol,Not available,630000,Used Car Sales,903
+232,Bmw,BMW X5 xDrive35i Pure Experience (5 seater),2017,Delhi,47000,Petrol,Not available,4700000,Used Car Sales,474
+233,Maruti Suzuki,Maruti Suzuki Baleno Alpha 1.2,2017,Bangalore,33905,Petrol,Not available,735000,Used Car Sales,529
+234,Mahindra,Mahindra XUV300 1.2 W6 [2019-2019],2020,Chennai,2000,Petrol,Not available,990000,Used Car Sales,1011
+235,Tata,Tata Indica Vista Aura + Quadrajet BS-III,2008,Pune,35000,Diesel,Not available,190000,Used Car Sales,1529
+236,Chevrolet,Chevrolet Beat LS Petrol,2011,Mumbai,31000,Petrol,Not available,171000,Used Car Sales,162
+237,Ford,Ford EcoSport Titanium 1.0 Ecoboost,2014,Chennai,73000,Petrol,Not available,525000,Used Car Sales,1223
+238,Ford,Ford Endeavour Titanium Plus 2.0 4x4 AT,2021,Chennai,8000,Diesel,Not available,3850000,Used Car Sales,986
+239,Hyundai,Hyundai i20 Magna 1.4 CRDI,2012,Hyderabad,80809,Diesel,Not available,390000,Used Car Sales,759
+240,Honda,Honda Jazz V AT Petrol,2016,Mumbai,19768,Petrol,Not available,635000,Used Car Sales,29
+241,Hyundai,Hyundai i10 Era 1.1 iRDE2 [2010-2017],2013,Bangalore,45654,Petrol,Not available,335000,Used Car Sales,539
+242,Hyundai,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],2018,Bangalore,68838,Petrol,Not available,585000,Used Car Sales,568
+243,Renault,Renault Duster 85 PS RXS 4X2 MT Diesel,2019,Chennai,16000,Diesel,Not available,1090000,Used Car Sales,1439
+244,Bmw,BMW 6 Series 645i,2007,Chennai,30900,Petrol,Not available,1800000,Used Car Sales,1073
+245,Volkswagen,Volkswagen Cross Polo 1.5 TDI,2016,Bangalore,36321,Diesel,Not available,685000,Used Car Sales,555
+246,Hyundai,Hyundai Verna CRDI VGT SX 1.5,2010,Hyderabad,86000,Diesel,Not available,380000,Used Car Sales,889
+247,Hyundai,Hyundai i20 Active 1.2 SX,2017,Bangalore,37640,Petrol,Not available,700000,Used Car Sales,632
+248,Honda,Honda Brio S MT,2012,Bangalore,61409,Petrol,Not available,355000,Used Car Sales,606
+249,Hyundai,Hyundai i20 Sportz 1.4 CRDI,2012,Navi Mumbai,84000,Diesel,Not available,349000,Used Car Sales,213
+250,Tata,Tata Zest XMA Diesel,2015,Thane,61649,Diesel,Not available,495000,Used Car Sales,196
+251,Maruti Suzuki,Maruti Suzuki SX4 VXi,2010,Chennai,90000,Petrol,Not available,240000,Used Car Sales,1382
+252,Ford,Ford Endeavour Titanium Plus 2.0 4x4 AT,2021,Chennai,8000,Diesel,Not available,3850000,Used Car Sales,1018
+253,Kia,Kia Seltos GTX 1.4 Dual Tone,2019,Chennai,7000,Petrol,Not available,1590000,Used Car Sales,1142
+254,Bmw,BMW 3 Series 320d Luxury Line,2015,Hyderabad,46000,Diesel,Not available,2400000,Used Car Sales,804
+255,Maruti Suzuki,Maruti Suzuki Ciaz VXi (O),2016,Pune,28000,Petrol,Not available,640000,Used Car Sales,1708
+256,Maruti Suzuki,Maruti Suzuki Baleno Delta 1.2 AT,2018,Pune,56948,Petrol,Not available,640000,Used Car Sales,1601
+257,Maruti Suzuki,Maruti Suzuki S-Cross Alpha 1.6,2017,Hyderabad,36057,Diesel,Not available,930000,Used Car Sales,748
+258,Mercedes-Benz,Mercedes-Benz CLA 45 AMG 4MATIC [2017-2017],2017,Dehradun,17000,Petrol,Not available,4300000,Used Car Sales,415
+259,Mercedes-Benz,Mercedes-Benz GLS 350 d,2019,Chennai,58548,Diesel,Not available,7200000,Used Car Sales,1214
+260,Honda,Honda City 1.5 S MT,2010,Pune,83000,Petrol,Not available,345000,Used Car Sales,1522
+261,Mercedes-Benz,Mercedes-Benz E-Class E250 CDI Avantgarde,2013,Hyderabad,89000,Diesel,Not available,1850000,Used Car Sales,744
+262,Hyundai,Hyundai Elite i20 Sportz 1.2 [2016-2017],2019,Pune,53347,Petrol,Not available,750000,Used Car Sales,1701
+263,Honda,Honda Brio S MT,2012,Pune,47000,Petrol,Not available,320000,Used Car Sales,1523
+264,Hyundai,Hyundai Grand i10 Magna 1.2 Kappa VTVT [2016-2017],2017,Pune,38500,Petrol,Not available,490000,Used Car Sales,1661
+265,Maruti Suzuki,Maruti Suzuki Ertiga VDi,2014,Hyderabad,126000,Diesel,Not available,690000,Used Car Sales,861
+266,Mini,MINI Countryman Cooper D,2018,Mumbai,3900,Diesel,Not available,3445000,Used Car Sales,140
+267,Toyota,Toyota Innova Crysta 2.4 VX 8 STR [2016-2020],2017,Pune,30889,Diesel,Not available,1795000,Used Car Sales,1484
+268,Volkswagen,Volkswagen Vento Comfortline Petrol AT,2015,Mumbai,33000,Petrol,Not available,615000,Used Car Sales,237
+269,Hyundai,Hyundai Creta SX Plus 1.6 Petrol,2017,Bangalore,61307,Petrol,Not available,1145000,Used Car Sales,511
+270,Hyundai,Hyundai i20 Active 1.2 S,2016,Pune,42000,Petrol,Not available,598000,Used Car Sales,1623
+271,Ford,Ford EcoSport Titanium 1.5L TDCi,2016,Hyderabad,46816,Diesel,Not available,745000,Used Car Sales,975
+272,Bmw,BMW 3 Series 325i Sedan,2008,Mumbai,70000,Petrol,Not available,450000,Used Car Sales,111
+273,Lexus,Lexus ES 300h,2017,Delhi,16000,Petrol,Not available,3790000,Used Car Sales,383
+274,Maruti Suzuki,Maruti Suzuki Swift ZDi,2013,Hyderabad,83000,Diesel,Not available,490000,Used Car Sales,919
+275,Honda,Honda Jazz VX Petrol,2019,Chennai,1664,Petrol,Not available,900000,Used Car Sales,1241
+276,Ford,Ford Fiesta ZXi 1.6,2011,Chennai,55000,Petrol,Not available,290000,Used Car Sales,1069
+277,Hyundai,Hyundai i20 Sportz 1.2 BS-IV,2013,Bangalore,39780,Petrol,Not available,460000,Used Car Sales,619
+278,Toyota,Toyota Innova 2.5 GX BS III 8 STR,2015,Chennai,85000,Diesel,Not available,1350000,Used Car Sales,1344
+279,Maruti Suzuki,Maruti Suzuki Swift DZire VDI,2012,Ghaziabad,66000,Diesel,Not available,245000,Used Car Sales,324
+280,Audi,Audi Q7 3.0 TDI quattro Premium Plus,2012,Delhi,65000,Diesel,Not available,1650000,Used Car Sales,410
+281,Skoda,Skoda Rapid ONYX 1.5 TDI LE,2019,Chennai,30000,Diesel,Not available,1090000,Used Car Sales,1448
+282,Bmw,BMW 7 Series 750Li Sedan,2009,Mumbai,27000,Petrol,Not available,1850000,Used Car Sales,58
+283,Tata,Tata Tigor Revotron XZA,2017,Bangalore,47265,Petrol,Not available,545000,Used Car Sales,592
+284,Volkswagen,Volkswagen Polo GT TSI,2015,Delhi,57000,Petrol,Not available,565000,Used Car Sales,275
+285,Volkswagen,Volkswagen Vento Highline Petrol,2013,Chennai,66000,Petrol,Not available,475000,Used Car Sales,1078
+286,Audi,Audi Q7 3.0 TDI quattro Premium,2010,Mumbai,82000,Diesel,Not available,1550000,Used Car Sales,44
+287,Maruti Suzuki,Maruti Suzuki Swift Dzire VXI AT ABS,2016,Bangalore,47057,Petrol,Not available,695000,Used Car Sales,505
+288,Honda,Honda City SV Diesel,2016,Chennai,62000,Diesel,Not available,810000,Used Car Sales,1001
+289,Maruti Suzuki,Maruti Suzuki Swift VDi,2014,Hyderabad,32525,Diesel,Not available,560000,Used Car Sales,752
+290,Mercedes-Benz,Mercedes-Benz C-Class C 220 CDI Avantgarde,2018,Bangalore,18000,Diesel,Not available,3975000,Used Car Sales,634
+291,Bmw,BMW X5 xDrive30d xLine,2019,Bangalore,26000,Diesel,Not available,6600000,Used Car Sales,498
+292,Mercedes-Benz,Mercedes-Benz CLA 200 Petrol Sport,2016,Mumbai,28000,Petrol,Not available,2150000,Used Car Sales,82
+293,Honda,Honda City ZX CVT Petrol [2017-2019],2017,Pune,49000,Petrol,Not available,960000,Used Car Sales,1718
+294,Volkswagen,Volkswagen Vento Highline Petrol AT,2015,Chennai,60000,Petrol,Not available,700000,Used Car Sales,1119
+295,Volkswagen,Volkswagen Jetta Highline TDI,2012,Hyderabad,110000,Diesel,Not available,600000,Used Car Sales,832
+296,Maruti Suzuki,Maruti Suzuki Ertiga VXI CNG,2017,Pune,95000,Cng,Not available,825000,Used Car Sales,1583
+297,Mercedes-Benz,Mercedes-Benz GLE 250 d,2016,Bangalore,70000,Diesel,Not available,4500000,Used Car Sales,715
+298,Honda,Honda WR-V VX MT Petrol,2017,Chennai,4593,Petrol,Not available,800000,Used Car Sales,998
+299,Skoda,Skoda Rapid Ambition 1.6 MPI MT,2012,Mumbai,37000,Petrol,Not available,335000,Used Car Sales,141
+300,Hyundai,Hyundai Xcent S 1.1 CRDi Special Edition,2014,Hyderabad,57000,Diesel,Not available,450000,Used Car Sales,893
+301,Maruti Suzuki,Maruti Suzuki Ertiga ZDI + SHVS,2017,Pune,39000,Diesel,Not available,925000,Used Car Sales,1651
+302,Mahindra,Mahindra XUV500 W8,2012,Chennai,130000,Diesel,Not available,750000,Used Car Sales,1145
+303,Hyundai,Hyundai Creta 1.4 S,2016,Chennai,175000,Diesel,Not available,770000,Used Car Sales,1108
+304,Hyundai,Hyundai i20 Active 1.2 SX,2016,Bangalore,24301,Petrol,Not available,745000,Used Car Sales,640
+305,Mahindra,Mahindra Scorpio S11 2WD 8 STR,2019,Lucknow,53500,Diesel,Not available,1675000,Used Car Sales,433
+306,Land Rover,Land Rover Range Rover Evoque HSE,2017,Chennai,30980,Diesel,Not available,3500000,Used Car Sales,1103
+307,Maruti Suzuki,Maruti Suzuki Swift VXi AMT [2018-2019],2018,Bangalore,39792,Petrol,Not available,680000,Used Car Sales,510
+308,Renault,Renault Duster 110 PS RxZ AWD,2017,Bangalore,57800,Diesel,Not available,999000,Used Car Sales,702
+309,Mercedes-Benz,Mercedes-Benz GLS 350 d,2019,Chennai,58548,Diesel,Not available,7200000,Used Car Sales,1461
+310,Ford,Ford EcoSport Titanium + 1.5L TDCi,2018,Chennai,20000,Diesel,Not available,1090000,Used Car Sales,1015
+311,Honda,Honda Jazz VX CVT Petrol,2019,Chennai,11505,Petrol,Not available,900000,Used Car Sales,1239
+312,Maruti Suzuki,Maruti Suzuki Ciaz Alpha 1.4 AT,2018,Chennai,25000,Petrol,Not available,950000,Used Car Sales,1063
+313,Toyota,Toyota Fortuner 3.0 MT,2010,Pune,141000,Diesel,Not available,1075000,Used Car Sales,1652
+314,Skoda,Skoda Octavia 2.0 TDI L&K,2019,Delhi,51000,Diesel,Not available,1999000,Used Car Sales,484
+315,Toyota,Toyota Glanza V,2019,Mumbai,19500,Petrol,Not available,750000,Used Car Sales,6
+316,Maruti Suzuki,Maruti Suzuki Ciaz Zeta 1.4 AT,2018,Chennai,22000,Petrol,Not available,825000,Used Car Sales,1363
+317,Mahindra,Mahindra XUV500 W8,2011,Pune,75000,Diesel,Not available,520000,Used Car Sales,1639
+318,Maruti Suzuki,Maruti Suzuki Baleno Zeta 1.2 AT,2017,Mumbai,16540,Petrol,Not available,699000,Used Car Sales,14
+319,Jeep,Jeep Compass Longitude (O) 2.0 Diesel [2017-2020],2018,Chennai,39500,Diesel,Not available,1650000,Used Car Sales,1061
+320,Maruti Suzuki,Maruti Suzuki Swift VXi,2015,Pune,30000,Petrol,Not available,510000,Used Car Sales,1668
+321,Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXi CNG,2012,Hyderabad,65000,Cng,Not available,320000,Used Car Sales,928
+322,Volkswagen,Volkswagen Polo Comfortline 1.2L (D),2012,Hyderabad,75893,Diesel,Not available,420000,Used Car Sales,917
+323,Maruti Suzuki,Maruti Suzuki Swift VDi,2017,Pune,95000,Diesel,Not available,630000,Used Car Sales,1515
+324,Honda,Honda CR-V 2.0L 2WD AT,2015,Mumbai,42000,Petrol,Not available,1325000,Used Car Sales,167
+325,Kia,Kia Seltos GTX 1.4 Dual Tone,2019,Chennai,7000,Petrol,Not available,1590000,Used Car Sales,1389
+326,Mahindra,Mahindra XUV500 W8 AWD,2014,Chennai,58200,Diesel,Not available,1050000,Used Car Sales,1318
+327,Honda,Honda Jazz V Petrol,2018,Navi Mumbai,33000,Petrol,Not available,640000,Used Car Sales,185
+328,Honda,Honda Jazz V Petrol,2017,Chennai,13000,Petrol,Not available,725000,Used Car Sales,1394
+329,Toyota,Toyota Innova Crysta 2.4 VX 7 STR [2016-2020],2019,Hyderabad,53000,Diesel,Not available,2100000,Used Car Sales,827
+330,Tata,Tata Tiago Revotron XZ,2016,Mumbai,19000,Petrol,Not available,465000,Used Car Sales,130
+331,Audi,Audi A6 2.0 TDI Premium,2012,Chennai,76000,Diesel,Not available,1700000,Used Car Sales,1466
+332,Hyundai,Hyundai Elite i20 Asta 1.2 [2016-2017],2016,Chennai,57000,Petrol,Not available,630000,Used Car Sales,1294
+333,Audi,Audi A6 2.0 TDI Premium,2013,Dehradun,64000,Diesel,Not available,1650000,Used Car Sales,395
+334,Toyota,Toyota Fortuner 3.0 4x2 MT,2013,Hyderabad,166000,Diesel,Not available,1399000,Used Car Sales,844
+335,Tata,Tata Nano LX,2013,Pune,10000,Petrol,Not available,140000,Used Car Sales,1680
+336,Renault,Renault Lodgy 110 PS RXZ [2015-2016],2015,Bangalore,65349,Diesel,Not available,650000,Used Car Sales,493
+337,Mitsubishi,Mitsubishi Pajero Sport 2.5 AT,2016,Pune,104248,Diesel,Not available,1550000,Used Car Sales,1554
+338,Volkswagen,Volkswagen Polo GT TSI,2021,Hyderabad,8862,Petrol,Not available,1050000,Used Car Sales,755
+339,Audi,Audi Q3 35 TDI Premium + Sunroof,2017,Bangalore,59540,Diesel,Not available,2685000,Used Car Sales,625
+340,Hyundai,Hyundai Creta 1.4 S,2015,Hyderabad,99000,Diesel,Not available,1050000,Used Car Sales,924
+341,Maruti Suzuki,Maruti Suzuki Vitara Brezza VDi (O) [2016-2018],2017,Noida,67000,Diesel,Not available,745000,Used Car Sales,402
+342,Skoda,Skoda Rapid 1.5 TDI CR Elegance AT,2015,Bangalore,60997,Diesel,Not available,745000,Used Car Sales,515
+343,Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI AMT,2016,Bangalore,30000,Petrol,Not available,450000,Used Car Sales,719
+344,Honda,Honda City 1.5 S MT,2009,Bangalore,47957,Petrol,Not available,395000,Used Car Sales,628
+345,Maruti Suzuki,Maruti Suzuki Baleno Zeta 1.2,2016,Thane,48968,Petrol,Not available,621000,Used Car Sales,205
+346,Honda,Honda City VX CVT,2014,Chennai,20000,Petrol,Not available,790000,Used Car Sales,1026
+347,Ford,Ford Endeavour 2.5L 4x2,2011,Chennai,60000,Diesel,Not available,950000,Used Car Sales,1396
+348,Bentley,Bentley Continental Flying Spur W12,2010,Mumbai,49000,Petrol,Not available,7600000,Used Car Sales,42
+349,Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXi CNG,2012,Hyderabad,65000,Cng,Not available,320000,Used Car Sales,938
+350,Bmw,BMW 3 Series GT 330i M Sport [2017-2019],2018,Delhi,18000,Petrol,Not available,3750000,Used Car Sales,362
+351,Hyundai,Hyundai i20 Sportz 1.4 CRDI,2011,Hyderabad,72000,Diesel,Not available,445000,Used Car Sales,926
+352,Hyundai,Hyundai Xcent SX 1.2 (O),2016,Bangalore,21992,Petrol,Not available,585000,Used Car Sales,667
+353,Audi,Audi A3 35 TFSI Technology,2019,Delhi,15000,Petrol,Not available,2550000,Used Car Sales,409
+354,Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXi,2012,Chennai,76000,Petrol,Not available,300000,Used Car Sales,1299
+355,Hyundai,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],2017,Bangalore,27805,Petrol,Not available,585000,Used Car Sales,501
+356,Maruti Suzuki,Maruti Suzuki Celerio VXi AMT,2014,Hyderabad,24500,Petrol,Not available,375000,Used Car Sales,833
+357,Ford,Ford EcoSport Titanium 1.5L Ti-VCT AT,2016,Chennai,69000,Petrol,Not available,680000,Used Car Sales,1116
+358,Honda,Honda BR-V V CVT Petrol,2016,Thane,28367,Petrol,Not available,855000,Used Car Sales,197
+359,Bmw,BMW X5 SAV 4.4i,2006,Pune,100004,Petrol,Not available,680000,Used Car Sales,1566
+360,Maruti Suzuki,Maruti Suzuki Celerio ZXi,2016,Chennai,35000,Petrol,Not available,425000,Used Car Sales,1093
+361,Honda,Honda City V,2016,Chennai,45000,Petrol,Not available,790000,Used Car Sales,1330
+362,Hyundai,Hyundai Verna 1.6 VTVT SX,2017,Bangalore,38000,Petrol,Not available,925000,Used Car Sales,705
+363,Hyundai,Hyundai Verna Fluidic 1.6 VTVT SX,2013,Delhi,41931,Petrol,Not available,450000,Used Car Sales,248
+364,Maruti Suzuki,Maruti Suzuki Vitara Brezza VXi,2020,Ghaziabad,12240,Petrol,Not available,860000,Used Car Sales,327
+365,Honda,Honda City 1.5 S MT,2009,Hyderabad,121580,Petrol,Not available,385000,Used Car Sales,939
+366,Maruti Suzuki,Maruti Suzuki Ritz VXI BS-IV,2012,Mumbai,56452,Petrol,Not available,315000,Used Car Sales,145
+367,Mini,MINI Cooper 1.6,2013,Hyderabad,38000,Petrol,Not available,1900000,Used Car Sales,799
+368,Renault,Renault Duster 85 PS RxL Diesel,2014,Noida,71000,Diesel,Not available,445000,Used Car Sales,330
+369,Maruti Suzuki,Maruti Suzuki Ertiga ZDi,2013,Bangalore,56000,Diesel,Not available,650000,Used Car Sales,728
+370,Audi,Audi Q3 35 TDI quattro Premium Plus,2018,Chennai,81296,Diesel,Not available,2650000,Used Car Sales,1126
+371,Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2014,Pune,20000,Petrol,Not available,375000,Used Car Sales,1494
+372,Hyundai,Hyundai Creta SX 1.5 Petrol,2020,Delhi,14320,Petrol,Not available,1690000,Used Car Sales,338
+373,Hyundai,Hyundai Xcent S 1.1 CRDi,2016,Hyderabad,127000,Diesel,Not available,430000,Used Car Sales,747
+374,Renault,Renault Kwid 1.0 RXT AMT Opt [2016-2019],2018,Bangalore,14981,Petrol,Not available,415000,Used Car Sales,738
+375,Maruti Suzuki,Maruti Suzuki Swift LXi,2011,Delhi,55000,Petrol,Not available,260000,Used Car Sales,328
+376,Audi,Audi A6 35 TDI Premium,2015,Delhi,14000,Diesel,Not available,2150000,Used Car Sales,384
+377,Maruti Suzuki,Maruti Suzuki Dzire VDi,2018,Pune,77000,Diesel,Not available,850000,Used Car Sales,1656
+378,Nissan,Nissan Micra XE Petrol,2011,Chennai,51000,Petrol,Not available,225000,Used Car Sales,1356
+379,Land Rover,Land Rover Range Rover Evoque SE Dynamic,2018,Dehradun,19500,Diesel,Not available,4900000,Used Car Sales,77
+380,Volvo,Volvo S60 Kinetic D4,2018,Hyderabad,35000,Diesel,Not available,2800000,Used Car Sales,786
+381,Mahindra,Mahindra KUV100 NXT K8 D 6 STR,2018,Delhi,32000,Diesel,Not available,545000,Used Car Sales,279
+382,Maruti Suzuki,Maruti Suzuki Celerio VXi AMT,2014,Bangalore,46160,Petrol,Not available,400000,Used Car Sales,561
+383,Mahindra,Mahindra XUV500 W11(O) [2018-2020],2019,Bangalore,28713,Diesel,Not available,1785000,Used Car Sales,520
+384,Hyundai,Hyundai Santro Sportz AMT [2018-2020],2018,Bangalore,14800,Petrol,Not available,575000,Used Car Sales,682
+385,Hyundai,Hyundai Xcent S AT 1.2 (O),2016,Mumbai,41280,Petrol,Not available,595000,Used Car Sales,15
+386,Mercedes-Benz,Mercedes-Benz GLS 350 d,2016,Chennai,82420,Diesel,Not available,5200000,Used Car Sales,1210
+387,Toyota,Toyota Innova 2.5 G BS IV 7 STR,2015,Thane,156334,Diesel,Not available,1030000,Used Car Sales,193
+388,Maruti Suzuki,Maruti Suzuki Celerio VXi AMT,2015,Pune,59509,Petrol,Not available,400000,Used Car Sales,1605
+389,Mercedes-Benz,Mercedes-Benz E-Class E 350 d Exclusive [2017-2019],2018,Delhi,14880,Diesel,Not available,5175000,Used Car Sales,249
+390,Bmw,BMW 5 Series 520d Sedan,2012,Chennai,82000,Diesel,Not available,1800000,Used Car Sales,1475
+391,Maruti Suzuki,Maruti Suzuki Celerio ZXi AMT [2019-2020],2015,Bangalore,35153,Petrol,Not available,470000,Used Car Sales,557
+392,Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXi,2012,Chennai,76000,Petrol,Not available,300000,Used Car Sales,1312
+393,Mercedes-Benz,Mercedes-Benz C-Class C 250 CDI BlueEFFICIENCY,2012,Chennai,87500,Diesel,Not available,1400000,Used Car Sales,1123
+394,Renault,Renault Kwid 1.0 RXL AMT [2017-2019],2017,Bangalore,13839,Petrol,Not available,410000,Used Car Sales,649
+395,Volkswagen,Volkswagen Vento Highline Plus 1.5 (D) 16 Alloy,2017,Bangalore,42876,Diesel,Not available,945000,Used Car Sales,519
+396,Ford,Ford Figo Duratec Petrol Titanium 1.2,2011,Pune,75732,Petrol,Not available,215000,Used Car Sales,1543
+397,Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi+ Dual Tone [2017-2018],2017,Delhi,18500,Diesel,Not available,825000,Used Car Sales,326
+398,Toyota,Toyota Innova 2.5 E 8 STR,2012,Hyderabad,135000,Diesel,Not available,825000,Used Car Sales,856
+399,Audi,Audi Q5 2.0 TDI quattro Premium Plus,2014,Mumbai,49000,Diesel,Not available,1875000,Used Car Sales,35
+400,Mercedes-Benz,Mercedes-Benz E-Class E 220d Exclusive [2019-2019],2020,Delhi,8000,Diesel,Not available,5600000,Used Car Sales,463
+401,Honda,Honda City 1.5 S MT,2010,Delhi,58000,Petrol,Not available,310000,Used Car Sales,477
+402,Honda,Honda City SV Diesel,2016,Chennai,62000,Diesel,Not available,810000,Used Car Sales,1247
+403,Volkswagen,Volkswagen Polo GT TSI,2021,Pune,11000,Petrol,Not available,1015000,Used Car Sales,1675
+404,Mercedes-Benz,Mercedes-Benz B-Class B180,2013,Mumbai,67000,Petrol,Not available,1050000,Used Car Sales,93
+405,Audi,Audi A4 2.0 TDI (177bhp) Premium Sport,2013,Dehradun,63700,Diesel,Not available,1450000,Used Car Sales,394
+406,Audi,Audi Q3 2.0 TDI quattro Premium,2014,Mumbai,65000,Diesel,Not available,1455000,Used Car Sales,212
+407,Toyota,Toyota Fortuner 2.8 4x4 AT [2016-2020],2020,Bangalore,10906,Diesel,Not available,4100000,Used Car Sales,736
+408,Hyundai,Hyundai Elite i20 Asta 1.2 (O) [2016],2016,Pune,24694,Petrol,Not available,650000,Used Car Sales,1507
+409,Maruti Suzuki,Maruti Suzuki Swift Dzire VDi BS-IV,2010,Hyderabad,83000,Diesel,Not available,355000,Used Car Sales,953
+410,Tata,Tata Hexa XT 4x4 7 STR,2017,Chennai,85000,Diesel,Not available,1075000,Used Car Sales,1432
+411,Ford,Ford EcoSport Titanium + 1.5L TDCi,2018,Chennai,20000,Diesel,Not available,1090000,Used Car Sales,1264
+412,Volvo,Volvo XC90 D5 AWD,2018,Chennai,141900,Diesel,Not available,4200000,Used Car Sales,1059
+413,Hyundai,Hyundai Creta SX (O) 1.5 Diesel Automatic,2020,Mumbai,7800,Diesel,Not available,1990000,Used Car Sales,168
+414,Honda,Honda City 1.5 S AT,2011,Chennai,80000,Petrol,Not available,490000,Used Car Sales,1036
+415,Mercedes-Benz,Mercedes-Benz M-Class ML 350 CDI,2013,Chennai,120000,Diesel,Not available,2400000,Used Car Sales,1422
+416,Tata,Tata Hexa XTA 4x2 7 STR,2019,Hyderabad,27000,Diesel,Not available,1775000,Used Car Sales,946
+417,Hyundai,Hyundai Verna 1.6 CRDI SX (O),2018,Chennai,38000,Diesel,Not available,1250000,Used Car Sales,1127
+418,Mahindra,Mahindra Alturas G4 2WD AT [2018-2020],2019,Chennai,30000,Diesel,Not available,2700000,Used Car Sales,1229
+419,Honda,Honda City VX (O) MT Diesel,2017,Hyderabad,94000,Diesel,Not available,975000,Used Car Sales,976
+420,Maruti Suzuki,Maruti Suzuki Dzire VDi,2018,Pune,83074,Diesel,Not available,750000,Used Car Sales,1642
+421,Honda,Honda CR-V 2.4 AT,2007,Mumbai,195000,Petrol,Not available,290000,Used Car Sales,229
+422,Audi,Audi A6 2.0 TDI Premium Plus,2014,Mumbai,71000,Diesel,Not available,1550000,Used Car Sales,53
+423,Mercedes-Benz,Mercedes-Benz C-Class 250 CDI Elegance,2011,Pune,81000,Diesel,Not available,795000,Used Car Sales,1548
+424,Hyundai,Hyundai Verna EX 1.4 VTVT,2019,Chennai,24800,Petrol,Not available,925000,Used Car Sales,1271
+425,Volkswagen,Volkswagen Vento Highline Petrol AT,2015,Chennai,60000,Petrol,Not available,700000,Used Car Sales,1365
+426,Maruti Suzuki,Maruti Suzuki Baleno Zeta,2018,Bangalore,70256,Petrol,Not available,690000,Used Car Sales,570
+427,Hyundai,Hyundai Verna VGT CRDi SX ABS,2009,Mumbai,98000,Diesel,Not available,197000,Used Car Sales,235
+428,Maruti Suzuki,Maruti Suzuki Swift VXi,2008,Bangalore,60000,Petrol,Not available,340000,Used Car Sales,706
+429,Mahindra,Mahindra XUV500 W5 [2018-2020],2018,Chennai,29000,Diesel,Not available,1290000,Used Car Sales,1257
+430,Volkswagen,Volkswagen Polo Highline1.0L (P),2017,Chennai,38000,Petrol,Not available,585000,Used Car Sales,1427
+431,Toyota,Toyota Camry ACV30R,2004,Chennai,70500,Petrol,Not available,500000,Used Car Sales,991
+432,Maruti Suzuki,Maruti Suzuki Baleno Zeta,2018,Bangalore,70256,Petrol,Not available,690000,Used Car Sales,556
+433,Maruti Suzuki,Maruti Suzuki Ciaz ZXI+,2015,Bangalore,74541,Petrol,Not available,699000,Used Car Sales,658
+434,Volkswagen,Volkswagen Polo Comfortline 1.2L (P),2018,Bangalore,31000,Petrol,Not available,725000,Used Car Sales,605
+435,Ford,Ford EcoSport Titanium 1.5 Ti-VCT,2015,Noida,69000,Petrol,Not available,495000,Used Car Sales,291
+436,Maruti Suzuki,Maruti Suzuki A-Star Vxi,2011,Hyderabad,71000,Petrol,Not available,275000,Used Car Sales,830
+437,Maruti Suzuki,Maruti Suzuki Celerio VXi AMT ABS,2016,Pune,31600,Petrol,Not available,450000,Used Car Sales,1606
+438,Renault,Renault Duster 85 PS RxE,2018,Pune,67000,Diesel,Not available,695000,Used Car Sales,1591
+439,Mercedes-Benz,Mercedes-Benz M-Class ML 350 CDI,2013,Chennai,120000,Diesel,Not available,2400000,Used Car Sales,1175
+440,Mahindra,Mahindra XUV500 W6,2017,Hyderabad,40000,Diesel,Not available,1500000,Used Car Sales,769
+441,Ford,Ford Figo Titanium1.5 TDCi,2016,Chennai,40000,Diesel,Not available,475000,Used Car Sales,1384
+442,Honda,Honda WR-V VX MT Diesel,2017,Chennai,46000,Diesel,Not available,875000,Used Car Sales,1266
+443,Bmw,BMW 5 Series 520d M Sport,2018,Hyderabad,51000,Diesel,Not available,5400000,Used Car Sales,801
+444,Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi+ Dual Tone [2017-2018],2019,Chennai,14000,Diesel,Not available,1150000,Used Car Sales,1255
+445,Maruti Suzuki,Maruti Suzuki Vitara Brezza VDi,2018,Bangalore,30356,Diesel,Not available,935000,Used Car Sales,514
+446,Audi,Audi A4 2.0 TFSI,2009,Chennai,65000,Petrol,Not available,1025000,Used Car Sales,1220
+447,Mercedes-Benz,Mercedes-Benz E-Class E220 CDI Blue Efficiency,2009,Hyderabad,82000,Diesel,Not available,1300000,Used Car Sales,791
+448,Honda,Honda Amaze 1.5 S i-DTEC,2013,Chennai,100000,Diesel,Not available,425000,Used Car Sales,1231
+449,Bmw,BMW 3 Series 320d,2011,Chennai,64000,Diesel,Not available,1275000,Used Car Sales,1207
+450,Mahindra,Mahindra XUV500 W7 [2018-2020],2018,Bangalore,53636,Diesel,Not available,1425000,Used Car Sales,509
+451,Ford,Ford EcoSport Titanium + 1.5L TDCi,2018,Chennai,20000,Diesel,Not available,1090000,Used Car Sales,1017
+452,Bmw,BMW 5 Series 520d Luxury Line [2017-2019],2014,Chennai,27000,Diesel,Not available,2800000,Used Car Sales,1105
+453,Mahindra,Mahindra XUV500 W8,2012,Hyderabad,122833,Diesel,Not available,625000,Used Car Sales,885
+454,Maruti Suzuki,Maruti Suzuki Alto K10 VXi,2019,Chennai,13000,Petrol,Not available,390000,Used Car Sales,1311
+455,Renault,Renault Lodgy 110 PS RxL [2015-2016],2015,Mumbai,85400,Diesel,Not available,565000,Used Car Sales,80
+456,Hyundai,Hyundai Verna 1.6 CRDI SX (O),2018,Pune,66563,Diesel,Not available,1150000,Used Car Sales,1658
+457,Mercedes-Benz,Mercedes-Benz S-Class 350 CDI L,2010,Chennai,57000,Diesel,Not available,2400000,Used Car Sales,1289
+458,Honda,Honda City ZX Petrol [2019-2019],2019,Bangalore,15593,Petrol,Not available,1125000,Used Car Sales,629
+459,Skoda,Skoda Rapid Style 1.5 TDI AT,2016,Mumbai,58000,Diesel,Not available,675000,Used Car Sales,23
+460,Maruti Suzuki,Maruti Suzuki Dzire VXi AMT,2018,Hyderabad,30100,Petrol,Not available,745000,Used Car Sales,931
+461,Nissan,Nissan Sunny XV Diesel,2012,Mumbai,119120,Diesel,Not available,325000,Used Car Sales,1
+462,Maruti Suzuki,Maruti Suzuki Baleno Delta 1.2,2015,Noida,58000,Petrol,Not available,465000,Used Car Sales,411
+463,Tata,Tata Hexa XT 4x4 7 STR,2017,Chennai,85000,Diesel,Not available,1075000,Used Car Sales,1185
+464,Mercedes-Benz,Mercedes-Benz G-Class G 63 AMG,2015,Hyderabad,23000,Petrol,Not available,14000000,Used Car Sales,806
+465,Honda,Honda City V,2015,Thane,46475,Petrol,Not available,660000,Used Car Sales,134
+466,Hyundai,Hyundai Xcent SX 1.2 (O),2015,Mumbai,24935,Petrol,Not available,465000,Used Car Sales,10
+467,Hyundai,Hyundai Grand i10 Magna 1.1 CRDi [2016-2017],2017,Chennai,65000,Diesel,Not available,380000,Used Car Sales,1406
+468,Maruti Suzuki,Maruti Suzuki Ertiga VDi,2015,Chennai,75000,Diesel,Not available,725000,Used Car Sales,999
+469,Toyota,Toyota Corolla Altis VL AT Petrol,2016,Thane,31552,Petrol,Not available,1095000,Used Car Sales,216
+470,Honda,Honda WR-V VX MT Petrol,2017,Mumbai,28771,Petrol,Not available,749000,Used Car Sales,19
+471,Maruti Suzuki,Maruti Suzuki Vitara Brezza LDi,2016,Pune,83000,Diesel,Not available,730000,Used Car Sales,1519
+472,Maruti Suzuki,Maruti Suzuki Ritz VXI BS-IV,2010,Chennai,72000,Petrol,Not available,285000,Used Car Sales,1275
+473,Audi,Audi Q7 45 TDI Technology Pack,2019,Delhi,9000,Diesel,Not available,7300000,Used Car Sales,381
+474,Renault,Renault Kwid CLIMBER 1.0 [2017-2019],2017,Delhi,17453,Petrol,Not available,345000,Used Car Sales,320
+475,Ford,Ford EcoSport Titanium 1.5 TDCi,2015,Chennai,92900,Diesel,Not available,600000,Used Car Sales,1085
+476,Audi,Audi Q7 45 TDI Technology Pack,2017,Delhi,31000,Diesel,Not available,5900000,Used Car Sales,342
+477,Jaguar,Jaguar F-Pace Prestige [2016-2017],2017,Dehradun,45700,Diesel,Not available,3700000,Used Car Sales,66
+478,Land Rover,Land Rover Discovery Sport HSE Luxury 7-Seater,2018,Mumbai,65000,Diesel,Not available,4190000,Used Car Sales,223
+479,Toyota,Toyota Fortuner 3.0 MT,2011,Hyderabad,136000,Diesel,Not available,1250000,Used Car Sales,890
+480,Honda,Honda City V,2018,Delhi,17000,Petrol,Not available,890000,Used Car Sales,292
+481,Audi,Audi A4 2.0 TDI (177bhp) Premium Sport,2013,Pune,48000,Diesel,Not available,1380000,Used Car Sales,1567
+482,Hyundai,Hyundai i20 Sportz 1.2 BS-IV,2012,Pune,76000,Petrol,Not available,335000,Used Car Sales,1594
+483,Maruti Suzuki,Maruti Suzuki Swift VDi,2009,Hyderabad,135934,Diesel,Not available,350000,Used Car Sales,865
+484,Volkswagen,Volkswagen Vento Highline Diesel,2015,Chennai,54000,Diesel,Not available,620000,Used Car Sales,1274
+485,Mahindra,Mahindra TUV300 T8 AMT mHAWK100,2016,Chennai,38000,Diesel,Not available,875000,Used Car Sales,1254
+486,Hyundai,Hyundai Santro Xing GLS,2010,Hyderabad,69000,Petrol,Not available,265000,Used Car Sales,933
+487,Maruti Suzuki,Maruti Suzuki Ritz VXI BS-IV,2010,Mumbai,24000,Petrol,Not available,265000,Used Car Sales,21
+488,Maruti Suzuki,Maruti Suzuki Swift ZXi,2016,Hyderabad,82000,Petrol,Not available,650000,Used Car Sales,951
+489,Skoda,Skoda Laura Ambiente 1.9 TDI AT,2010,Hyderabad,80084,Diesel,Not available,420000,Used Car Sales,916
+490,Maruti Suzuki,Maruti Suzuki S-Cross Zeta 1.3,2016,Pune,72000,Diesel,Not available,750000,Used Car Sales,1585
+491,Mercedes-Benz,Mercedes-Benz C-Class C 220 CDI Avantgarde,2015,Chennai,43000,Diesel,Not available,2350000,Used Car Sales,1345
+492,Hyundai,Hyundai Creta EX 1.4 CRDi,2019,Chennai,58000,Diesel,Not available,990000,Used Car Sales,1129
+493,Audi,Audi A4 2.0 TDI (177bhp) Premium,2014,Chennai,72000,Diesel,Not available,1850000,Used Car Sales,1029
+494,Maruti Suzuki,Maruti Suzuki Swift VXi [2014-2017],2016,Delhi,29000,Petrol,Not available,460000,Used Car Sales,445
+495,Honda,Honda City SV,2016,Hyderabad,35000,Petrol,Not available,780000,Used Car Sales,815
+496,Hyundai,Hyundai Grand i10 Era U2 1.2 CRDi,2017,Chennai,62000,Diesel,Not available,380000,Used Car Sales,1125
+497,Maruti Suzuki,Maruti Suzuki Ciaz ZDi SHVS,2016,Pune,79000,Diesel,Not available,750000,Used Car Sales,1527
+498,Mahindra,Mahindra Thar CRDe 4x4 AC1,2017,Hyderabad,76000,Diesel,Not available,875000,Used Car Sales,982
+499,Mercedes-Benz,Mercedes-Benz C-Class C 220 CDI Avantgarde,2015,Mumbai,22341,Diesel,Not available,2500000,Used Car Sales,146
+500,Toyota,Toyota Fortuner 2.8 4x4 MT [2016-2020],2019,Lucknow,85000,Diesel,Not available,2675000,Used Car Sales,397
+501,Toyota,Toyota Innova 2.5 V 7 STR,2012,Chennai,108000,Diesel,Not available,1200000,Used Car Sales,1065
+502,Honda,Honda Amaze 1.2 S i-VTEC,2013,Hyderabad,46888,Petrol,Not available,450000,Used Car Sales,904
+503,Maruti Suzuki,Maruti Suzuki Baleno Zeta 1.3,2016,Hyderabad,93525,Diesel,Not available,680000,Used Car Sales,776
+504,Jaguar,Jaguar F-Pace Prestige,2019,Hyderabad,20763,Diesel,Not available,5900000,Used Car Sales,785
+505,Hyundai,Hyundai Creta SX 1.5 Petrol,2020,Delhi,14320,Petrol,Not available,1690000,Used Car Sales,325
+506,Land Rover,Land Rover Range Rover Sport SE 3.0 Diesel [2018-2020],2019,Delhi,17000,Diesel,Not available,12300000,Used Car Sales,405
+507,Hyundai,Hyundai Creta 1.6 S Plus AT,2017,Bangalore,52165,Diesel,Not available,1345000,Used Car Sales,532
+508,Maruti Suzuki,Maruti Suzuki Swift Dzire LDI,2019,Chennai,62000,Diesel,Not available,600000,Used Car Sales,1417
+509,Jaguar,Jaguar XJ L 3.0 Portfolio,2016,Hyderabad,46000,Diesel,Not available,6850000,Used Car Sales,886
+510,Mercedes-Benz,Mercedes-Benz S-Class 350 CDI L,2012,Mumbai,71000,Diesel,Not available,1950000,Used Car Sales,92
+511,Honda,Honda Jazz SV Petrol,2017,Delhi,28000,Petrol,Not available,575000,Used Car Sales,300
+512,Renault,Renault Duster 85 PS RXS 4X2 MT Diesel,2019,Chennai,16000,Diesel,Not available,1090000,Used Car Sales,1178
+513,Ford,Ford EcoSport Titanium 1.5L TDCi,2017,Pune,107079,Diesel,Not available,675000,Used Car Sales,1598
+514,Nissan,Nissan Sunny XL,2013,Thane,30477,Petrol,Not available,345000,Used Car Sales,128
+515,Ford,Ford Aspire Titanium1.5 TDCi,2017,Bangalore,41917,Diesel,Not available,675000,Used Car Sales,654
+516,Mahindra,Mahindra XUV500 W11 AT,2018,Bangalore,53769,Diesel,Not available,1795000,Used Car Sales,512
+517,Hyundai,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,2017,Thane,54803,Petrol,Not available,521000,Used Car Sales,203
+518,Honda,Honda CR-V 2.4 AT,2008,Delhi,97000,Petrol,Not available,390000,Used Car Sales,266
+519,Audi,Audi A6 35 TDI Matrix,2018,Dehradun,22000,Diesel,Not available,3750000,Used Car Sales,315
+520,Volkswagen,Volkswagen Polo Comfortline 1.2L (P),2010,Pune,41000,Petrol,Not available,295000,Used Car Sales,1595
+521,Honda,Honda Amaze 1.2 V MT Petrol [2018-2020],2018,Bangalore,16950,Petrol,Not available,695000,Used Car Sales,694
+522,Hyundai,Hyundai Venue SX Plus 1.0 Turbo DCT,2019,Chennai,14000,Petrol,Not available,1125000,Used Car Sales,1113
+523,Land Rover,Land Rover Range Rover Evoque Dynamic SD4,2015,Delhi,41000,Diesel,Not available,2850000,Used Car Sales,360
+524,Volkswagen,Volkswagen Jetta Highline TDI AT,2012,Delhi,59000,Diesel,Not available,615000,Used Car Sales,280
+525,Honda,Honda City 1.5 V AT,2012,Chennai,65000,Petrol,Not available,750000,Used Car Sales,1035
+526,Hyundai,Hyundai Creta 1.6 SX Plus AT Petrol,2016,Mumbai,39000,Petrol,Not available,1090000,Used Car Sales,112
+527,Audi,Audi Q3 35 TDI Premium Plus,2015,Chennai,76000,Diesel,Not available,2200000,Used Car Sales,1425
+528,Hyundai,Hyundai i20 Active 1.2 SX,2015,Thane,98877,Petrol,Not available,525000,Used Car Sales,124
+529,Hyundai,Hyundai Creta 1.6 SX Plus AT Petrol,2018,Bangalore,50192,Petrol,Not available,1345000,Used Car Sales,524
+530,Maruti Suzuki,Maruti Suzuki Alto LXi BS-IV,2010,Pune,38000,Petrol,Not available,165000,Used Car Sales,1710
+531,Honda,Honda BR-V VX Diesel,2019,Hyderabad,55000,Diesel,Not available,1075000,Used Car Sales,829
+532,Maruti Suzuki,Maruti Suzuki Alto 800 Lxi,2015,Bangalore,18760,Petrol,Not available,325000,Used Car Sales,642
+533,Toyota,Toyota Fortuner 2.5 Sportivo 4x2 MT,2013,Thane,118363,Diesel,Not available,1451000,Used Car Sales,123
+534,Toyota,Toyota Innova 2.5 V 8 STR,2009,Mumbai,65000,Diesel,Not available,525000,Used Car Sales,164
+535,Land Rover,Land Rover Range Rover Evoque Dynamic SD4,2015,Mumbai,77000,Diesel,Not available,2600000,Used Car Sales,105
+536,Ford,Ford EcoSport Titanium 1.5L TDCi,2016,Chennai,34000,Diesel,Not available,750000,Used Car Sales,1409
+537,Chevrolet,Chevrolet Cruze LTZ AT,2012,Pune,87387,Diesel,Not available,405000,Used Car Sales,1640
+538,Honda,Honda City 1.5 S MT,2010,Pune,83000,Petrol,Not available,345000,Used Car Sales,1535
+539,Audi,Audi A6 2.0 TDI Premium,2013,Pune,67000,Diesel,Not available,1650000,Used Car Sales,1659
+540,Maruti Suzuki,Maruti Suzuki Baleno Zeta 1.2 AT,2017,Bangalore,39640,Petrol,Not available,785000,Used Car Sales,665
+541,Honda,Honda City 1.5 V MT,2013,Mumbai,98602,Petrol,Not available,418000,Used Car Sales,81
+542,Honda,Honda Jazz S MT [2015-2016],2016,Bangalore,44814,Petrol,Not available,580000,Used Car Sales,544
+543,Hyundai,Hyundai Elite i20 Magna 1.2,2015,Bangalore,13065,Petrol,Not available,569000,Used Car Sales,575
+544,Ford,Ford EcoSport Titanium 1.5 Ti-VCT AT,2019,Chennai,23000,Petrol,Not available,850000,Used Car Sales,1472
+545,Honda,Honda City 1.5 V AT,2011,Thane,47209,Petrol,Not available,465000,Used Car Sales,199
+546,Audi,Audi A4 35 TDI Premium Plus,2020,Chennai,16000,Diesel,Not available,4400000,Used Car Sales,1473
+547,Maruti Suzuki,Maruti Suzuki Baleno Delta Automatic,2021,Mumbai,350,Petrol,Not available,900000,Used Car Sales,195
+548,Mercedes-Benz,Mercedes-Benz C-Class C 220 CDI Avantgarde,2015,Chennai,43000,Diesel,Not available,2350000,Used Car Sales,1098
+549,Hyundai,Hyundai Creta 1.6 SX Plus,2016,Pune,75106,Diesel,Not available,1050000,Used Car Sales,1691
+550,Hyundai,Hyundai Grand i10 Asta 1.2 Kappa VTVT [2013-2016],2015,Pune,98265,Petrol,Not available,435000,Used Car Sales,1544
+551,Mahindra,Mahindra Verito 1.5 D4 BS-IV,2017,Hyderabad,67475,Diesel,Not available,450000,Used Car Sales,760
+552,Honda,Honda Amaze 1.2 VX i-VTEC,2018,Hyderabad,17774,Petrol,Not available,820000,Used Car Sales,901
+553,Mahindra,Mahindra XUV500 W10 AWD AT,2016,Pune,145368,Diesel,Not available,1200000,Used Car Sales,1602
+554,Toyota,Toyota Corolla H2 1.8E,2005,Hyderabad,174000,Petrol,Not available,245000,Used Car Sales,927
+555,Ford,Ford Endeavour Titanium 3.2 4x4 AT,2017,Delhi,50000,Diesel,Not available,2750000,Used Car Sales,454
+556,Mercedes-Benz,Mercedes-Benz S-Class S 350 CDI,2016,Chennai,70000,Diesel,Not available,5850000,Used Car Sales,1064
+557,Nissan,Nissan Sunny XV CVT,2017,Thane,41584,Petrol,Not available,635000,Used Car Sales,207
+558,Ford,Ford EcoSport Titanium 1.5L TDCi,2016,Chennai,68000,Diesel,Not available,575000,Used Car Sales,1393
+559,Maruti Suzuki,Maruti Suzuki Wagon R VXi Minor,2009,Pune,52080,Petrol,Not available,250000,Used Car Sales,1682
+560,Hyundai,Hyundai Fluidic Verna 4S 1.6 VTVT S,2016,Bangalore,42811,Petrol,Not available,699000,Used Car Sales,549
+561,Nissan,Nissan Micra Active XV,2014,Pune,52000,Petrol,Not available,405000,Used Car Sales,1514
+562,Bmw,BMW X5 xDrive35i Pure Experience (5 seater),2017,Delhi,47000,Petrol,Not available,4700000,Used Car Sales,456
+563,Ford,Ford Endeavour Titanium 3.2 4x4 AT,2017,Mumbai,12000,Diesel,Not available,2975000,Used Car Sales,110
+564,Toyota,Toyota Innova Crysta 2.4 VX 7 STR [2016-2020],2018,Chennai,7686,Diesel,Not available,2150000,Used Car Sales,1240
+565,Hyundai,Hyundai Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],2015,Pune,38660,Petrol,Not available,515000,Used Car Sales,1539
+566,Ford,Ford EcoSport Titanium 1.5L Ti-VCT AT,2015,Pune,51985,Petrol,Not available,700000,Used Car Sales,1695
+567,Toyota,Toyota Innova 2.5 V 7 STR,2013,Chennai,130000,Diesel,Not available,1250000,Used Car Sales,1157
+568,Volkswagen,Volkswagen Polo Highline1.2L (P),2016,Hyderabad,64654,Petrol,Not available,630000,Used Car Sales,817
+569,Maruti Suzuki,Maruti Suzuki Baleno Delta 1.2,2018,Pune,32228,Petrol,Not available,630000,Used Car Sales,1479
+570,Bmw,BMW 7 Series 730Ld Prestige,2015,Dehradun,48000,Diesel,Not available,3700000,Used Car Sales,305
+571,Maruti Suzuki,Maruti Suzuki Wagon R 1.0 LXI,2014,Hyderabad,45000,Petrol,Not available,365000,Used Car Sales,873
+572,Honda,Honda Jazz S,2012,Bangalore,52616,Petrol,Not available,405000,Used Car Sales,643
+573,Jeep,Jeep Compass Limited Plus Petrol AT [2018-2020],2018,Ghaziabad,16000,Petrol,Not available,1650000,Used Car Sales,251
+574,Maruti Suzuki,Maruti Suzuki Alto K10 VXi,2013,Pune,61923,Petrol,Not available,260000,Used Car Sales,1686
+575,Maruti Suzuki,Maruti Suzuki Baleno Zeta 1.2 AT,2018,Bangalore,70256,Petrol,Not available,690000,Used Car Sales,678
+576,Volvo,Volvo XC90 D5 AWD,2018,Chennai,141900,Diesel,Not available,4200000,Used Car Sales,1068
+577,Renault,Renault Pulse RxZ Airbags,2014,Bangalore,63756,Diesel,Not available,435000,Used Car Sales,554
+578,Honda,Honda City V Petrol [2017-2019],2017,Hyderabad,44150,Petrol,Not available,775000,Used Car Sales,967
+579,Skoda,Skoda Laura Ambition 1.8 TSI,2013,Chennai,106000,Petrol,Not available,625000,Used Car Sales,1163
+580,Volvo,Volvo XC60 D5 AWD AT,2011,Chennai,80000,Diesel,Not available,1150000,Used Car Sales,1080
+581,Maruti Suzuki,Maruti Suzuki Ciaz ZXi,2015,Chennai,62000,Petrol,Not available,675000,Used Car Sales,1107
+582,Hyundai,Hyundai Santro Xing XL eRLX - Euro III,2007,Pune,87000,Petrol,Not available,110000,Used Car Sales,1616
+583,Bmw,BMW 5 Series 530d M Sport [2013-2017],2015,Dehradun,77000,Diesel,Not available,2350000,Used Car Sales,156
+584,Audi,Audi A3 35 TDI Premium + Sunroof,2015,Chennai,58600,Diesel,Not available,1850000,Used Car Sales,1460
+585,Jaguar,Jaguar XE Prestige Diesel,2019,Delhi,27000,Diesel,Not available,3300000,Used Car Sales,348
+586,Hyundai,Hyundai Creta 1.4 S,2016,Chennai,175000,Diesel,Not available,770000,Used Car Sales,1355
+587,Tata,Tata Nexon KRAZ Plus AMT Diesel,2018,Pune,16900,Diesel,Not available,900000,Used Car Sales,1510
+588,Mahindra,Mahindra XUV300 1.5 W8 (O) AMT [2019-2020],2019,Bangalore,149313,Diesel,Not available,1290000,Used Car Sales,578
+589,Hyundai,Hyundai i10 Sportz 1.2 Kappa2,2011,Delhi,71000,Petrol,Not available,225000,Used Car Sales,465
+590,Volkswagen,Volkswagen Polo GT TDI,2013,Pune,110369,Diesel,Not available,400000,Used Car Sales,1603
+591,Mahindra,Mahindra Thar DI 4WD PS BS III,2013,Hyderabad,60628,Diesel,Not available,585000,Used Car Sales,849
+592,Bmw,BMW 3 Series 320d Sport Line,2014,Chennai,55000,Diesel,Not available,2250000,Used Car Sales,1236
+593,Tata,Tata Hexa XTA 4x2 6 STR,2017,Pune,49558,Diesel,Not available,1330000,Used Car Sales,1684
+594,Audi,Audi A6 2.0 TDI Premium,2015,Delhi,75000,Diesel,Not available,1975000,Used Car Sales,370
+595,Jaguar,Jaguar XE Prestige Diesel,2018,Dehradun,23500,Diesel,Not available,3500000,Used Car Sales,67
+596,Renault,Renault Kwid 1.0 RXT AMT Opt [2016-2019],2018,Bangalore,22795,Petrol,Not available,445000,Used Car Sales,562
+597,Toyota,Toyota Innova 2.5 G4 8 STR,2005,Bangalore,202000,Diesel,Not available,550000,Used Car Sales,709
+598,Audi,Audi A4 2.0 TDI (177bhp) Premium,2011,Chennai,44000,Diesel,Not available,1200000,Used Car Sales,1060
+599,Hyundai,Hyundai Creta E Plus 1.6 Petrol,2019,Delhi,18854,Petrol,Not available,975000,Used Car Sales,336
+600,Jeep,Jeep Compass Limited (O) 1.4 Petrol AT [2017-2020],2017,Hyderabad,30000,Petrol,Not available,1650000,Used Car Sales,793
+601,Chevrolet,Chevrolet Beat LS Diesel,2014,Delhi,39000,Diesel,Not available,195000,Used Car Sales,481
+602,Volkswagen,Volkswagen Cross Polo 1.2 TDI,2013,Pune,71000,Diesel,Not available,470000,Used Car Sales,1565
+603,Mahindra,Mahindra TUV300 T8,2016,Chennai,64000,Diesel,Not available,675000,Used Car Sales,1395
+604,Hyundai,Hyundai Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],2016,Bangalore,40198,Petrol,Not available,575000,Used Car Sales,683
+605,Mahindra,Mahindra XUV500 W7 [2018-2020],2018,Bangalore,53636,Diesel,Not available,1425000,Used Car Sales,506
+606,Bmw,BMW 7 Series 730Ld DPE (CBU),2016,Chennai,54000,Diesel,Not available,5650000,Used Car Sales,1298
+607,Hyundai,Hyundai Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],2015,Mumbai,20100,Petrol,Not available,445000,Used Car Sales,31
+608,Renault,Renault Kwid 1.0 RXT AMT Opt [2016-2019],2018,Bangalore,22795,Petrol,Not available,445000,Used Car Sales,656
+609,Bmw,BMW 5 Series 520d Sedan,2011,Pune,91000,Diesel,Not available,1275000,Used Car Sales,1547
+610,Mercedes-Benz,Mercedes-Benz S-Class 350,2008,Hyderabad,38530,Petrol,Not available,1500000,Used Car Sales,773
+611,Honda,Honda Amaze 1.2 S i-VTEC,2015,Ghaziabad,61000,Petrol,Not available,390000,Used Car Sales,482
+612,Maruti Suzuki,Maruti Suzuki Baleno Alpha 1.2,2017,Mumbai,40119,Petrol,Not available,610000,Used Car Sales,12
+613,Audi,Audi A6 2.0 TDI Premium,2014,Mumbai,76000,Diesel,Not available,1650000,Used Car Sales,59
+614,Audi,Audi Q7 3.0 TDI quattro Premium Plus,2013,Mumbai,43000,Diesel,Not available,2050000,Used Car Sales,171
+615,Audi,Audi A6 35 TDI Premium,2013,Chennai,40000,Diesel,Not available,2100000,Used Car Sales,1474
+616,Hyundai,Hyundai Venue SX Plus 1.0 Turbo DCT,2019,Chennai,14000,Petrol,Not available,1125000,Used Car Sales,1372
+617,Mercedes-Benz,Mercedes-Benz GLC 220 d Sport,2017,Hyderabad,57000,Diesel,Not available,4300000,Used Car Sales,896
+618,Toyota,Toyota Innova 2.5 G BS IV 7 STR,2015,Pune,142502,Diesel,Not available,1000000,Used Car Sales,1653
+619,Mercedes-Benz,Mercedes-Benz GLC 220 d Progressive,2020,Delhi,9000,Diesel,Not available,5700000,Used Car Sales,429
+620,Maruti Suzuki,Maruti Suzuki Wagon R LXi Minor,2009,Pune,17014,Petrol,Not available,235000,Used Car Sales,1604
+621,Mercedes-Benz,Mercedes-Benz GLC 220 d Sport,2018,Dehradun,43000,Diesel,Not available,4500000,Used Car Sales,422
+622,Maruti Suzuki,Maruti Suzuki Alto 800 Lxi,2015,Bangalore,18760,Petrol,Not available,375000,Used Car Sales,547
+623,Jaguar,Jaguar XJ L 5.0 Petrol SC Supersport,2012,Pune,71000,Petrol,Not available,2675000,Used Car Sales,1564
+624,Maruti Suzuki,Maruti Suzuki Alto K10 VXi,2019,Chennai,13000,Petrol,Not available,390000,Used Car Sales,1300
+625,Maruti Suzuki,Maruti Suzuki SX4 VXi,2010,Chennai,90000,Petrol,Not available,240000,Used Car Sales,1133
+626,Renault,Renault Captur RXT Diesel Dual Tone,2018,Hyderabad,43000,Diesel,Not available,1050000,Used Car Sales,957
+627,Toyota,Toyota Etios Liva V,2012,Mumbai,54215,Petrol,Not available,325000,Used Car Sales,239
+628,Mercedes-Benz,Mercedes-Benz GLE 250 d,2017,Mumbai,42442,Diesel,Not available,4550000,Used Car Sales,27
+629,Land Rover,Land Rover Discovery Sport HSE,2016,Hyderabad,66000,Diesel,Not available,3900000,Used Car Sales,797
+630,Maruti Suzuki,Maruti Suzuki Ciaz Alpha 1.4 MT,2018,Delhi,27000,Petrol,Not available,895000,Used Car Sales,414
+631,Audi,Audi A6 35 TDI Matrix,2018,Dehradun,22000,Diesel,Not available,3750000,Used Car Sales,72
+632,Volkswagen,Volkswagen Polo GT TSI,2015,Chennai,50000,Petrol,Not available,700000,Used Car Sales,1308
+633,Honda,Honda City 1.5 V MT,2012,Chennai,55000,Petrol,Not available,550000,Used Car Sales,1081
+634,Audi,Audi Q3 2.0 TDI quattro Premium,2014,Thane,45095,Diesel,Not available,1650000,Used Car Sales,119
+635,Audi,Audi Q7 35 TDI Technology Pack,2014,Mumbai,107000,Diesel,Not available,2250000,Used Car Sales,48
+636,Honda,Honda City 1.5 V MT,2012,Chennai,55000,Petrol,Not available,550000,Used Car Sales,1322
+637,Skoda,Skoda Fabia Elegance 1.2 MPI,2011,Pune,81428,Petrol,Not available,250000,Used Car Sales,1546
+638,Mini,MINI Cooper S,2019,Pune,700,Petrol,Not available,5300000,Used Car Sales,1657
+639,Toyota,Toyota Innova 2.5 G4 7 STR,2012,Thane,158359,Diesel,Not available,765000,Used Car Sales,218
+640,Land Rover,Land Rover Range Rover Evoque S [2020-2021],2020,Dehradun,9000,Diesel,Not available,5900000,Used Car Sales,418
+641,Toyota,Toyota Corolla Altis G Diesel,2012,Chennai,77000,Diesel,Not available,650000,Used Car Sales,1407
+642,Honda,Honda CR-V 2.0 2WD,2009,Pune,117136,Petrol,Not available,481000,Used Car Sales,1621
+643,Hyundai,Hyundai i10 Sportz 1.2 Kappa2,2013,Pune,508881,Petrol,Not available,340000,Used Car Sales,1596
+644,Volvo,Volvo S60 Polestar [2017-2020],2017,Chennai,49855,Petrol,Not available,3950000,Used Car Sales,1168
+645,Skoda,Skoda Superb Elegance TSI AT,2010,Bangalore,61000,Petrol,Not available,675000,Used Car Sales,708
+646,Ford,Ford EcoSport Titanium 1.5 Ti-VCT AT,2019,Chennai,23000,Petrol,Not available,850000,Used Car Sales,1225
+647,Mercedes-Benz,Mercedes-Benz E-Class E 220d Expression [2019-2019],2018,Pune,55000,Diesel,Not available,4250000,Used Car Sales,1502
+648,Bmw,BMW X3 xDrive-20d xLine,2016,Chennai,40000,Diesel,Not available,3400000,Used Car Sales,1403
+649,Mahindra,Mahindra Scorpio S7 140 2WD 7 STR,2020,Hyderabad,3700,Diesel,Not available,1690000,Used Car Sales,909
+650,Mercedes-Benz,Mercedes-Benz GLA 200 CDI Sport,2016,Hyderabad,60000,Diesel,Not available,2199000,Used Car Sales,897
+651,Nissan,Nissan Micra Active XL,2015,Bangalore,13123,Petrol,Not available,465000,Used Car Sales,567
+652,Mercedes-Benz,Mercedes-Benz GL 350 CDI BlueEFFICIENCY,2012,Chennai,148000,Diesel,Not available,2400000,Used Car Sales,1099
+653,Bmw,BMW 3 Series 320d Prestige,2015,Chennai,22261,Diesel,Not available,2200000,Used Car Sales,1215
+654,Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi+ Dual Tone [2017-2018],2018,Mumbai,19000,Diesel,Not available,975000,Used Car Sales,241
+655,Ford,Ford Mustang GT Fastback 5.0L v8,2016,Delhi,23000,Petrol,Not available,7300000,Used Car Sales,475
+656,Ford,Ford Endeavour Titanium 3.2 4x4 AT,2016,Chennai,65000,Diesel,Not available,2225000,Used Car Sales,1385
+657,Volkswagen,Volkswagen Polo GT TSI,2020,Mumbai,2608,Petrol,Not available,1025000,Used Car Sales,225
+658,Land Rover,Land Rover Discovery Sport HSE,2018,Chennai,28800,Diesel,Not available,4400000,Used Car Sales,1463
+659,Maruti Suzuki,Maruti Suzuki Celerio ZXi,2014,Pune,44463,Petrol,Not available,385000,Used Car Sales,1541
+660,Bmw,BMW 6 Series GT 630i Luxury Line [2018-2019],2019,Delhi,18000,Petrol,Not available,5500000,Used Car Sales,267
+661,Hyundai,Hyundai i20 Sportz 1.4 CRDI,2013,Hyderabad,87000,Diesel,Not available,460000,Used Car Sales,942
+662,Mercedes-Benz,Mercedes-Benz CLA 200 CDI Sport,2018,Mumbai,10000,Diesel,Not available,3000000,Used Car Sales,224
+663,Mercedes-Benz,Mercedes-Benz E-Class E 220d Expression [2019-2019],2017,Mumbai,25000,Diesel,Not available,4195000,Used Car Sales,3
+664,Jeep,Jeep Compass Limited Plus Petrol AT [2018-2020],2019,Chennai,24000,Petrol,Not available,2190000,Used Car Sales,1022
+665,Hyundai,Hyundai i20 Magna 1.4 CRDI,2013,Chennai,83000,Diesel,Not available,410000,Used Car Sales,987
+666,Volkswagen,Volkswagen Ameo Trendline 1.2L (P),2016,Pune,24372,Petrol,Not available,540000,Used Car Sales,1538
+667,Mahindra,Mahindra XUV500 W10 AT Black Interiors [2017],2017,Thane,67894,Diesel,Not available,1325000,Used Car Sales,121
+668,Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2015,Hyderabad,57000,Petrol,Not available,425000,Used Car Sales,930
+669,Honda,Honda WR-V VX MT Diesel,2017,Chennai,46000,Diesel,Not available,875000,Used Car Sales,1014
+670,Hyundai,Hyundai Verna Fluidic 1.6 CRDi SX,2014,Hyderabad,50781,Diesel,Not available,725000,Used Car Sales,963
+671,Mg,MG Hector Sharp 1.5 DCT Petrol [2019-2020],2019,Bangalore,39000,Petrol,Not available,1795000,Used Car Sales,637
+672,Maruti Suzuki,Maruti Suzuki Ertiga ZDI + SHVS,2017,Pune,39000,Diesel,Not available,925000,Used Car Sales,1663
+673,Bmw,BMW 5 Series 520d Sedan,2012,Hyderabad,101000,Diesel,Not available,1600000,Used Car Sales,808
+674,Mahindra,Mahindra XUV500 W5 [2018-2020],2018,Chennai,29000,Diesel,Not available,1290000,Used Car Sales,1270
+675,Maruti Suzuki,Maruti Suzuki Swift VXi [2014-2017],2016,Delhi,29000,Petrol,Not available,460000,Used Car Sales,468
+676,Honda,Honda Brio V MT,2012,Noida,85000,Petrol,Not available,299000,Used Car Sales,289
+677,Tata,Tata Tiago Revotron XZA [2017-2019],2017,Delhi,32445,Petrol,Not available,395000,Used Car Sales,323
+678,Tata,Tata Altroz XZ (O) Petrol,2020,Mumbai,7500,Petrol,Not available,815000,Used Car Sales,131
+679,Volvo,Volvo XC60 Inscription [2017-2020],2019,Chennai,40000,Diesel,Not available,5600000,Used Car Sales,1286
+680,Honda,Honda City V Diesel,2014,Hyderabad,85000,Diesel,Not available,590000,Used Car Sales,922
+681,Bmw,BMW 3 Series 320d Sport Line,2013,Pune,74000,Diesel,Not available,1425000,Used Car Sales,1644
+682,Ford,Ford Endeavour Trend 3.2 4x4 AT,2017,Chennai,61000,Diesel,Not available,2290000,Used Car Sales,1398
+683,Toyota,Toyota Innova Crysta 2.4 VX 8 STR [2016-2020],2018,Chennai,42500,Diesel,Not available,2050000,Used Car Sales,1204
+684,Hyundai,Hyundai i10 1.1L iRDE Magna Special Edition,2015,Chennai,54000,Petrol,Not available,325000,Used Car Sales,1141
+685,Bmw,BMW 5 Series 520d Luxury Line [2017-2019],2014,Chennai,27000,Diesel,Not available,2800000,Used Car Sales,1352
+686,Maruti Suzuki,Maruti Suzuki Swift LDi,2011,Pune,79000,Diesel,Not available,330000,Used Car Sales,1520
+687,Maruti Suzuki,Maruti Suzuki Dzire ZDi AMT,2019,Lucknow,15500,Diesel,Not available,875000,Used Car Sales,389
+688,Mahindra,Mahindra XUV300 1.5 W8 (O) AMT [2019-2020],2020,Chennai,25000,Diesel,Not available,1390000,Used Car Sales,1263
+689,Renault,Renault Duster RXL Petrol,2014,Chennai,25000,Petrol,Not available,565000,Used Car Sales,1003
+690,Hyundai,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,2017,Bangalore,35855,Petrol,Not available,599000,Used Car Sales,521
+691,Kia,Kia Seltos GTX Plus AT 1.4 [2019-2020],2020,Delhi,5800,Petrol,Not available,1850000,Used Car Sales,473
+692,Toyota,Toyota Innova 2.5 VX 8 STR BS-III,2013,Chennai,107000,Diesel,Not available,1100000,Used Car Sales,1246
+693,Bmw,BMW X1 sDrive20d,2014,Chennai,63000,Diesel,Not available,1450000,Used Car Sales,1443
+694,Audi,Audi Q5 2.0 TDI quattro Premium Plus,2015,Pune,115000,Diesel,Not available,2100000,Used Car Sales,1593
+695,Jaguar,Jaguar XF 2.2 Diesel,2015,Chennai,77000,Diesel,Not available,2200000,Used Car Sales,1195
+696,Volkswagen,Volkswagen Polo GT TSI,2015,Delhi,67000,Petrol,Not available,550000,Used Car Sales,486
+697,Volkswagen,Volkswagen Vento Highline Plus 1.5 AT (D) 16 Alloy,2019,Pune,12000,Diesel,Not available,1250000,Used Car Sales,1664
+698,Maruti Suzuki,Maruti Suzuki Ignis Zeta 1.2 MT,2017,Chennai,24000,Petrol,Not available,485000,Used Car Sales,1435
+699,Maruti Suzuki,Maruti Suzuki Swift VXi AMT,2019,Bangalore,18680,Petrol,Not available,745000,Used Car Sales,508
+700,Honda,Honda Accord 2.4 AT,2012,Mumbai,61700,Petrol,Not available,450000,Used Car Sales,232
+701,Mahindra,Mahindra XUV500 W11,2018,Hyderabad,34444,Diesel,Not available,1550000,Used Car Sales,754
+702,Mercedes-Benz,Mercedes-Benz C-Class 250 CDI Elegance,2012,Chennai,48000,Diesel,Not available,1450000,Used Car Sales,1206
+703,Audi,Audi Q3 35 TDI quattro Premium Plus,2019,Delhi,14000,Diesel,Not available,3100000,Used Car Sales,343
+704,Hyundai,Hyundai Venue SX 1.0 Turbo iMT,2021,Chennai,2000,Petrol,Not available,1050000,Used Car Sales,1045
+705,Toyota,Toyota Innova Crysta 2.4 ZX AT 7 STR,2020,Chennai,2762,Diesel,Not available,2790000,Used Car Sales,997
+706,Toyota,Toyota Corolla Altis G Diesel,2013,Hyderabad,78507,Diesel,Not available,755000,Used Car Sales,770
+707,Hyundai,Hyundai i10 Sportz 1.1 iRDE2 [2010--2017],2016,Bangalore,35406,Petrol,Not available,425000,Used Car Sales,599
+708,Hyundai,Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,2015,Pune,50262,Petrol,Not available,460000,Used Car Sales,1497
+709,Ford,Ford Endeavour Titanium 3.2 4x4 AT,2016,Chennai,74000,Diesel,Not available,2090000,Used Car Sales,1391
+710,Land Rover,Land Rover Range Rover Evoque SE Dynamic,2018,Dehradun,19500,Diesel,Not available,4900000,Used Car Sales,97
+711,Audi,Audi A4 2.0 TDI (177bhp) Premium Plus,2013,Pune,45477,Diesel,Not available,1700000,Used Car Sales,1634
+712,Hyundai,Hyundai Creta S 1.6 AT CRDi,2018,Chennai,40000,Diesel,Not available,1250000,Used Car Sales,1032
+713,Toyota,Toyota Innova 2.5 V 7 STR,2008,Bangalore,107000,Diesel,Not available,690000,Used Car Sales,713
+714,Maruti Suzuki,Maruti Suzuki Ciaz ZXi AT,2016,Bangalore,45949,Petrol,Not available,750000,Used Car Sales,644
+715,Volkswagen,Volkswagen Passat Highline DSG,2012,Pune,102000,Diesel,Not available,675000,Used Car Sales,1560
+716,Hyundai,Hyundai i20 Magna 1.2,2012,Chennai,66000,Petrol,Not available,375000,Used Car Sales,1117
+717,Maruti Suzuki,Maruti Suzuki Celerio ZXi AMT [2017-2019],2017,Chennai,51000,Petrol,Not available,470000,Used Car Sales,1102
+718,Bmw,BMW 3 Series GT 320d Luxury Line [2014-2016],2014,Hyderabad,67000,Diesel,Not available,2400000,Used Car Sales,783
+719,Bmw,BMW 5 Series 520d Sedan,2010,Hyderabad,89602,Diesel,Not available,1400000,Used Car Sales,772
+720,Maruti Suzuki,Maruti Suzuki Celerio ZXi AMT [2019-2020],2015,Bangalore,35153,Petrol,Not available,470000,Used Car Sales,657
+721,Volvo,Volvo XC90 D5 AWD,2018,Hyderabad,39000,Diesel,Not available,6850000,Used Car Sales,850
+722,Maruti Suzuki,Maruti Suzuki Ritz Zxi BS-IV,2011,Bangalore,55705,Petrol,Not available,385000,Used Car Sales,737
+723,Mercedes-Benz,Mercedes-Benz S-Class 320 CDI,2007,Pune,68500,Diesel,Not available,1290000,Used Car Sales,1703
+724,Hyundai,Hyundai Elite i20 Sportz 1.2,2015,Chennai,39000,Petrol,Not available,575000,Used Car Sales,1347
+725,Ford,Ford EcoSport Titanium 1.5 TDCi,2013,Hyderabad,73149,Diesel,Not available,560000,Used Car Sales,780
+726,Maruti Suzuki,Maruti Suzuki Ciaz Delta Hybrid 1.5 [2018-2020],2018,Chennai,38000,Petrol,Not available,870000,Used Car Sales,1131
+727,Hyundai,Hyundai Grand i10 Era U2 1.2 CRDi,2017,Chennai,62000,Diesel,Not available,380000,Used Car Sales,1362
+728,Maruti Suzuki,Maruti Suzuki Celerio VXi AMT ABS,2016,Mumbai,39500,Petrol,Not available,445000,Used Car Sales,25
+729,Maruti Suzuki,Maruti Suzuki Swift DZire VXI,2012,Hyderabad,31757,Petrol,Not available,490000,Used Car Sales,771
+730,Maruti Suzuki,Maruti Suzuki Ciaz Alpha 1.4 AT,2017,Bangalore,18325,Petrol,Not available,835000,Used Car Sales,688
+731,Hyundai,Hyundai Elite i20 Asta 1.2,2015,Hyderabad,129804,Petrol,Not available,525000,Used Car Sales,925
+732,Maruti Suzuki,Maruti Suzuki Ciaz ZXI+,2015,Bangalore,74541,Petrol,Not available,699000,Used Car Sales,684
+733,Bmw,BMW 7 Series 730Ld Eminence,2015,Dehradun,66000,Diesel,Not available,3700000,Used Car Sales,304
+734,Mercedes-Benz,Mercedes-Benz E-Class E220 CDI Blue Efficiency,2013,Hyderabad,45000,Diesel,Not available,1900000,Used Car Sales,792
+735,Volvo,Volvo XC90 D5 AWD,2016,Hyderabad,72000,Diesel,Not available,4700000,Used Car Sales,787
+736,Bmw,BMW 5 Series 530d M Sport [2013-2017],2015,Dehradun,77000,Diesel,Not available,2350000,Used Car Sales,393
+737,Toyota,Toyota Innova Crysta 2.4 ZX AT 7 STR,2020,Chennai,2762,Diesel,Not available,2790000,Used Car Sales,1243
+738,Honda,Honda Amaze 1.2 S i-VTEC Opt,2016,Delhi,52000,Petrol,Not available,435000,Used Car Sales,488
+739,Audi,Audi Q3 30 TDI S,2016,Chennai,72000,Diesel,Not available,1395000,Used Car Sales,1104
+740,Hyundai,Hyundai Elite i20 Asta 1.4 CRDI,2017,Chennai,40000,Diesel,Not available,750000,Used Car Sales,1128
+741,Mercedes-Benz,Mercedes-Benz E-Class E220 CDI Blue Efficiency,2013,Pune,67000,Diesel,Not available,1699000,Used Car Sales,1609
+742,Jaguar,Jaguar XF 3.0 V6 Premium Luxury,2012,Panchkula,27300,Diesel,Not available,2050000,Used Car Sales,252
+743,Bmw,BMW 6 Series 645i,2007,Chennai,30900,Petrol,Not available,1800000,Used Car Sales,1314
+744,Mini,MINI Countryman Cooper S [2020-2021],2020,Dehradun,6517,Petrol,Not available,3850000,Used Car Sales,69
+745,Renault,Renault Kwid 1.0 RXT AMT Opt [2016-2019],2020,Chennai,11500,Petrol,Not available,530000,Used Car Sales,1288
+746,Kia,Kia Sonet GTX Plus 1.0 iMT [2020-2021],2020,Chennai,3000,Petrol,Not available,1450000,Used Car Sales,1182
+747,Bmw,BMW 7 Series 730Ld DPE (CBU),2016,Chennai,54000,Diesel,Not available,5650000,Used Car Sales,1053
+748,Skoda,Skoda Superb L&K TSI AT,2016,Hyderabad,67000,Petrol,Not available,1930000,Used Car Sales,950
+749,Mercedes-Benz,Mercedes-Benz GL 350 CDI BlueEFFICIENCY,2012,Chennai,148000,Diesel,Not available,2400000,Used Car Sales,1346
+750,Bmw,BMW 7 Series 730Ld DPE,2018,Delhi,31000,Diesel,Not available,6950000,Used Car Sales,350
+751,Volvo,Volvo XC60 D5 AWD AT,2011,Chennai,80000,Diesel,Not available,1150000,Used Car Sales,1323
+752,Audi,Audi Q7 3.0 TDI quattro Premium Plus,2014,Delhi,57000,Diesel,Not available,2390000,Used Car Sales,428
+753,Toyota,Toyota Innova Crysta 2.4 VX 8 STR [2016-2020],2019,Chennai,39900,Diesel,Not available,2175000,Used Car Sales,1324
+754,Hyundai,Hyundai Elite i20 Magna Plus 1.2 [2019-2020],2019,Chennai,33000,Petrol,Not available,625000,Used Car Sales,1284
+755,Bmw,BMW 5 Series 520d Luxury Line [2017-2019],2018,Chennai,39000,Diesel,Not available,4900000,Used Car Sales,1072
+756,Honda,Honda City V,2018,Bangalore,40542,Petrol,Not available,925000,Used Car Sales,528
+757,Hyundai,Hyundai Grand i10 Sportz (O) AT 1.2 Kappa VTVT [2017-2018],2014,Bangalore,57362,Petrol,Not available,485000,Used Car Sales,615
+758,Mercedes-Benz,Mercedes-Benz CLA 200 D Urban Sport,2018,Mumbai,34000,Diesel,Not available,2795000,Used Car Sales,227
+759,Hyundai,Hyundai Elite i20 Asta 1.4 CRDI,2017,Chennai,40000,Diesel,Not available,750000,Used Car Sales,1375
+760,Honda,Honda City VX (O) MT Diesel,2016,Hyderabad,64554,Diesel,Not available,785000,Used Car Sales,782
+761,Honda,Honda Brio S MT,2016,Mumbai,9680,Petrol,Not available,425000,Used Car Sales,0
+762,Bmw,BMW X1 sDrive20d,2014,Chennai,63000,Diesel,Not available,1450000,Used Car Sales,1196
+763,Ford,Ford EcoSport Ambiente 1.5L Ti-VCT,2017,Delhi,60956,Petrol,Not available,575000,Used Car Sales,298
+764,Mercedes-Benz,Mercedes-Benz CLA 200 D Urban Sport,2019,Delhi,23000,Diesel,Not available,2800000,Used Car Sales,364
+765,Kia,Kia Sonet GTX Plus 1.5 [2020-2021],2020,Hyderabad,19486,Diesel,Not available,1400000,Used Car Sales,816
+766,Mercedes-Benz,Mercedes-Benz A-Class A 180 CDI Style,2015,Mumbai,61000,Diesel,Not available,1375000,Used Car Sales,100
+767,Hyundai,Hyundai i20 Active 1.4L SX (O) [2015-2016],2016,Hyderabad,68479,Diesel,Not available,685000,Used Car Sales,757
+768,Audi,Audi A8 L 3.0 TDI quattro,2015,Chennai,57700,Diesel,Not available,4500000,Used Car Sales,1410
+769,Jaguar,Jaguar XF 2.2 Diesel,2015,Chennai,77000,Diesel,Not available,2200000,Used Car Sales,1442
+770,Hyundai,Hyundai Elite i20 Magna 1.2,2015,Bangalore,13065,Petrol,Not available,569000,Used Car Sales,586
+771,Audi,Audi A6 35 TDI Premium,2013,Chennai,40000,Diesel,Not available,2100000,Used Car Sales,1227
+772,Hyundai,Hyundai Creta SX 1.6 (O) Petrol,2018,Bangalore,33000,Petrol,Not available,1435000,Used Car Sales,727
+773,Maruti Suzuki,Maruti Suzuki Ertiga VDi,2014,Pune,77000,Diesel,Not available,690000,Used Car Sales,1588
+774,Hyundai,Hyundai Creta SX 1.6 CRDI (O),2017,Bangalore,60559,Diesel,Not available,1299000,Used Car Sales,517
+775,Honda,Honda Jazz V Petrol,2017,Chennai,13000,Petrol,Not available,725000,Used Car Sales,1147
+776,Audi,Audi A6 2.0 TDI Premium Plus,2014,Hyderabad,33024,Diesel,Not available,2550000,Used Car Sales,839
+777,Mahindra,Mahindra Thar LX 4-STR Hard Top Petrol AT,2021,Delhi,4000,Petrol,Not available,1850000,Used Car Sales,443
+778,Hyundai,Hyundai Elite i20 Magna Executive 1.2,2018,Chennai,18000,Petrol,Not available,650000,Used Car Sales,1353
+779,Maruti Suzuki,Maruti Suzuki Celerio VXi [2017-2019],2017,Bangalore,20894,Petrol,Not available,485000,Used Car Sales,563
+780,Audi,Audi Q7 3.0 TDI quattro Premium Plus,2013,Delhi,50000,Diesel,Not available,1675000,Used Car Sales,335
+781,Mercedes-Benz,Mercedes-Benz C-Class 220 CDI Sport,2011,Chennai,73000,Diesel,Not available,1150000,Used Car Sales,1211
+782,Bmw,BMW 3 Series 320d,2011,Chennai,64000,Diesel,Not available,1275000,Used Car Sales,1454
+783,Hyundai,Hyundai Elite i20 Sportz 1.2,2015,Chennai,39000,Petrol,Not available,575000,Used Car Sales,1100
+784,Mahindra,Mahindra Scorpio SLE 2.6 CRDe,2012,Chennai,135000,Diesel,Not available,650000,Used Car Sales,1155
+785,Maruti Suzuki,Maruti Suzuki Baleno Alpha 1.3,2016,Thane,57209,Diesel,Not available,675000,Used Car Sales,126
+786,Volkswagen,Volkswagen Ameo Comfortline 1.2L (P),2017,Hyderabad,30000,Petrol,Not available,575000,Used Car Sales,767
+787,Bmw,BMW 5 Series 520d Luxury Line [2017-2019],2019,Chennai,53000,Diesel,Not available,5190000,Used Car Sales,1310
+788,Toyota,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],2018,Hyderabad,52000,Diesel,Not available,2450000,Used Car Sales,899
+789,Honda,Honda City SV Diesel,2016,Hyderabad,66000,Diesel,Not available,775000,Used Car Sales,969
+790,Maruti Suzuki,Maruti Suzuki Baleno Delta 1.2,2019,Delhi,13000,Petrol,Not available,635000,Used Car Sales,471
+791,Hyundai,Hyundai Creta 1.6 SX Plus AT,2015,Chennai,84000,Diesel,Not available,925000,Used Car Sales,1134
+792,Bmw,BMW X1 sDrive20d Sport Line,2014,Mumbai,45000,Diesel,Not available,1275000,Used Car Sales,236
+793,Mercedes-Benz,Mercedes-Benz E-Class E350 Cabriolet,2013,Mumbai,6000,Petrol,Not available,3850000,Used Car Sales,46
+794,Jaguar,Jaguar XE Prestige Diesel,2018,Dehradun,23500,Diesel,Not available,3500000,Used Car Sales,310
+795,Volvo,Volvo XC60 Inscription [2017-2020],2019,Chennai,40000,Diesel,Not available,5600000,Used Car Sales,1287
+796,Mercedes-Benz,Mercedes-Benz S-Class 320 CDI,2007,Pune,68500,Diesel,Not available,1290000,Used Car Sales,1690
+797,Audi,Audi Q3 35 TDI quattro Premium Plus,2018,Dehradun,43000,Diesel,Not available,2800000,Used Car Sales,159
+798,Bmw,BMW X1 sDrive20d xLine,2018,Delhi,21000,Diesel,Not available,2750000,Used Car Sales,344
+799,Jeep,Jeep Compass Limited 2.0 Diesel [2017-2020],2019,Mumbai,39500,Diesel,Not available,1450000,Used Car Sales,143
+800,Mahindra,Mahindra Thar LX 4-STR Hard Top Petrol AT,2021,Hyderabad,6000,Petrol,Not available,2300000,Used Car Sales,894
+801,Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi,2019,Hyderabad,71750,Diesel,Not available,1025000,Used Car Sales,779
+802,Bmw,BMW 5 Series 520d Luxury Line [2017-2019],2018,Delhi,24000,Diesel,Not available,4200000,Used Car Sales,427
+803,Honda,Honda City V Petrol,2019,Chennai,24000,Petrol,Not available,1050000,Used Car Sales,1170
+804,Kia,Kia Seltos GTX Plus 1.4 [2020-2021],2020,Hyderabad,16000,Petrol,Not available,1950000,Used Car Sales,937
+805,Hyundai,Hyundai i10 Magna 1.2 Kappa2,2010,Pune,75000,Petrol,Not available,270000,Used Car Sales,1488
+806,Volkswagen,Volkswagen Polo Highline1.2L (P),2015,Pune,40119,Petrol,Not available,525000,Used Car Sales,1482
+807,Hyundai,Hyundai Verna SX (O) 1.6 CRDi AT,2018,Hyderabad,41000,Diesel,Not available,1150000,Used Car Sales,858
+808,Toyota,Toyota Etios G,2012,Thane,40200,Petrol,Not available,375000,Used Car Sales,192
+809,Hyundai,Hyundai Verna EX 1.4 VTVT,2019,Chennai,24800,Petrol,Not available,925000,Used Car Sales,1024
+810,Ford,Ford Figo Duratorq Diesel Titanium 1.4,2011,Pune,70738,Diesel,Not available,285000,Used Car Sales,1620
+811,Mahindra,Mahindra XUV300 1.2 W6 [2019-2019],2020,Chennai,2000,Petrol,Not available,990000,Used Car Sales,1272
+812,Volkswagen,Volkswagen Vento Trendline Diesel,2011,Hyderabad,96000,Diesel,Not available,365000,Used Car Sales,895
+813,Toyota,Toyota Fortuner 3.0 MT,2011,Hyderabad,85000,Diesel,Not available,1175000,Used Car Sales,862
+814,Ford,Ford Endeavour Trend 3.2 4x4 AT,2017,Chennai,90000,Diesel,Not available,2400000,Used Car Sales,1401
+815,Jaguar,Jaguar XF 2.2 Diesel,2014,Chennai,78000,Diesel,Not available,2200000,Used Car Sales,1047
+816,Land Rover,Land Rover Range Rover Evoque Dynamic SD4,2012,Chennai,63000,Diesel,Not available,2350000,Used Car Sales,1366
+817,Bmw,BMW 7 Series 730Ld DPE Signature,2020,Pune,9000,Diesel,Not available,11500000,Used Car Sales,1671
+818,Hyundai,Hyundai Tucson GLS 2WD AT Petrol,2017,Hyderabad,80000,Petrol,Not available,1530000,Used Car Sales,880
+819,Honda,Honda City 1.5 S MT,2010,Delhi,58000,Petrol,Not available,310000,Used Car Sales,444
+820,Hyundai,Hyundai Venue SX 1.0 Turbo iMT,2021,Chennai,2000,Petrol,Not available,1050000,Used Car Sales,1293
+821,Hyundai,Hyundai Verna Fluidic 1.6 CRDi SX,2012,Hyderabad,98000,Diesel,Not available,535000,Used Car Sales,872
+822,Mahindra,Mahindra XUV500 W9 1.99,2019,Chennai,19900,Diesel,Not available,1650000,Used Car Sales,1088
+823,Maruti Suzuki,Maruti Suzuki Vitara Brezza VDi,2019,Hyderabad,41000,Diesel,Not available,990000,Used Car Sales,964
+824,Mahindra,Mahindra XUV300 1.5 W8 (O) AMT [2019-2020],2020,Chennai,25000,Diesel,Not available,1390000,Used Car Sales,1013
+825,Toyota,Toyota Yaris J CVT [2018-2020],2018,Bangalore,14122,Petrol,Not available,870000,Used Car Sales,574
+826,Hyundai,Hyundai Creta SX Plus 1.6 Petrol,2017,Chennai,37000,Petrol,Not available,1025000,Used Car Sales,1429
+827,Mercedes-Benz,Mercedes-Benz C-Class C 220d Progressive [2018-2019],2018,Delhi,13000,Diesel,Not available,3500000,Used Car Sales,273
+828,Tata,Tata Tiago Revotron XZ,2016,Bangalore,54863,Petrol,Not available,515000,Used Car Sales,690
+829,Ford,Ford EcoSport Titanium 1.5 Ti-VCT AT,2013,Chennai,60000,Petrol,Not available,650000,Used Car Sales,992
+830,Audi,Audi Q5 2.0 TDI quattro Premium,2013,Dehradun,74000,Diesel,Not available,1600000,Used Car Sales,154
+831,Hyundai,Hyundai i20 Active 1.2 SX,2015,Hyderabad,29000,Petrol,Not available,670000,Used Car Sales,857
+832,Mahindra,Mahindra XUV500 W10 AT,2017,Thane,39700,Diesel,Not available,1545000,Used Car Sales,220
+833,Mercedes-Benz,Mercedes-Benz CLA 200 CDI Sport,2018,Chennai,15600,Diesel,Not available,3200000,Used Car Sales,1212
+834,Maruti Suzuki,Maruti Suzuki Wagon R 1.0 VXI,2017,Bangalore,32279,Petrol,Not available,475000,Used Car Sales,739
+835,Hyundai,Hyundai Eon D-Lite +,2015,Chennai,36000,Petrol,Not available,320000,Used Car Sales,1161
+836,Hyundai,Hyundai Creta 1.6 SX Plus Petrol,2019,Navi Mumbai,10500,Petrol,Not available,1550000,Used Car Sales,184
+837,Mercedes-Benz,Mercedes-Benz E-Class E200,2012,Delhi,54000,Petrol,Not available,1260000,Used Car Sales,286
+838,Land Rover,Land Rover Range Rover Evoque HSE,2017,Chennai,80400,Diesel,Not available,3550000,Used Car Sales,1313
+839,Hyundai,Hyundai Creta 1.6 S Plus AT,2017,Bangalore,41000,Diesel,Not available,1300000,Used Car Sales,725
+840,Mahindra,Mahindra XUV500 W9 1.99,2019,Chennai,19900,Diesel,Not available,1650000,Used Car Sales,1084
+841,Honda,Honda City VX Diesel,2018,Chennai,41000,Diesel,Not available,990000,Used Car Sales,1181
+842,Mahindra,Mahindra Thar LX 4-STR Hard Top Diesel MT,2020,Bangalore,10035,Diesel,Not available,1685000,Used Car Sales,538
+843,Mahindra,Mahindra XUV500 W10,2018,Hyderabad,88666,Diesel,Not available,1400000,Used Car Sales,758
+844,Hyundai,Hyundai Eon D-Lite,2013,Bangalore,35421,Petrol,Not available,290000,Used Car Sales,543
+845,Toyota,Toyota Innova Crysta 2.4 VX 7 STR [2016-2020],2020,Chennai,9500,Diesel,Not available,2550000,Used Car Sales,1124
+846,Toyota,Toyota Innova Crysta 2.4 VX 8 STR [2016-2020],2017,Hyderabad,34000,Diesel,Not available,1895000,Used Car Sales,854
+847,Mahindra,Mahindra XUV500 W8 AWD,2014,Chennai,58200,Diesel,Not available,1050000,Used Car Sales,1074
+848,Mahindra,Mahindra XUV500 W8 AWD,2012,Chennai,85000,Diesel,Not available,800000,Used Car Sales,1336
+849,Bmw,BMW 3 Series 320d Prestige,2012,Mumbai,74460,Diesel,Not available,925000,Used Car Sales,26
+850,Hyundai,Hyundai Verna Xi,2008,Hyderabad,82000,Petrol,Not available,295000,Used Car Sales,869
+851,Ford,Ford Figo Duratorq Diesel ZXI 1.4,2014,Thane,68051,Diesel,Not available,335000,Used Car Sales,137
+852,Bmw,BMW 5 Series 520d Sedan,2012,Chennai,82000,Diesel,Not available,1800000,Used Car Sales,1228
+853,Ford,Ford Endeavour Titanium 2.2 4x2 AT,2018,Pune,27000,Diesel,Not available,3000000,Used Car Sales,1707
+854,Maruti Suzuki,Maruti Suzuki Swift ZDi,2015,Mumbai,43000,Diesel,Not available,575000,Used Car Sales,17
+855,Hyundai,Hyundai Grand i10 Sportz AT 1.2 Kappa VTVT,2013,Delhi,49350,Petrol,Not available,370000,Used Car Sales,432
+856,Chevrolet,Chevrolet Beat LS Petrol,2011,Mumbai,31000,Petrol,Not available,171000,Used Car Sales,179
+857,Bmw,BMW X1 xDrive20d M Sport,2017,Delhi,18500,Diesel,Not available,2700000,Used Car Sales,253
+858,Mercedes-Benz,Mercedes-Benz C-Class 200 K AT,2005,Chennai,74000,Petrol,Not available,550000,Used Car Sales,1046
+859,Honda,Honda Jazz VX Petrol,2018,Bangalore,9131,Petrol,Not available,800000,Used Car Sales,701
+860,Land Rover,Land Rover Range Rover Evoque Prestige SD4,2012,Dehradun,127000,Diesel,Not available,1900000,Used Car Sales,76
+861,Hyundai,Hyundai Fluidic Verna 4S 1.6 VTVT S,2016,Bangalore,42811,Petrol,Not available,699000,Used Car Sales,545
+862,Mercedes-Benz,Mercedes-Benz C-Class 200 K AT,2005,Chennai,74000,Petrol,Not available,550000,Used Car Sales,1290
+863,Hyundai,Hyundai Verna Fluidic 1.6 VTVT SX Opt AT,2015,Thane,37399,Petrol,Not available,725000,Used Car Sales,217
+864,Mahindra,Mahindra XUV500 W5 [2018-2020],2018,Chennai,29000,Diesel,Not available,1290000,Used Car Sales,1023
+865,Maruti Suzuki,Maruti Suzuki Ciaz ZDi SHVS,2016,Mumbai,52000,Diesel,Not available,615000,Used Car Sales,211
+866,Hyundai,Hyundai Creta EX 1.4 CRDi,2019,Chennai,58000,Diesel,Not available,990000,Used Car Sales,1376
+867,Maruti Suzuki,Maruti Suzuki Vitara Brezza LDi,2016,Pune,83508,Diesel,Not available,700000,Used Car Sales,1481
+868,Bmw,BMW 3 Series 320d Sedan,2007,Mumbai,48000,Diesel,Not available,425000,Used Car Sales,94
+869,Renault,Renault Kwid RXT [2015-2019],2015,Bangalore,54806,Petrol,Not available,340000,Used Car Sales,703
+870,Mahindra,Mahindra Thar CRDe 4x4 AC,2015,Chennai,64000,Diesel,Not available,750000,Used Car Sales,1380
+871,Mahindra,Mahindra XUV500 W10 AT,2016,Mumbai,41000,Diesel,Not available,1325000,Used Car Sales,228
+872,Honda,Honda Amaze 1.5 S i-DTEC,2014,Pune,70000,Diesel,Not available,455000,Used Car Sales,1528
+873,Ford,Ford Mustang GT Fastback 5.0L v8,2017,Chennai,11100,Petrol,Not available,6500000,Used Car Sales,1167
+874,Hyundai,Hyundai Verna 1.6 VTVT SX,2019,Chennai,17000,Petrol,Not available,995000,Used Car Sales,1430
+875,Toyota,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],2019,Chennai,26000,Diesel,Not available,2450000,Used Car Sales,1041
+876,Mercedes-Benz,Mercedes-Benz SLK 350,2015,Delhi,32000,Petrol,Not available,3750000,Used Car Sales,346
+877,Maruti Suzuki,Maruti Suzuki Estilo VXi,2010,Mumbai,78500,Petrol,Not available,145000,Used Car Sales,246
+878,Mercedes-Benz,Mercedes-Benz C-Class C 220 CDI Avantgarde,2016,Bangalore,60000,Diesel,Not available,2800000,Used Car Sales,722
+879,Honda,Honda City 1.5 S MT,2009,Delhi,83000,Petrol,Not available,260000,Used Car Sales,259
+880,Hyundai,Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],2014,Delhi,34000,Petrol,Not available,385000,Used Car Sales,276
+881,Hyundai,Hyundai i20 Magna 1.2,2010,Bangalore,64321,Petrol,Not available,310000,Used Car Sales,617
+882,Maruti Suzuki,Maruti Suzuki Baleno Zeta 1.3,2016,Bangalore,30264,Diesel,Not available,699000,Used Car Sales,663
+883,Maruti Suzuki,Maruti Suzuki Baleno Zeta,2018,Chennai,35000,Petrol,Not available,690000,Used Car Sales,1189
+884,Hyundai,Hyundai Xcent S 1.2,2015,Pune,81911,Petrol,Not available,425000,Used Car Sales,1626
+885,Jeep,Jeep Compass Limited Plus Petrol AT [2018-2020],2019,Chennai,24000,Petrol,Not available,2190000,Used Car Sales,1269
+886,Mitsubishi,Mitsubishi Outlander 2.4 MIVEC,2010,Delhi,75000,Petrol,Not available,550000,Used Car Sales,426
+887,Tata,Tata Harrier XZ [2019-2020],2019,Pune,49997,Diesel,Not available,1650000,Used Car Sales,1654
+888,Maruti Suzuki,Maruti Suzuki Alto 800 Vxi,2017,Bangalore,42305,Petrol,Not available,345000,Used Car Sales,639
+889,Mini,MINI Cooper Countryman Cooper D,2015,Mumbai,14000,Diesel,Not available,2500000,Used Car Sales,108
+890,Honda,Honda City SV,2016,Pune,51000,Petrol,Not available,635000,Used Car Sales,1699
+891,Audi,Audi Q3 35 TDI Premium Plus,2015,Delhi,67000,Diesel,Not available,1650000,Used Car Sales,329
+892,Porsche,Porsche Cayenne S V8 Tiptronic,2008,Hyderabad,102000,Petrol,Not available,1600000,Used Car Sales,789
+893,Toyota,Toyota Innova Crysta 2.4 VX 7 STR [2016-2020],2016,Chennai,79900,Diesel,Not available,1700000,Used Car Sales,1094
+894,Honda,Honda City 1.5 V AT,2011,Hyderabad,51000,Petrol,Not available,575000,Used Car Sales,818
+895,Toyota,Toyota Camry Hybrid,2015,Pune,81000,Petrol,Not available,1651000,Used Car Sales,1676
+896,Hyundai,Hyundai Grand i10 Asta 1.2 Kappa VTVT [2013-2016],2015,Bangalore,58671,Petrol,Not available,535000,Used Car Sales,593
+897,Audi,Audi Q3 35 TDI Premium + Sunroof,2015,Pune,100000,Diesel,Not available,1675000,Used Car Sales,1611
+898,Ford,Ford EcoSport Titanium 1.5L TDCi,2016,Chennai,34000,Diesel,Not available,750000,Used Car Sales,1160
+899,Maruti Suzuki,Maruti Suzuki Ciaz ZXi AT,2016,Bangalore,45949,Petrol,Not available,750000,Used Car Sales,653
+900,Ford,Ford Mustang GT Fastback 5.0L v8,2019,Delhi,7000,Petrol,Not available,7100000,Used Car Sales,379
+901,Mercedes-Benz,Mercedes-Benz E-Class E 250 CDI Avantgarde,2016,Pune,44500,Diesel,Not available,2900000,Used Car Sales,1633
+902,Bmw,BMW X1 sDrive20d Expedition,2018,Dehradun,33500,Diesel,Not available,2500000,Used Car Sales,64
+903,Hyundai,Hyundai Verna Fluidic 1.6 CRDi SX Opt,2012,Chennai,52000,Diesel,Not available,550000,Used Car Sales,1373
+904,Maruti Suzuki,Maruti Suzuki Swift VXi,2015,Hyderabad,63000,Petrol,Not available,570000,Used Car Sales,929
+905,Toyota,Toyota Etios Liva GD,2012,Pune,55000,Diesel,Not available,355000,Used Car Sales,1716
+906,Honda,Honda BR-V V CVT Petrol,2018,Mumbai,4000,Petrol,Not available,1045000,Used Car Sales,238
+907,Mahindra,Mahindra Thar LX 4-STR Convertible Petrol AT,2021,Delhi,490,Petrol,Not available,1811000,Used Car Sales,382
+908,Maruti Suzuki,Maruti Suzuki Ertiga VDI SHVS,2016,Hyderabad,84640,Diesel,Not available,785000,Used Car Sales,835
+909,Land Rover,Land Rover Freelander 2 SE,2014,Mumbai,61000,Diesel,Not available,1950000,Used Car Sales,115
+910,Honda,Honda City VX,2016,Delhi,38000,Petrol,Not available,800000,Used Car Sales,408
+911,Jaguar,Jaguar XE Prestige Diesel,2019,Delhi,27000,Diesel,Not available,3300000,Used Car Sales,351
+912,Volvo,Volvo V40 D3 R-Design,2016,Dehradun,78000,Diesel,Not available,1750000,Used Car Sales,161
+913,Chevrolet,Chevrolet Cruze LTZ AT,2012,Pune,87387,Diesel,Not available,405000,Used Car Sales,1673
+914,Maruti Suzuki,Maruti Suzuki Ciaz Alpha 1.4 MT,2018,Bangalore,15133,Petrol,Not available,949000,Used Car Sales,527
+915,Maruti Suzuki,Maruti Suzuki Swift VXi [2014-2017],2018,Hyderabad,33000,Petrol,Not available,660000,Used Car Sales,908
+916,Renault,Renault Kwid CLIMBER 1.0 [2017-2019],2017,Delhi,17453,Petrol,Not available,345000,Used Car Sales,331
+917,Audi,Audi Q7 45 TDI Technology Pack,2017,Hyderabad,37914,Diesel,Not available,6700000,Used Car Sales,813
+918,Bmw,BMW 7 Series 730Ld,2015,Chennai,40500,Diesel,Not available,3800000,Used Car Sales,1071
+919,Ford,Ford EcoSport Titanium 1.5L TDCi,2019,Chennai,45000,Diesel,Not available,890000,Used Car Sales,1390
+920,Honda,Honda Brio S MT,2014,Noida,41606,Petrol,Not available,300000,Used Car Sales,250
+921,Volkswagen,Volkswagen Polo Highline1.5L (D),2014,Pune,75000,Diesel,Not available,475000,Used Car Sales,1561
+922,Hyundai,Hyundai Santro Xing GLS,2008,Chennai,63000,Petrol,Not available,170000,Used Car Sales,1248
+923,Audi,Audi Q7 3.0 TDI quattro Premium Plus,2013,Pune,67000,Diesel,Not available,2000000,Used Car Sales,1569
+924,Honda,Honda City VX Diesel,2018,Chennai,41000,Diesel,Not available,990000,Used Car Sales,1438
+925,Maruti Suzuki,Maruti Suzuki Ciaz Zeta 1.4 AT,2018,Chennai,22000,Petrol,Not available,825000,Used Car Sales,1121
+926,Hyundai,Hyundai i20 Active 1.2 SX,2016,Bangalore,24301,Petrol,Not available,745000,Used Car Sales,571
+927,Hyundai,Hyundai Elite i20 Asta 1.2 (O) [2016],2016,Chennai,12000,Petrol,Not available,675000,Used Car Sales,1471
+928,Maruti Suzuki,Maruti Suzuki Alto K10 LXi,2011,Hyderabad,82000,Petrol,Not available,215000,Used Car Sales,874
+929,Ford,Ford EcoSport Titanium 1.5 Ti-VCT AT,2013,Chennai,60000,Petrol,Not available,650000,Used Car Sales,1280
+930,Bmw,BMW 3 Series 320d Sport Line,2014,Chennai,55000,Diesel,Not available,2250000,Used Car Sales,1052
+931,Tata,Tata Nexon XZ Plus Diesel,2017,Bangalore,66078,Diesel,Not available,915000,Used Car Sales,614
+932,Renault,Renault Duster 110 PS RXZ 4X2 MT Diesel,2016,Chennai,70000,Diesel,Not available,690000,Used Car Sales,1386
+933,Kia,Kia Seltos GTX Plus 1.4 [2020-2021],2019,Bangalore,21152,Petrol,Not available,1550000,Used Car Sales,650
+934,Toyota,Toyota Camry ACV30R,2004,Chennai,70500,Petrol,Not available,500000,Used Car Sales,1305
+935,Maruti Suzuki,Maruti Suzuki Celerio VXi,2014,Delhi,65000,Petrol,Not available,345000,Used Car Sales,302
+936,Mitsubishi,Mitsubishi Outlander 2.4 MIVEC,2010,Pune,91000,Petrol,Not available,595000,Used Car Sales,1559
+937,Skoda,Skoda Rapid Monte Carlo 1.5 TDI AT,2019,Bangalore,27952,Diesel,Not available,1290000,Used Car Sales,699
+938,Renault,Renault Duster 110 PS RXZ 4X2 MT Diesel,2016,Chennai,70000,Diesel,Not available,690000,Used Car Sales,1139
+939,Toyota,Toyota Etios Cross 1.2 G,2015,Thane,39792,Petrol,Not available,499000,Used Car Sales,215
+940,Maruti Suzuki,Maruti Suzuki Celerio ZXi,2016,Bangalore,54807,Petrol,Not available,475000,Used Car Sales,647
+941,Volvo,Volvo S60 Summum D5,2014,Hyderabad,125000,Diesel,Not available,2400000,Used Car Sales,788
+942,Audi,Audi A4 35 TDI Premium Plus,2020,Chennai,16000,Diesel,Not available,4400000,Used Car Sales,1226
+943,Mitsubishi,Mitsubishi Pajero Sport 2.5 AT,2015,Pune,99400,Diesel,Not available,1275000,Used Car Sales,1558
+944,Volkswagen,Volkswagen Tiguan - 2020 Highline TDI,2019,Hyderabad,30000,Diesel,Not available,2900000,Used Car Sales,811
+945,Honda,Honda Jazz V Diesel,2018,Chennai,29000,Diesel,Not available,750000,Used Car Sales,1180
+946,Ford,Ford Mustang GT Fastback 5.0L v8,2017,Delhi,17000,Petrol,Not available,7200000,Used Car Sales,345
+947,Maruti Suzuki,Maruti Suzuki Vitara Brezza ZDi,2017,Thane,22388,Diesel,Not available,891000,Used Car Sales,133
+948,Audi,Audi Q3 30 TDI S,2017,Bangalore,49000,Diesel,Not available,2850000,Used Car Sales,726
+949,Hyundai,Hyundai Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],2017,Pune,43712,Petrol,Not available,495000,Used Car Sales,1487
+950,Toyota,Toyota Innova 2.5 G BS IV 7 STR,2015,Mumbai,18000,Diesel,Not available,1050000,Used Car Sales,165
+951,Mercedes-Benz,Mercedes-Benz CLA 200 CDI Sport,2017,Delhi,22500,Diesel,Not available,2575000,Used Car Sales,425
+952,Renault,Renault Duster RXS CVT,2018,Bangalore,22581,Petrol,Not available,950000,Used Car Sales,576
+953,Mahindra,Mahindra XUV500 W10 AT,2017,Delhi,70000,Diesel,Not available,1275000,Used Car Sales,374
+954,Hyundai,Hyundai Grand i10 Asta 1.2 Kappa VTVT [2013-2016],2015,Thane,55474,Petrol,Not available,470000,Used Car Sales,136
+955,Toyota,Toyota Innova Crysta 2.4 G 7 STR [2016-2017],2017,Hyderabad,129000,Diesel,Not available,1700000,Used Car Sales,798
+956,Skoda,Skoda Rapid Monte Carlo 1.6 MPI MT,2019,Chennai,10000,Petrol,Not available,1175000,Used Car Sales,1268
+957,Maruti Suzuki,Maruti Suzuki S-Cross Zeta 1.3,2016,Pune,72000,Diesel,Not available,750000,Used Car Sales,1576
+958,Hyundai,Hyundai Verna 1.6 CRDI SX (O),2018,Pune,66563,Diesel,Not available,1150000,Used Car Sales,1649
+959,Mahindra,Mahindra XUV300 1.2 W6 [2019-2019],2020,Chennai,2000,Petrol,Not available,990000,Used Car Sales,1025
+960,Hyundai,Hyundai i20 Magna 1.2,2010,Bangalore,64321,Petrol,Not available,310000,Used Car Sales,620
+961,Maruti Suzuki,Maruti Suzuki Ciaz Delta 1.3 Hybrid,2017,Thane,39535,Diesel,Not available,775000,Used Car Sales,214
+962,Mercedes-Benz,Mercedes-Benz E-Class E200 CGI Blue Efficiency,2012,Mumbai,65000,Petrol,Not available,1125000,Used Car Sales,54
+963,Bmw,BMW X3 xDrive-20d xLine,2014,Mumbai,65000,Diesel,Not available,2350000,Used Car Sales,41
+964,Mercedes-Benz,Mercedes-Benz C-Class C 220 CDI Avantgarde,2014,Mumbai,21212,Diesel,Not available,1750000,Used Car Sales,149
+965,Skoda,Skoda Yeti Ambition 2.0 TDI CR 4x4,2011,Pune,102000,Diesel,Not available,575000,Used Car Sales,1575
+966,Honda,Honda Brio S MT,2012,Noida,65000,Petrol,Not available,235000,Used Car Sales,435
+967,Skoda,Skoda Yeti Elegance 2.0 TDI CR 4x4,2012,Hyderabad,107000,Diesel,Not available,675000,Used Car Sales,977
+968,Maruti Suzuki,Maruti Suzuki Vitara Brezza VDi (O) [2016-2018],2018,Delhi,39000,Diesel,Not available,790000,Used Car Sales,301
+969,Maruti Suzuki,Maruti Suzuki Swift ZXi,2013,Pune,89869,Petrol,Not available,440000,Used Car Sales,1629
+970,Tata,Tata Safari Storme 2.2 VX 4x2,2013,Pune,75000,Diesel,Not available,575000,Used Car Sales,1555
+971,Jaguar,Jaguar F-Pace Prestige,2019,Hyderabad,20763,Diesel,Not available,5900000,Used Car Sales,746
+972,Skoda,Skoda Rapid Active 1.6 MPI MT,2012,Delhi,30000,Petrol,Not available,380000,Used Car Sales,353
+973,Volkswagen,Volkswagen Polo Comfortline 1.2L (P),2017,Bangalore,44482,Petrol,Not available,610000,Used Car Sales,573
+974,Audi,Audi A8 L 3.0 TDI quattro,2012,Mumbai,25000,Diesel,Not available,2750000,Used Car Sales,90
+975,Hyundai,Hyundai Verna Fluidic 1.6 CRDi SX Opt AT,2014,Hyderabad,72230,Diesel,Not available,725000,Used Car Sales,762
+976,Maruti Suzuki,Maruti Suzuki Ciaz Zeta 1.4 AT,2017,Chennai,49000,Petrol,Not available,785000,Used Car Sales,1176
+977,Maruti Suzuki,Maruti Suzuki Ciaz VDi SHVS,2016,Ghaziabad,53357,Diesel,Not available,599000,Used Car Sales,283
+978,Mercedes-Benz,Mercedes-Benz E-Class E250 CDI Avantgarde,2014,Pune,99000,Diesel,Not available,1950000,Used Car Sales,1577
+979,Mahindra,Mahindra Scorpio SLE BS-III,2010,Hyderabad,82000,Diesel,Not available,600000,Used Car Sales,912
+980,Mahindra,Mahindra XUV300 1.5 W8 (O) AMT [2019-2020],2020,Chennai,25000,Diesel,Not available,1390000,Used Car Sales,1260
+981,Maruti Suzuki,Maruti Suzuki Celerio ZXi AMT [2017-2019],2017,Chennai,51000,Petrol,Not available,470000,Used Car Sales,1349
+982,Toyota,Toyota Innova 2.5 GX BS III 8 STR,2015,Chennai,85000,Diesel,Not available,1350000,Used Car Sales,1097
+983,Mercedes-Benz,Mercedes-Benz CLA 200 CDI Sport,2018,Chennai,15600,Diesel,Not available,3200000,Used Car Sales,1459
+984,Hyundai,Hyundai Eon D-Lite,2013,Bangalore,35421,Petrol,Not available,290000,Used Car Sales,660
+985,Ford,Ford EcoSport Trend 1.5L TDCi,2015,Pune,99499,Diesel,Not available,600000,Used Car Sales,1499
+986,Hyundai,Hyundai i10 Magna 1.2 Kappa2,2011,Hyderabad,55289,Petrol,Not available,350000,Used Car Sales,834
+987,Ford,Ford EcoSport Trend + 1.5L TDCi,2017,Bangalore,53368,Diesel,Not available,785000,Used Car Sales,668
+988,Mahindra,Mahindra Scorpio SLE 2.6 CRDe,2012,Chennai,135000,Diesel,Not available,650000,Used Car Sales,1402
+989,Volkswagen,Volkswagen Ameo Trendline 1.2L (P),2019,Noida,38000,Petrol,Not available,495000,Used Car Sales,400
+990,Maruti Suzuki,Maruti Suzuki Vitara Brezza VDi (O) [2016-2018],2018,Delhi,47201,Diesel,Not available,769000,Used Car Sales,318
+991,Renault,Renault Kwid 1.0 RXT Opt [2016-2019],2020,Noida,11000,Petrol,Not available,445000,Used Car Sales,296
+992,Hyundai,Hyundai Creta SX 1.6 AT Petrol,2019,Delhi,10000,Petrol,Not available,1475000,Used Car Sales,341
+993,Maruti Suzuki,Maruti Suzuki Swift LXi,2009,Hyderabad,81000,Petrol,Not available,325000,Used Car Sales,911
+994,Audi,Audi A4 2.0 TDI (177bhp) Premium,2013,Hyderabad,85349,Diesel,Not available,1750000,Used Car Sales,954
+995,Volkswagen,Volkswagen Polo Trendline 1.2L (P),2012,Mumbai,49000,Petrol,Not available,325000,Used Car Sales,129
+996,Hyundai,Hyundai Xcent S 1.1 CRDi,2016,Hyderabad,127000,Diesel,Not available,430000,Used Car Sales,961
+997,Volkswagen,Volkswagen Vento TSI,2014,Mumbai,65327,Petrol,Not available,485000,Used Car Sales,28
+998,Toyota,Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],2018,Chennai,40000,Diesel,Not available,2300000,Used Car Sales,1164
+999,Mahindra,Mahindra XUV500 W8,2012,Bangalore,79960,Diesel,Not available,745000,Used Car Sales,630
+1000,Maruti Suzuki,Maruti Suzuki Eeco 5 STR WITH A/C+HTR [2019-2020],2018,Bangalore,41581,Petrol,Not available,435000,Used Car Sales,560
+1001,Maruti,IGNIS DELTA 1.,2018,Noida,250504,Petrol,Manual,276000,Cars24,2697
+1002,Hyundai,Eon MAGNA +,2014,Coimbatore,82587,Petrol,Manual,206999,Cars24,3029
+1003,Maruti,Swift VXI AMT,2018,Kochi,47324,Petrol,Automatic,505000,Cars24,1761
+1004,Renault,Kwid RXT 1.,2018,Ahmedabad,52850,Petrol,Manual,210000,Cars24,2015
+1005,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,2016,Noida,85558,Petrol,Manual,289000,Cars24,2729
+1006,Ford,Ecosport TITANIUM 1.5L DIESEL,2014,Lucknow,83101,Diesel,Manual,237000,Cars24,2145
+1007,Maruti,Alto 800 LXI,2016,Hyderabad,16703,Petrol,Manual,192000,Cars24,53
+1008,Toyota,Glanza G,2019,Hyderabad,46845,Petrol,Manual,478000,Cars24,144
+1009,Kia,CARENS LUXURY PLUS 1.5 DIESEL 7 STR,2022,Kolkata,29832,Diesel,Manual,1256000,Cars24,2579
+1010,Toyota,Etios GD,2015,Hyderabad,86134,Diesel,Manual,394000,Cars24,138
+1011,Kia,CARENS PRESTIGE 1.4 PETROL 7 STR,2023,Surat,25206,Petrol,Manual,1085000,Cars24,1547
+1012,Bmw,3 Series  GT 320d Luxury Line,2017,Noida,29226,Diesel,Automatic,1900000,Cars24,2833
+1013,Toyota,Etios CROSS 1.2 G,2015,New-Delhi,70549,Petrol,Manual,260000,Cars24,1268
+1014,Toyota,Fortuner 2.8 4X4 AT,2018,Agra,50569,Diesel,Automatic,1780999,Cars24,1681
+1015,Volkswagen,Polo COMFORTLINE 1.2L PETROL,2011,Noida,21775,Petrol,Manual,127000,Cars24,2975
+1016,Tata,TIGOR XZ PLUS PETROL,2021,Lucknow,40862,Petrol,Manual,445000,Cars24,2065
+1017,Tata,PUNCH ADVENTURE MT,2023,New-Delhi,31710,Petrol,Manual,483000,Cars24,1049
+1018,Honda,WR-V 1.2L I-VTEC VX MT,2019,Jaipur,46400,Petrol,Manual,479000,Cars24,2269
+1019,Kia,SELTOS HTK PLUS 1.5 IMT,2022,Lucknow,94697,Petrol,Manual,827000,Cars24,2213
+1020,Hyundai,EXTER SX 1.2 CNG MT,2023,Noida,70650,Cng,Manual,654000,Cars24,2734
+1021,Toyota,Innova 2.5 GX 8 STR,2015,Chennai,45000,Diesel,Manual,978999,Cars24,967
+1022,Renault,Kwid RXT 1.,2018,Ahmedabad,91312,Petrol,Manual,202999,Cars24,2012
+1023,Hyundai,Tucson SIGNATURE 2.0 AT PETROL,2022,Noida,17916,Petrol,Automatic,2275000,Cars24,2751
+1024,Kia,SONET HTX 1.0 IMT,2021,Pune,40429,Petrol,Manual,614000,Cars24,800
+1025,Kia,SELTOS GTX AT 1.4 PETROL,2020,Noida,79439,Petrol,Automatic,839000,Cars24,2936
+1026,Kia,SELTOS GTX PLUS AT 1.5 DIESEL,2021,Coimbatore,56564,Diesel,Automatic,1346000,Cars24,3064
+1027,Volkswagen,Vento HIGHLINE 1.6 MPI,2011,Noida,94068,Petrol,Manual,94000,Cars24,2954
+1028,Hyundai,Creta SX PLUS AT 1.6 PETROL,2016,Jaipur,99170,Petrol,Automatic,482000,Cars24,2302
+1029,Maruti,Ciaz VXI,2016,Noida,27304,Petrol,Manual,364000,Cars24,2691
+1030,Volkswagen,Vento COMFORTLINE 1.5 AT,2015,Ahmedabad,63627,Diesel,Automatic,286000,Cars24,2052
+1031,Renault,Kwid RXL,2018,Kolkata,47085,Petrol,Manual,149000,Cars24,2547
+1032,Tata,Harrier XZ SUNROOF 2.0L DUAL TONE,2022,Agra,57139,Diesel,Manual,1450000,Cars24,1567
+1033,Renault,Kwid RXT 0.8 (O),2018,Lucknow,62146,Petrol,Manual,206000,Cars24,2201
+1034,Tata,Harrier XZA 2.0L,2020,Mumbai,52353,Diesel,Automatic,1019000,Cars24,438
+1035,Honda,Jazz 1.2L I-VTEC V AT,2016,Kolkata,94307,Petrol,Automatic,261000,Cars24,2446
+1036,Tata,PUNCH ACCOMPLISHED DAZZLE SUNROOF CNG MT,2024,Surat,32527,Cng,Manual,701000,Cars24,1419
+1037,Honda,City 1.5L I-DTEC VX,2018,Kolkata,84269,Diesel,Manual,468000,Cars24,2449
+1038,Kia,SONET GTX PLUS 1.0 IMT,2022,Hyderabad,18179,Petrol,Manual,969000,Cars24,191
+1039,Volkswagen,TAIGUN HIGHLINE 1.0 TSI MT,2025,Noida,6612,Petrol,Manual,1244000,Cars24,2960
+1040,Mahindra,Thar LX D AT 4WD HT,2024,Ahmedabad,50778,Diesel,Automatic,1242000,Cars24,1966
+1041,Tata,Tiago XZ PETROL,2018,Chennai,7749,Petrol,Manual,280000,Cars24,839
+1042,Ford,Ecosport TITANIUM + 1.5L PETROL AT,2018,Surat,48551,Petrol,Automatic,451000,Cars24,1503
+1043,Toyota,Etios Liva GD,2011,Ahmedabad,59095,Diesel,Manual,160000,Cars24,1997
+1044,Honda,Amaze 1.5L I-DTEC E,2016,Hyderabad,92676,Diesel,Manual,315000,Cars24,32
+1045,Tata,Zest XE PETROL,2015,Hyderabad,55160,Petrol,Manual,259000,Cars24,0
+1046,Tata,ALTROZ XZ PLUS DIESEL,2023,Coimbatore,10521,Diesel,Manual,691000,Cars24,2998
+1047,Mahindra,XUV300 W8 (O) 1.5 DIESEL,2019,Mumbai,46837,Diesel,Manual,616000,Cars24,527
+1048,Honda,Amaze 1.2L I-VTEC VX CVT,2021,Coimbatore,98791,Petrol,Automatic,600000,Cars24,3004
+1049,Honda,Amaze 1.5L I-DTEC V CVT,2019,Hyderabad,59647,Diesel,Automatic,644000,Cars24,21
+1050,Tata,Tiago XT CNG,2023,Ahmedabad,93984,Cng,Manual,442000,Cars24,1874
+1051,Tata,Safari Storme 2.2 VX 4X,2017,Agra,40823,Diesel,Manual,563000,Cars24,1583
+1052,Tata,NEXON XZ PLUS (HS) PETROL,2022,Noida,41540,Petrol,Manual,646000,Cars24,2599
+1053,Ford,Endeavour 2.5L 4X2 AT,2012,Coimbatore,31413,Diesel,Automatic,500000,Cars24,3040
+1054,Kia,SONET GTX PLUS 1.0 IMT,2020,Hyderabad,54148,Petrol,Manual,779000,Cars24,195
+1055,Toyota,Glanza S,2022,Chennai,36260,Petrol,Manual,644000,Cars24,966
+1056,Kia,SELTOS GTX PLUS 1.4 PETROL,2019,Ahmedabad,62521,Petrol,Manual,765000,Cars24,2023
+1057,Tata,PUNCH PURE MT,2023,New-Delhi,69618,Petrol,Manual,413999,Cars24,1053
+1058,Toyota,Etios Liva V,2013,Bangalore,98845,Petrol,Manual,311000,Cars24,356
+1059,Renault,Kiger RXT MT,2022,New-Delhi,25970,Petrol,Manual,463000,Cars24,1303
+1060,Honda,Amaze 1.2L I-VTEC VX CVT,2020,Kochi,63983,Petrol,Automatic,656000,Cars24,1757
+1061,Honda,Amaze 1.2L I-VTEC VX,2015,Kochi,37110,Petrol,Manual,350000,Cars24,1755
+1062,Mahindra,KUV 100 NXT K4+ D 6 STR,2017,Lucknow,98096,Diesel,Manual,243000,Cars24,2156
+1063,Ford,Ecosport TITANIUM 1.5L PETROL,2017,Kolkata,74964,Petrol,Manual,349000,Cars24,2494
+1064,Renault,Kwid RXT 1.,2022,Bangalore,49570,Petrol,Manual,311000,Cars24,376
+1065,Hyundai,Elite i20 ASTA 1.2 DUAL TONE,2017,Surat,23384,Petrol,Manual,367000,Cars24,1489
+1066,Honda,Amaze 1.2L I-VTEC S,2020,Jaipur,41263,Petrol,Manual,391000,Cars24,2261
+1067,Toyota,Glanza V,2021,Noida,39572,Petrol,Manual,443000,Cars24,2872
+1068,Honda,City 1.5L I-VTEC VX (O) MT,2015,New-Delhi,29235,Petrol,Manual,379000,Cars24,1080
+1069,Volkswagen,Vento HIGHLINE DIESEL 1.,2012,Hyderabad,54714,Diesel,Manual,190000,Cars24,213
+1070,Kia,SELTOS  GTX PLUS 1.5 DIESEL AT,2023,Mumbai,25593,Diesel,Automatic,1467000,Cars24,610
+1071,Kia,SONET HTK PLUS 1.,2023,Chennai,247576,Petrol,Manual,850000,Cars24,1000
+1072,Mahindra,TUV300 T,2015,Chennai,6207,Diesel,Manual,479000,Cars24,943
+1073,Kia,SELTOS HTK PLUS 1.5 DIESEL,2022,Noida,48585,Diesel,Manual,947000,Cars24,2938
+1074,Renault,Kwid RXT 1.0 (O),2021,Chennai,42387,Petrol,Manual,373000,Cars24,979
+1075,Renault,Kwid CLIMBER 1.0 AMT (O),2021,Kolkata,29579,Petrol,Automatic,319000,Cars24,2553
+1076,Kia,SONET HTX 1.,2021,Bangalore,551600,Diesel,Manual,806000,Cars24,388
+1077,Tata,NEXON XM PETROL,2022,New-Delhi,27608,Petrol,Manual,555000,Cars24,1062
+1078,Tata,Tiago XT PETROL,2016,Noida,84192,Petrol,Manual,229000,Cars24,2604
+1079,Renault,Kwid RXT 1.0 AMT (O),2017,New-Delhi,50004,Petrol,Automatic,217000,Cars24,1307
+1080,Hyundai,NEW SANTRO SPORTZ MT,2018,Chennai,29973,Petrol,Manual,393000,Cars24,913
+1081,Tata,PUNCH ACCOMPLISHED MT CNG,2023,Mumbai,56439,Cng,Manual,632000,Cars24,439
+1082,Volkswagen,Ameo TRENDLINE 1.2L,2016,Kochi,51284,Petrol,Manual,299000,Cars24,1844
+1083,Maruti,Dzire ZXI,2022,Chennai,31546,Petrol,Manual,644000,Cars24,883
+1084,Toyota,Glanza G,2021,Bangalore,36173,Petrol,Manual,630000,Cars24,347
+1085,Renault,Kiger RXT (O) MT,2022,Bangalore,48973,Petrol,Manual,520000,Cars24,373
+1086,Ford,Figo Aspire TITANIUM 1.2 PETROL,2016,Kochi,62201,Petrol,Manual,286000,Cars24,1813
+1087,Renault,Kwid RXL,2017,Noida,31490,Petrol,Manual,186000,Cars24,2881
+1088,Tata,Tiago XZA PETROL,2018,Kochi,66608,Petrol,Automatic,290000,Cars24,1728
+1089,Hyundai,i20 Active 1.4 SX,2015,Bangalore,80013,Diesel,Manual,484000,Cars24,278
+1090,Ford,Ecosport TITANIUM 1.5L DIESEL,2020,Lucknow,95605,Diesel,Manual,601000,Cars24,2151
+1091,Volkswagen,Polo HIGHLINE PLUS 1.0L TSI,2021,Noida,95312,Petrol,Manual,496000,Cars24,2976
+1092,Toyota,Etios GD,2015,Hyderabad,53809,Diesel,Manual,260000,Cars24,147
+1093,Tata,Tiago XZ PETROL,2016,Chennai,63711,Petrol,Manual,328000,Cars24,853
+1094,Maruti,Alto K10 VXI,2016,Chennai,12563,Petrol,Manual,263000,Cars24,895
+1095,Mahindra,XUV300 W6 1.2 PETROL AMT,2021,Lucknow,17711,Petrol,Automatic,628000,Cars24,2158
+1096,Ford,Figo Aspire TREND 1.2 PETROL,2017,Surat,85826,Petrol,Manual,262000,Cars24,1502
+1097,Maruti,Swift VDI AMT,2019,Hyderabad,75971,Diesel,Automatic,545000,Cars24,45
+1098,Renault,Duster 85 PS RXL DIESEL,2015,Jaipur,74080,Diesel,Manual,219000,Cars24,2383
+1099,Kia,SELTOS HTX 1.5 PETROL,2020,New-Delhi,16459,Petrol,Manual,950000,Cars24,1339
+1100,Ford,Ecosport TITANIUM + 1.5L DIESEL,2018,New-Delhi,26424,Diesel,Manual,505000,Cars24,1213
+1101,Ford,New Figo TITANIUM1.5 DIESEL,2017,Chennai,97482,Diesel,Manual,310000,Cars24,918
+1102,Renault,Kwid CLIMBER 1.0 AMT,2017,Mumbai,54483,Petrol,Automatic,206999,Cars24,588
+1103,Mahindra,MARAZZO M2 8 STR,2019,Chennai,64070,Diesel,Manual,755000,Cars24,936
+1104,Toyota,Etios VX-D,2015,Hyderabad,46836,Diesel,Manual,321000,Cars24,154
+1105,Tata,NEXON XM DIESEL,2018,Lucknow,77679,Diesel,Manual,371000,Cars24,2075
+1106,Mahindra,XUV700 AX 7 LUXURY P AT 7 STR,2022,New-Delhi,13673,Petrol,Automatic,1661000,Cars24,1243
+1107,Renault,Kwid RXT 1.0 AMT,2016,Surat,94221,Petrol,Automatic,165000,Cars24,1532
+1108,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,2019,Chennai,41945,Petrol,Manual,446000,Cars24,897
+1109,Toyota,YARIS J CVT,2018,Noida,69389,Petrol,Automatic,441000,Cars24,2871
+1110,Tata,NEXON XE DIESEL,2018,Bangalore,61900,Diesel,Manual,599000,Cars24,218
+1111,Renault,Kwid RXT 1.,2016,Pune,65284,Petrol,Manual,236000,Cars24,780
+1112,Maruti,Alto 800 LXI,2014,Chennai,43217,Petrol,Manual,190000,Cars24,894
+1113,Bmw,3 Series 320d,2012,Surat,47305,Diesel,Automatic,700000,Cars24,1524
+1114,Kia,SONET HTX 1.5D IMT,2023,Chennai,39229,Diesel,Manual,999000,Cars24,987
+1115,Honda,City 1.5L I-VTEC V MT,2016,New-Delhi,86668,Petrol,Manual,364000,Cars24,1075
+1116,Honda,Amaze 1.2L I-VTEC V,2019,Agra,81765,Petrol,Manual,443000,Cars24,1586
+1117,Maruti,Alto 800 VXI,2016,Bangalore,73992,Petrol,Manual,264000,Cars24,265
+1118,Honda,City 1.5L I-VTEC ZX CVT,2022,Hyderabad,95968,Petrol,Automatic,860000,Cars24,36
+1119,Toyota,Etios G,2011,Ahmedabad,16307,Petrol,Manual,134000,Cars24,1994
+1120,Kia,SELTOS HTE (O)1.5 Petrol MT,2025,Agra,5744,Petrol,Manual,1100000,Cars24,1711
+1121,Volkswagen,Polo GT TSI AT,2018,Chennai,65748,Petrol,Automatic,643000,Cars24,1018
+1122,Maruti,Baleno ZETA PETROL 1.,2020,Chennai,259901,Petrol,Manual,547000,Cars24,890
+1123,Volkswagen,Polo HIGHLINE1.5L,2017,Chennai,76272,Diesel,Manual,465000,Cars24,1022
+1124,Ford,Ecosport TITANIUM 1.5L DIESEL,2017,New-Delhi,9805,Diesel,Manual,319000,Cars24,1193
+1125,Honda,Jazz 1.2L I-VTEC V AT,2017,Chennai,57503,Petrol,Automatic,408000,Cars24,866
+1126,Maruti,Wagon R 1.0 VXI AMT,2017,Ahmedabad,38386,Petrol,Automatic,346000,Cars24,1896
+1127,Tata,ALTROZ XZ PETROL,2021,Coimbatore,50067,Petrol,Manual,522000,Cars24,2981
+1128,Hyundai,Creta SX PLUS AT 1.6 PETROL,2016,New-Delhi,69401,Petrol,Automatic,513000,Cars24,1164
+1129,Maruti,BREZZA ZXI,2022,Bangalore,26717,Petrol,Manual,841000,Cars24,261
+1130,Tata,PUNCH ADVENTURE MT,2023,Noida,31710,Petrol,Manual,483000,Cars24,2624
+1131,Tata,NEXON XZA PLUS PETROL DUAL TONE,2019,Hyderabad,84719,Petrol,Automatic,505000,Cars24,1
+1132,Mahindra,BOLERO NEO N10 R,2024,Agra,4733,Diesel,Manual,1068000,Cars24,1672
+1133,Maruti,Swift VXI,2018,Jaipur,72064,Petrol,Manual,422000,Cars24,2282
+1134,Renault,Kiger RXZ TURBO CVT,2023,New-Delhi,94333,Petrol,Automatic,631000,Cars24,1334
+1135,Honda,Brio S MT,2014,Surat,15782,Petrol,Manual,236000,Cars24,1443
+1136,Ford,Ecosport TITANIUM 1.5L DIESEL,2016,Agra,50931,Diesel,Manual,338000,Cars24,1649
+1137,Toyota,YARIS G MT,2020,Mumbai,48693,Petrol,Manual,494000,Cars24,558
+1138,Kia,SELTOS GTX AT 1.4 PETROL,2020,New-Delhi,79439,Petrol,Automatic,839000,Cars24,1344
+1139,Hyundai,i10 MAGNA 1.,2014,Noida,148213,Petrol,Manual,128000,Cars24,2727
+1140,Honda,Amaze 1.5L I-DTEC E,2013,Jaipur,74078,Diesel,Manual,150000,Cars24,2275
+1141,Volkswagen,TIGUAN HIGHLINE TDI AT,2019,Hyderabad,53249,Diesel,Automatic,1561000,Cars24,198
+1142,Kia,SELTOS GTX PLUS DCT 1.4 PETROL,2019,Jaipur,37479,Petrol,Automatic,1156000,Cars24,2402
+1143,Kia,SELTOS HTX 1.5 DIESEL,2021,Ahmedabad,47970,Diesel,Manual,819999,Cars24,2037
+1144,Mahindra,XUV300 W8 1.2 PETROL,2022,Kolkata,41249,Petrol,Manual,666000,Cars24,2512
+1145,Volkswagen,Polo TRENDLINE 1.2L PETROL,2011,New-Delhi,75931,Petrol,Manual,84000,Cars24,1389
+1146,Renault,Kwid RXL,2019,Noida,27315,Petrol,Manual,227999,Cars24,2902
+1147,Renault,Kwid RXL,2017,New-Delhi,75770,Petrol,Manual,160000,Cars24,1325
+1148,Honda,Amaze 1.2L I-VTEC VX,2019,Pune,96245,Cng,Manual,509999,Cars24,658
+1149,Ford,Ecosport TITANIUM 1.5L DIESEL (OPT),2014,Surat,75716,Diesel,Manual,342000,Cars24,1499
+1150,Ford,Ecosport TREND 1.5L PETROL,2015,Jaipur,21347,Petrol,Manual,330000,Cars24,2334
+1151,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,2018,Surat,44398,Cng,Manual,380000,Cars24,1485
+1152,Volkswagen,Polo HIGHLINE1.2L,2014,New-Delhi,71135,Petrol,Manual,254999,Cars24,1399
+1153,Mahindra,XUV300 W8 1.5 DIESEL,2019,Ahmedabad,34003,Diesel,Manual,539000,Cars24,1956
+1154,Kia,SELTOS GTX PLUS AT 1.5 DIESEL,2020,Chennai,45804,Diesel,Automatic,1330000,Cars24,996
+1155,Volkswagen,Polo HIGHLINE1.2L,2015,New-Delhi,79459,Petrol,Manual,252000,Cars24,1404
+1156,Bmw,3 Series 320d Luxury Line,2016,Jaipur,96730,Diesel,Automatic,1350000,Cars24,2363
+1157,Tata,NEXON XZ PLUS PETROL,2019,New-Delhi,40741,Petrol,Manual,415000,Cars24,1058
+1158,Toyota,Glanza G CVT,2019,Chennai,51972,Petrol,Automatic,549000,Cars24,955
+1159,Toyota,Etios G,2011,Hyderabad,77799,Petrol,Manual,178000,Cars24,146
+1160,Mahindra,SCORPIO-N Z8 L DIESEL AT 2WD 7 STR,2022,Hyderabad,78037,Diesel,Automatic,1730000,Cars24,113
+1161,Hyundai,i20 Active 1.2 S,2018,Kolkata,43067,Petrol,Manual,453000,Cars24,2478
+1162,Volkswagen,Polo GT TSI AT,2019,Jaipur,3074,Petrol,Automatic,484000,Cars24,2406
+1163,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,2018,Noida,94763,Petrol,Manual,246000,Cars24,2740
+1164,Hyundai,GRAND I10 NIOS ASTA 1.2 KAPPA VTVT CNG,2021,Mumbai,20032,Cng,Manual,585000,Cars24,483
+1165,Ford,Figo LXI 1.4 DIESEL,2013,Pune,98682,Diesel,Manual,227000,Cars24,721
+1166,Tata,NEXON XM PETROL,2018,Jaipur,75592,Petrol,Manual,397000,Cars24,2256
+1167,Hyundai,i10 SPORTZ 1.,2013,Kochi,15573,Petrol,Manual,133000,Cars24,1783
+1168,Hyundai,Elite i20 MAGNA 1.4 CRDI,2015,Ahmedabad,42570,Diesel,Manual,359000,Cars24,1916
+1169,Kia,SELTOS HTX ANNIVERSARY EDITION 1.5 PETROL,2021,Bangalore,6571,Petrol,Manual,990000,Cars24,400
+1170,Mahindra,XUV300 W8 1.5 DIESEL,2020,Noida,91682,Diesel,Manual,518000,Cars24,2799
+1171,Maruti,BREZZA ZXI + SMART HYBRID DUAL TONE,2022,New-Delhi,50640,Petrol,Manual,801000,Cars24,1129
+1172,Hyundai,Elite i20 SPORTZ 1.,2015,New-Delhi,251764,Petrol,Manual,266000,Cars24,1150
+1173,Tata,Tiago XT PETROL,2019,Agra,82203,Petrol,Manual,220000,Cars24,1569
+1174,Volkswagen,Polo HIGHLINE1.2L,2014,Hyderabad,86264,Petrol,Manual,337000,Cars24,215
+1175,Volkswagen,Vento HIGHLINE 1.6 MPI,2011,Lucknow,95692,Petrol,Manual,142000,Cars24,2232
+1176,Tata,NEXON  XZA Plus LUXS Jet,2023,Surat,26626,Petrol,Automatic,835000,Cars24,1423
+1177,Kia,SELTOS HTX PETROL 1.,2023,Noida,539139,Petrol,Manual,928999,Cars24,2917
+1178,Hyundai,ALCAZAR Signature 7 STR 1.5 Turbo GDi Petrol DCT,2024,New-Delhi,4227,Petrol,Automatic,1850000,Cars24,1155
+1179,Toyota,Innova Crysta 2.4 G 7 STR,2017,Lucknow,12934,Diesel,Manual,913000,Cars24,2185
+1180,Kia,CARENS PRESTIGE 1.5 PETROL 7 STR,2022,Ahmedabad,7566,Petrol,Manual,867000,Cars24,2022
+1181,Maruti,Wagon R 1.0 VXI,2015,Noida,29183,Petrol,Manual,254000,Cars24,2706
+1182,Tata,PUNCH ADVENTURE MT,2022,Agra,48601,Petrol,Manual,480000,Cars24,1568
+1183,Bmw,5 Series 520D 2.,2013,Mumbai,55045,Diesel,Automatic,825000,Cars24,546
+1184,Kia,SELTOS HTX 1.5 DIESEL AT,2022,Kochi,47237,Diesel,Automatic,1464000,Cars24,1841
+1185,Renault,Kwid RXL 1.,2017,Surat,52975,Petrol,Manual,206000,Cars24,1536
+1186,Maruti,New Wagon-R VXI 1.,2021,Ahmedabad,65482,Petrol,Manual,377000,Cars24,1902
+1187,Mahindra,TUV300 T,2016,Jaipur,10417,Diesel,Manual,248000,Cars24,2341
+1188,Hyundai,Creta E PLUS 1.4 DIESEL,2020,Agra,17833,Diesel,Manual,702000,Cars24,1628
+1189,Volkswagen,Ameo TRENDLINE 1.0L,2018,New-Delhi,54685,Petrol,Manual,318000,Cars24,1394
+1190,Ford,Ecosport TITANIUM 1.5L DIESEL,2013,Ahmedabad,53773,Diesel,Manual,275000,Cars24,1953
+1191,Hyundai,i10 MAGNA 1.,2014,Jaipur,139436,Petrol,Manual,215000,Cars24,2316
+1192,Renault,Kwid RXL,2016,Noida,20312,Petrol,Manual,121000,Cars24,2889
+1193,Honda,Amaze 1.2L I-VTEC SX,2016,Hyderabad,95819,Petrol,Manual,418000,Cars24,20
+1194,Toyota,YARIS J CVT,2018,Bangalore,77860,Petrol,Automatic,500000,Cars24,348
+1195,Honda,Brio S MT,2013,Pune,92754,Petrol,Manual,175000,Cars24,671
+1196,Mahindra,XUV300 W6 1.5 DIESEL AMT,2021,Hyderabad,26069,Diesel,Automatic,891000,Cars24,103
+1197,Hyundai,Elite i20 ASTA 1.,2017,Kolkata,222932,Petrol,Manual,356000,Cars24,2489
+1198,Honda,Brio V MT,2012,Ahmedabad,95478,Petrol,Manual,168000,Cars24,1882
+1199,Honda,Amaze 1.2L I-VTEC S,2015,Hyderabad,88450,Petrol,Manual,266000,Cars24,24
+1200,Maruti,Eeco 5 STR WITH A/C+HTR,2019,Hyderabad,78668,Petrol,Manual,395000,Cars24,40
+1201,Renault,Kwid RXL,2019,Noida,63301,Petrol,Manual,192000,Cars24,2893
+1202,Ford,Ecosport TITANIUM 1.5L DIESEL,2017,Coimbatore,30893,Diesel,Manual,432000,Cars24,3038
+1203,Maruti,Swift LXI (O),2015,Chennai,87471,Petrol,Manual,337000,Cars24,877
+1204,Bmw,3 Series 320d,2011,Hyderabad,36172,Diesel,Automatic,600000,Cars24,120
+1205,Hyundai,NEW I20 SPORTZ 1.2 MT,2023,Chennai,27352,Petrol,Manual,699000,Cars24,914
+1206,Toyota,URBAN CRUISER HYRYDER S AT NEO DRIVE,2023,Ahmedabad,24267,Petrol,Automatic,1119000,Cars24,1985
+1207,Toyota,Glanza S AMT,2022,New-Delhi,55454,Petrol,Automatic,540000,Cars24,1270
+1208,Kia,SONET HTX 1.5 AT,2024,Ahmedabad,34478,Diesel,Automatic,1065000,Cars24,2038
+1209,Tata,NEXON Fearless Plus S 1.2 Revotron 7DCA Dark Edition,2024,Ahmedabad,37581,Petrol,Automatic,913000,Cars24,1871
+1210,Honda,Brio S MT,2015,Ahmedabad,39551,Petrol,Manual,243000,Cars24,1890
+1211,Maruti,XL6 ALPHA AT,2019,Mumbai,56222,Petrol,Automatic,645000,Cars24,479
+1212,Tata,NEXON Creative 1.5 Revotorq 6MT Dark Edition,2024,New-Delhi,20886,Diesel,Manual,1019000,Cars24,1054
+1213,Renault,Kwid 1.0 RXT 02 Anniversary Edition,2017,Ahmedabad,37810,Petrol,Manual,210000,Cars24,2011
+1214,Maruti,Alto VXI,2021,Pune,60179,Petrol,Manual,298000,Cars24,679
+1215,Hyundai,NEW I20 N LINE N8 1.0 TURBO GDI DCT,2022,Noida,47607,Petrol,Automatic,850000,Cars24,2741
+1216,Toyota,Etios GD,2018,Agra,21769,Diesel,Manual,397000,Cars24,1693
+1217,Hyundai,Eon ERA +,2017,Ahmedabad,10624,Cng,Manual,190000,Cars24,1931
+1218,Toyota,Etios G,2014,Pune,15924,Petrol,Manual,211000,Cars24,770
+1219,Volkswagen,Polo TRENDLINE 1.0L,2021,Noida,58263,Petrol,Manual,438999,Cars24,2965
+1220,Hyundai,Xcent SX 1.,2014,Lucknow,289519,Petrol,Manual,261000,Cars24,2134
+1221,Maruti,Swift ZXI,2018,Pune,71190,Petrol,Manual,436000,Cars24,690
+1222,Toyota,Fortuner 4X4 AT 2.8 DIESEL,2023,New-Delhi,83352,Diesel,Automatic,3210000,Cars24,1289
+1223,Renault,Kiger RXZ MT,2021,Ahmedabad,46461,Petrol,Manual,428000,Cars24,2007
+1224,Mahindra,XUV300 W8 (O) 1.5 DIESEL,2019,Surat,86052,Diesel,Manual,650000,Cars24,1521
+1225,Hyundai,i20 Active 1.2 S,2016,Kolkata,8259,Petrol,Manual,281000,Cars24,2486
+1226,Maruti,Ertiga VXI,2015,Noida,54774,Petrol,Manual,407000,Cars24,2694
+1227,Kia,CARENS LUXURY PLUS 1.5 DIESEL AT 7 STR,2023,Noida,47522,Diesel,Automatic,1235000,Cars24,2916
+1228,Kia,SELTOS HTX PLUS 1.5 DIESEL,2020,Hyderabad,76870,Diesel,Manual,1120000,Cars24,184
+1229,Maruti,Vitara Brezza ZDI AMT,2019,Kolkata,57090,Diesel,Automatic,501000,Cars24,2461
+1230,Volkswagen,Polo COMFORTLINE 1.2L,2014,Kolkata,71253,Petrol,Manual,165000,Cars24,2589
+1231,Toyota,Etios G,2014,Ahmedabad,91170,Petrol,Manual,150000,Cars24,1989
+1232,Toyota,Urban Cruiser Taisor V 1.0 Petrol MT,2024,New-Delhi,18413,Petrol,Manual,782000,Cars24,1288
+1233,Ford,Ecosport TITANIUM 1.5 SPORTS(SUNROOF) PETROL,2020,Hyderabad,74914,Petrol,Manual,745000,Cars24,98
+1234,Honda,Amaze 1.2L I-VTEC S,2020,New-Delhi,45447,Petrol,Manual,400000,Cars24,1093
+1235,Kia,SONET HTK PLUS 1.,2023,New-Delhi,249491,Petrol,Manual,800000,Cars24,1353
+1236,Ford,Ecosport TITANIUM 1.5L DIESEL,2016,New-Delhi,88625,Diesel,Manual,286000,Cars24,1224
+1237,Ford,Ecosport TITANIUM 1.5L DIESEL,2017,Noida,74828,Diesel,Manual,302000,Cars24,2768
+1238,Honda,WR-V 1.2L I-VTEC S MT,2018,New-Delhi,95235,Petrol,Manual,378000,Cars24,1077
+1239,Tata,NEXON XZ PLUS (LUXURY) KAZIRANGA PETROL,2023,Hyderabad,20796,Petrol,Manual,866000,Cars24,9
+1240,Hyundai,Verna FLUIDIC 1.6 CRDI SX,2013,Agra,4758,Diesel,Manual,370000,Cars24,1635
+1241,Kia,CARNIVAL LIMOUSINE PLUS 2.2 7 STR,2025,New-Delhi,10558,Diesel,Automatic,6000000,Cars24,1340
+1242,Toyota,Fortuner 4X2 MT 2.8 DIESEL,2024,Pune,16861,Diesel,Manual,3750000,Cars24,766
+1243,Honda,City 1.5L I-VTEC V MT 5TH GEN,2022,Agra,48914,Petrol,Manual,795000,Cars24,1602
+1244,Volkswagen,TAIGUN HIGHLINE 1.0 TSI AT,2022,Noida,17892,Petrol,Automatic,858000,Cars24,2964
+1245,Toyota,Etios Liva VX,2017,Chennai,46377,Petrol,Manual,409000,Cars24,956
+1246,Hyundai,Creta SX PLUS 1.6 PETROL,2016,Mumbai,20573,Petrol,Manual,576000,Cars24,489
+1247,Kia,SELTOS HTX 1.5 PETROL,2022,Bangalore,28282,Petrol,Manual,1109000,Cars24,384
+1248,Renault,TRIBER RXZ,2020,Mumbai,35738,Petrol,Manual,433000,Cars24,589
+1249,Toyota,Innova V 2.5 7 STR,2012,Lucknow,4198,Diesel,Manual,540000,Cars24,2193
+1250,Renault,Kwid RXT 1.0 (O),2018,Surat,65589,Petrol,Manual,190000,Cars24,1530
+1251,Volkswagen,Polo HIGHLINE1.2L,2013,Noida,58011,Petrol,Manual,233000,Cars24,2970
+1252,Tata,NEXON XZ DIESEL,2019,Agra,33803,Diesel,Manual,556000,Cars24,1575
+1253,Tata,NEXON PURE 1.2 PETROL,2023,Lucknow,88371,Cng,Manual,677000,Cars24,2064
+1254,Honda,Amaze 1.2L I-VTEC S,2018,Noida,70902,Petrol,Manual,330000,Cars24,2639
+1255,Hyundai,i20 ASTA 1.4 CRDI,2013,Kolkata,10731,Diesel,Manual,234000,Cars24,2473
+1256,Hyundai,NEW SANTRO SPORTZ EXECUTIVE MT CNG,2022,New-Delhi,91678,Cng,Manual,372000,Cars24,1166
+1257,Toyota,Innova 2.5 VX 7 STR,2015,Bangalore,9399,Diesel,Manual,830000,Cars24,361
+1258,Honda,City 1.5L I-VTEC V MT,2014,Noida,75162,Petrol,Manual,275000,Cars24,2645
+1259,Renault,Kiger RXZ TURBO MT,2022,New-Delhi,88148,Petrol,Manual,479000,Cars24,1336
+1260,Mahindra,Kuv100 K2 D 6 STR,2016,Kolkata,65477,Diesel,Manual,169000,Cars24,2521
+1261,Bmw,7 Series 730Ld,2011,Mumbai,8880,Diesel,Automatic,1072000,Cars24,555
+1262,Hyundai,i10 MAGNA 1.,2012,New-Delhi,643,Petrol,Manual,93000,Cars24,1174
+1263,Renault,Kwid RXT 1.0 AMT (O),2020,Lucknow,35329,Petrol,Automatic,349000,Cars24,2206
+1264,Toyota,URBAN CRUISER HYRYDER G NEO DRIVE,2023,Noida,9209,Petrol,Manual,1210000,Cars24,2857
+1265,Honda,City 1.5L I-VTE V CVT,2019,Jaipur,54210,Petrol,Automatic,500000,Cars24,2266
+1266,Hyundai,NEW I20 N LINE N8 1.0 TURBO GDI DCT,2022,Kochi,26535,Petrol,Automatic,930000,Cars24,1799
+1267,Ford,Ecosport AMBIENTE 1.5L PETROL,2016,Noida,72113,Petrol,Manual,278000,Cars24,2777
+1268,Renault,Kwid RXT 1.,2016,Bangalore,77830,Petrol,Manual,238000,Cars24,363
+1269,Volkswagen,Polo COMFORTLINE 1.2L PETROL,2013,New-Delhi,74264,Petrol,Manual,143000,Cars24,1391
+1270,Renault,Fluence 1.5 E,2012,Jaipur,260757,Diesel,Manual,330000,Cars24,2381
+1271,Bmw,Z4 M40i M sport,2023,Pune,28878,Petrol,Automatic,8500000,Cars24,754
+1272,Toyota,Etios G,2011,Ahmedabad,10482,Petrol,Manual,138000,Cars24,1999
+1273,Bmw,3 Series 320d Luxury Line,2018,Lucknow,32237,Diesel,Automatic,1700000,Cars24,2174
+1274,Maruti,Swift VXI,2020,New-Delhi,51589,Petrol,Manual,419000,Cars24,1135
+1275,Renault,Duster 110 PS RXZ DIESEL,2013,Kochi,81347,Diesel,Manual,235000,Cars24,1831
+1276,Honda,Mobilio 1.5L I-DTEC S,2014,Lucknow,3327,Diesel,Manual,281000,Cars24,2094
+1277,Kia,Carens Clavis HTK 1.5 Diesel MT,2025,Surat,6438,Diesel,Manual,1561000,Cars24,1548
+1278,Tata,NEXON XZ PLUS PETROL,2022,Agra,15686,Petrol,Manual,795000,Cars24,1582
+1279,Maruti,S Cross ZETA 1.,2015,Coimbatore,7946,Diesel,Manual,357000,Cars24,3015
+1280,Ford,Ecosport TREND 1.5L PETROL,2016,Kochi,57891,Petrol,Manual,438999,Cars24,1812
+1281,Volkswagen,Vento HIGHLINE DIESEL 1.,2015,Bangalore,578742,Diesel,Manual,442000,Cars24,420
+1282,Maruti,Baleno DELTA PETROL 1.,2020,Ahmedabad,253838,Petrol,Manual,438000,Cars24,1900
+1283,Volkswagen,Vento COMFORTLINE DIESEL 1.,2015,Ahmedabad,21340,Diesel,Manual,302000,Cars24,2043
+1284,Bmw,X1 SDRIVE 20D,2014,Pune,85258,Diesel,Automatic,774000,Cars24,759
+1285,Toyota,Glanza V,2019,Bangalore,53080,Petrol,Manual,567000,Cars24,352
+1286,Mahindra,XUV700 AX 5 D MT 7 STR,2022,Bangalore,33379,Diesel,Manual,1590000,Cars24,326
+1287,Hyundai,Elite i20 SPORTZ PLUS 1.2 DUAL TONE,2019,Chennai,23356,Petrol,Manual,578000,Cars24,901
+1288,Honda,Amaze 1.2L I-VTEC VX CVT,2019,Chennai,69546,Petrol,Automatic,503000,Cars24,872
+1289,Honda,Jazz 1.2L I-VTEC V AT,2018,Kochi,64930,Petrol,Automatic,459000,Cars24,1741
+1290,Maruti,Baleno DELTA PETROL 1.,2020,Noida,298253,Petrol,Manual,401999,Cars24,2692
+1291,Hyundai,Elite i20 SPORTZ PLUS 1.,2020,Jaipur,238720,Petrol,Manual,449000,Cars24,2308
+1292,Renault,Duster 110 PS RXZ 4X2 AMT DIESEL,2016,Mumbai,11881,Diesel,Automatic,413999,Cars24,594
+1293,Bmw,3 SERIES GRAN LIMOUSINE 330Li LUXURY LINE,2021,Kolkata,12536,Petrol,Automatic,4050000,Cars24,2532
+1294,Hyundai,Tucson SIGNATURE 2.0 AT PETROL,2022,New-Delhi,17916,Petrol,Automatic,2275000,Cars24,1154
+1295,Kia,SELTOS HTK PLUS 1.,2021,Mumbai,545883,Petrol,Manual,852999,Cars24,614
+1296,Ford,Ecosport TITANIUM 1.5L DIESEL,2016,Lucknow,92070,Diesel,Manual,355000,Cars24,2154
+1297,Hyundai,Xcent SX 1.,2016,Ahmedabad,12065,Petrol,Manual,343000,Cars24,1922
+1298,Renault,TRIBER RXZ,2021,Chennai,26265,Petrol,Manual,588000,Cars24,981
+1299,Honda,Amaze 1.2L I-VTEC SX,2016,Noida,75014,Petrol,Manual,245000,Cars24,2654
+1300,Hyundai,NEW I20 SPORTZ 1.2 MT,2023,Ahmedabad,38249,Petrol,Manual,599000,Cars24,1932
+1301,Maruti,Celerio X ZXI AMT,2018,Mumbai,46076,Petrol,Automatic,299000,Cars24,481
+1302,Toyota,Innova Crysta 2.7 GX 7 STR MT,2018,New-Delhi,92199,Petrol,Manual,918000,Cars24,1295
+1303,Mahindra,XUV700 AX 5 D MT 7 STR,2022,Agra,25493,Diesel,Manual,1365000,Cars24,1677
+1304,Mahindra,Thar LX D 4WD MT CONVERTIBLE,2020,Kolkata,27012,Diesel,Manual,925000,Cars24,2513
+1305,Mahindra,MARAZZO M4 7 STR,2019,Noida,71260,Diesel,Manual,509999,Cars24,2798
+1306,Volkswagen,Polo GT TSI AT,2014,Mumbai,66554,Petrol,Automatic,315000,Cars24,627
+1307,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,2014,Mumbai,49805,Petrol,Manual,241000,Cars24,491
+1308,Mahindra,KUV 100 NXT K8 D 6 STR,2018,Ahmedabad,25416,Diesel,Manual,357000,Cars24,1965
+1309,Kia,CARNIVAL LIMOUSINE 2.2 7 STR,2020,Agra,52681,Diesel,Automatic,2190000,Cars24,1718
+1310,Maruti,Swift VDI ABS,2015,Lucknow,79433,Diesel,Manual,283000,Cars24,2119
+1311,Bmw,3 Series 320i,2011,New-Delhi,57260,Petrol,Automatic,237000,Cars24,1264
+1312,Ford,Figo Aspire TREND 1.2 PETROL,2016,Noida,64974,Petrol,Manual,225000,Cars24,2763
+1313,Kia,SELTOS HTE 1.5D IMT,2023,Lucknow,86261,Diesel,Manual,949000,Cars24,2216
+1314,Volkswagen,Ameo HIGHLINE1.2L,2016,Hyderabad,78203,Petrol,Manual,367000,Cars24,200
+1315,Renault,Kwid RXT 1.0 AMT (O),2017,Mumbai,23001,Petrol,Automatic,234000,Cars24,592
+1316,Honda,Brio V MT,2013,Agra,83134,Petrol,Manual,114999,Cars24,1588
+1317,Volkswagen,Ameo TRENDLINE 1.5L,2018,Hyderabad,17375,Diesel,Manual,381000,Cars24,203
+1318,Kia,CARENS PRESTIGE PLUS 1.4 PETROL 7 STR,2023,Chennai,61397,Petrol,Manual,1150000,Cars24,994
+1319,Mahindra,XUV300 W6 1.5 Diesel,2023,Surat,37287,Diesel,Manual,871000,Cars24,1517
+1320,Ford,Figo ZXI 1.2 PETROL,2011,Mumbai,72120,Petrol,Manual,78000,Cars24,515
+1321,Maruti,Baleno ALPHA PETROL 1.,2019,Kolkata,273830,Petrol,Manual,359000,Cars24,2469
+1322,Ford,Figo ZXI 1.2 PETROL,2011,Mumbai,51007,Petrol,Manual,96000,Cars24,512
+1323,Hyundai,Elite i20 ASTA 1.2 (O),2019,Surat,79137,Cng,Manual,470000,Cars24,1481
+1324,Ford,Figo Aspire TITANIUM 1.2 PETROL,2017,New-Delhi,61651,Petrol,Manual,231999,Cars24,1195
+1325,Honda,City 1.5L I-VTEC VX,2015,Bangalore,66803,Petrol,Manual,560000,Cars24,240
+1326,Renault,TRIBER Techno,2025,Jaipur,2210,Petrol,Manual,770000,Cars24,2388
+1327,Honda,City 1.5L I-VTEC VX CVT,2018,Kolkata,69662,Petrol,Automatic,525000,Cars24,2434
+1328,Toyota,Fortuner 3.0 4X2 AT,2014,Surat,91307,Diesel,Automatic,934000,Cars24,1527
+1329,Mahindra,KUV 100 NXT K2 P 6 STR,2018,Kochi,17136,Cng,Manual,252000,Cars24,1815
+1330,Kia,SELTOS GTX PLUS AT 1.5 DIESEL,2020,Coimbatore,74299,Diesel,Automatic,1145000,Cars24,3062
+1331,Renault,TRIBER RXT,2022,Agra,44135,Petrol,Manual,531000,Cars24,1700
+1332,Kia,SONET HTK 1.5 DIESEL IMT,2023,Lucknow,51196,Diesel,Manual,786000,Cars24,2210
+1333,Maruti,Ertiga ZXI,2012,Mumbai,35791,Petrol,Manual,284000,Cars24,480
+1334,Ford,Figo EXI 1.4 DIESEL,2012,Kochi,14954,Diesel,Manual,112000,Cars24,1809
+1335,Ford,Ecosport TREND 1.5L DIESEL,2015,Jaipur,71693,Diesel,Manual,241000,Cars24,2328
+1336,Honda,Amaze 1.2L I-VTEC S,2017,New-Delhi,69980,Petrol,Manual,320000,Cars24,1097
+1337,Kia,SONET HTX 1.,2020,Lucknow,56461,Diesel,Manual,732000,Cars24,2227
+1338,Kia,SELTOS HTK PLUS 1.,2020,Noida,596978,Petrol,Manual,655000,Cars24,2933
+1339,Mahindra,XUV300 W8(O) 1.2 PETROL DUAL TONE,2021,Kolkata,5206,Petrol,Manual,715000,Cars24,2508
+1340,Ford,Ecosport TREND 1.5L DIESEL,2015,Bangalore,92380,Diesel,Manual,387000,Cars24,315
+1341,Ford,Ecosport TITANIUM 1.5L SIGNATURE EDITION (SUNROOF) DIESEL,2018,Agra,1181,Diesel,Manual,479000,Cars24,1651
+1342,Volkswagen,Polo GT TSI AT,2019,Hyderabad,40465,Petrol,Automatic,672000,Cars24,209
+1343,Toyota,URBAN CRUISER MID GRADE MT,2021,Hyderabad,16911,Petrol,Manual,560000,Cars24,143
+1344,Honda,Amaze 1.2L I-VTEC VX CVT,2020,Kolkata,33811,Petrol,Automatic,495000,Cars24,2435
+1345,Renault,Kwid CLIMBER 1.0 (O),2019,Surat,76355,Petrol,Manual,250000,Cars24,1537
+1346,Mahindra,XUV300 W8 (O) 1.2 PETROL,2022,Noida,33154,Petrol,Manual,765000,Cars24,2820
+1347,Bmw,3 Series 330I,2011,Mumbai,87724,Petrol,Automatic,500000,Cars24,553
+1348,Volkswagen,Polo HIGHLINE1.2L,2012,Pune,95466,Petrol,Manual,204999,Cars24,827
+1349,Renault,TRIBER RXZ AMT,2021,Surat,19077,Petrol,Automatic,483000,Cars24,1533
+1350,Kia,SELTOS HTK 1.5 PETROL,2023,Bangalore,41217,Petrol,Manual,1000000,Cars24,396
+1351,Maruti,Alto K10 VXI,2023,Kochi,14063,Petrol,Manual,363000,Cars24,1769
+1352,Bmw,X1 sDrive18i M Sport,2025,Mumbai,6428,Petrol,Automatic,4035000,Cars24,552
+1353,Tata,NEXON XM DIESEL,2018,Kolkata,60615,Diesel,Manual,467000,Cars24,2428
+1354,Mahindra,Thar LX PETROL HT 4WD AT,2021,Hyderabad,35823,Petrol,Automatic,1105000,Cars24,111
+1355,Tata,NEXON XZ PLUS (PREMIUM) KAZIRANGA PETROL,2022,Lucknow,60449,Petrol,Manual,674000,Cars24,2071
+1356,Hyundai,i10 MAGNA 1.,2015,Lucknow,136590,Petrol,Manual,247000,Cars24,2120
+1357,Volkswagen,Vento HIGHLINE PLUS 1.2 AT 16 ALLOY,2018,Surat,11005,Petrol,Automatic,350000,Cars24,1556
+1358,Kia,SONET HTK PLUS 1.0 IMT,2020,Noida,76349,Petrol,Manual,543000,Cars24,2942
+1359,Tata,ALTROZ XZA PLUS,2023,Mumbai,53702,Petrol,Automatic,663000,Cars24,430
+1360,Maruti,Swift Dzire VXI,2016,Ahmedabad,49097,Petrol,Manual,323000,Cars24,1904
+1361,Kia,CARENS LUXURY PLUS 1.4 PETROL 7 STR,2022,Lucknow,29070,Petrol,Manual,1112000,Cars24,2214
+1362,Volkswagen,Ameo HIGHLINE PLUS 1.0L 16 ALLOY,2018,Surat,28374,Petrol,Manual,389000,Cars24,1562
+1363,Renault,Kwid CLIMBER 1.0 (O),2020,Ahmedabad,98530,Petrol,Manual,250000,Cars24,2010
+1364,Honda,Amaze 1.2L I-VTEC VX,2015,Kochi,45112,Petrol,Manual,294000,Cars24,1746
+1365,Maruti,Swift Dzire VXI,2014,Kolkata,24319,Petrol,Manual,287000,Cars24,2456
+1366,Kia,SONET GTX PLUS 1.,2020,Ahmedabad,24139,Diesel,Manual,776000,Cars24,2040
+1367,Maruti,Celerio VXI AMT,2016,Jaipur,13379,Petrol,Automatic,234000,Cars24,2280
+1368,Volkswagen,Polo HIGHLINE1.2L,2016,Kolkata,39547,Petrol,Manual,336000,Cars24,2587
+1369,Tata,TIGOR XM CNG,2023,Noida,60776,Cng,Manual,437000,Cars24,2625
+1370,Tata,TIGOR XE PETROL,2021,Pune,84487,Petrol,Manual,398000,Cars24,649
+1371,Mahindra,Thar LX PETROL HT 4WD AT,2021,Noida,39403,Petrol,Automatic,1050000,Cars24,2804
+1372,Maruti,Swift Dzire VXI (O),2017,Lucknow,61200,Petrol,Manual,388000,Cars24,2114
+1373,Renault,Kwid CLIMBER 1.0 AMT (O),2021,Bangalore,49505,Petrol,Automatic,349000,Cars24,381
+1374,Honda,Amaze 1.2L I-VTEC S,2015,Chennai,67991,Petrol,Manual,305000,Cars24,862
+1375,Honda,City 1.5L I-VTEC V MT,2018,Bangalore,33547,Petrol,Manual,640000,Cars24,249
+1376,Bmw,3 Series 320d Luxury Line,2016,Hyderabad,41493,Diesel,Automatic,1137000,Cars24,124
+1377,Mahindra,Bolero SLE BS IV,2012,Lucknow,62231,Diesel,Manual,236000,Cars24,2166
+1378,Honda,Amaze 1.2L I-VTEC S OPT,2018,Noida,47377,Petrol,Manual,299000,Cars24,2667
+1379,Tata,ALTROZ XE PETROL,2021,Noida,33213,Petrol,Manual,401999,Cars24,2626
+1380,Hyundai,Eon MAGNA +,2011,Agra,64769,Petrol,Manual,106000,Cars24,1645
+1381,Toyota,Innova 2.5 VX 8 STR,2012,Mumbai,46632,Diesel,Manual,400000,Cars24,566
+1382,Mahindra,XUV500 W,2016,Surat,52480,Diesel,Manual,316000,Cars24,1512
+1383,Hyundai,Eon MAGNA +,2013,Kochi,43471,Petrol,Manual,133000,Cars24,1798
+1384,Renault,Kiger RXT (O) AMT,2024,Noida,8350,Petrol,Automatic,593000,Cars24,2885
+1385,Volkswagen,Ameo HIGHLINE1.2L PLUS 16 ALLOY,2017,Pune,95740,Petrol,Manual,298000,Cars24,824
+1386,Volkswagen,Polo TRENDLINE 1.2L PETROL,2012,Chennai,68770,Petrol,Manual,229000,Cars24,1019
+1387,Bmw,X1 SDRIVE20D EXPEDITION,2013,Jaipur,29878,Diesel,Automatic,484000,Cars24,2366
+1388,Maruti,New Wagon-R VXI CNG 1.,2023,Hyderabad,41519,Cng,Manual,540000,Cars24,47
+1389,Toyota,Innova Crysta 2.4 GX 8 STR,2017,Bangalore,20603,Diesel,Manual,1446000,Cars24,360
+1390,Tata,Harrier XM 2.0L KRYOTEC,2020,Lucknow,73584,Diesel,Manual,817000,Cars24,2070
+1391,Renault,Kiger RXT (O) AMT,2022,Pune,63773,Petrol,Automatic,512000,Cars24,795
+1392,Toyota,Corolla Altis VL CVT PETROL,2015,Noida,81290,Petrol,Automatic,453000,Cars24,2864
+1393,Ford,Figo TITANIUM 1.2 PETROL,2010,Pune,34029,Petrol,Manual,95000,Cars24,732
+1394,Kia,SELTOS HTK 1.5 PETROL,2021,Noida,66115,Petrol,Manual,688000,Cars24,2935
+1395,Toyota,Glanza V CVT,2021,Bangalore,59067,Petrol,Automatic,695000,Cars24,350
+1396,Kia,SELTOS HTE 1.5 PETROL,2021,Jaipur,82134,Petrol,Manual,700000,Cars24,2399
+1397,Toyota,Innova Crysta 2.7 ZX AT 7 STR,2021,New-Delhi,62142,Petrol,Automatic,1583000,Cars24,1299
+1398,Bmw,X1 SDRIVE 20D,2012,Kochi,58523,Diesel,Automatic,897000,Cars24,1821
+1399,Honda,WR-V 1.5L I-DTEC VX MT,2017,Surat,6869,Diesel,Manual,450000,Cars24,1440
+1400,Maruti,Vitara Brezza VXI,2020,Noida,84775,Petrol,Manual,526000,Cars24,2683
+1401,Mahindra,MARAZZO M4 7 STR,2018,Hyderabad,9601,Diesel,Manual,469000,Cars24,112
+1402,Tata,NEXON XZ PLUS DIESEL SUNROOF,2021,Noida,2332,Diesel,Manual,622000,Cars24,2600
+1403,Ford,Ecosport TITANIUM 1.5L DIESEL,2017,Chennai,87763,Diesel,Manual,535000,Cars24,928
+1404,Mahindra,Thar LX HARD TOP 4WD MT,2021,Lucknow,34319,Diesel,Manual,994000,Cars24,2160
+1405,Volkswagen,Ameo HIGHLINE1.2L,2016,Hyderabad,96233,Petrol,Manual,404000,Cars24,197
+1406,Hyundai,NEW SANTRO SPORTZ MT,2020,Surat,92857,Petrol,Manual,308000,Cars24,1496
+1407,Renault,Kwid RXT 1.0 AMT (O),2017,New-Delhi,59126,Petrol,Automatic,252000,Cars24,1309
+1408,Bmw,5 Series 520D,2010,Coimbatore,56870,Diesel,Automatic,449000,Cars24,3048
+1409,Renault,Duster RXZ 1.5 PETROL MT,2021,Hyderabad,36181,Petrol,Manual,670000,Cars24,159
+1410,Tata,Tiago XT RHYTHM PETROL,2023,Coimbatore,15104,Petrol,Manual,548000,Cars24,2987
+1411,Tata,Tiago XZ PETROL,2018,Jaipur,51557,Petrol,Manual,324000,Cars24,2248
+1412,Maruti,Vitara Brezza ZDI PLUS,2017,Agra,59918,Diesel,Manual,516000,Cars24,1613
+1413,Bmw,X3 XDRIVE 20D,2012,Hyderabad,35377,Diesel,Automatic,1139000,Cars24,125
+1414,Maruti,Vitara Brezza ZDI PLUS DUAL TONE,2017,Ahmedabad,71121,Diesel,Manual,605000,Cars24,1901
+1415,Honda,Jazz 1.2L I-VTEC SV,2015,Lucknow,50686,Petrol,Manual,231000,Cars24,2088
+1416,Volkswagen,Vento HIGHLINE PETROL AT,2015,Noida,78589,Petrol,Automatic,285000,Cars24,2977
+1417,Hyundai,Eon MAGNA +,2015,Jaipur,68938,Petrol,Manual,198000,Cars24,2304
+1418,Kia,CARENS LUXURY PLUS 1.5 DIESEL AT 6 STR,2022,Ahmedabad,62200,Diesel,Automatic,1227000,Cars24,2034
+1419,Mahindra,XUV300 W6 1.2 PETROL,2019,Hyderabad,58725,Petrol,Manual,590000,Cars24,104
+1420,Maruti,Alto VXI,2021,Kolkata,52097,Petrol,Manual,214000,Cars24,2468
+1421,Volkswagen,Polo COMFORTLINE 1.2L,2017,Bangalore,82301,Petrol,Manual,378000,Cars24,409
+1422,Honda,City 1.5L I-VTEC VX CVT,2016,Noida,73688,Petrol,Automatic,426999,Cars24,2653
+1423,Maruti,Celerio ZXI,2019,Coimbatore,81389,Petrol,Manual,373000,Cars24,3013
+1424,Mahindra,XUV300 W6 1.2 PETROL AMT,2023,Ahmedabad,27860,Petrol,Automatic,730000,Cars24,1963
+1425,Toyota,Innova G1 2.,2011,Mumbai,21977,Diesel,Manual,210000,Cars24,564
+1426,Hyundai,Verna 1.6 VTVT SX,2018,New-Delhi,67466,Petrol,Manual,561000,Cars24,1167
+1427,Toyota,Innova Crysta 2.4 VX 8 STR,2021,Lucknow,2341,Diesel,Manual,2095000,Cars24,2180
+1428,Volkswagen,Polo TRENDLINE 1.2L PETROL,2011,New-Delhi,78600,Petrol,Manual,112000,Cars24,1413
+1429,Tata,Tiago XZ PLUS PETROL,2019,Ahmedabad,73612,Petrol,Manual,310000,Cars24,1862
+1430,Mahindra,XUV 3XO MX3 1.2 L TCMPFi,2024,Pune,13496,Petrol,Manual,890000,Cars24,743
+1431,Hyundai,i20 SPORTZ 1.,2013,Surat,254961,Petrol,Manual,260000,Cars24,1486
+1432,Honda,City 1.5L I-VTEC ZX CVT,2023,Kolkata,50961,Petrol,Automatic,893000,Cars24,2438
+1433,Maruti,Dzire VXI,2019,Surat,96316,Petrol,Manual,442000,Cars24,1460
+1434,Tata,Safari XZA PLUS,2021,Mumbai,44046,Diesel,Automatic,1525000,Cars24,423
+1435,Ford,Figo EXI 1.2 PETROL,2010,Ahmedabad,80092,Petrol,Manual,71000,Cars24,1952
+1436,Volkswagen,Vento HIGHLINE DIESEL 1.,2011,Coimbatore,55404,Diesel,Manual,239000,Cars24,3069
+1437,Tata,NEXON XZ PLUS (PREMIUM) PETROL,2022,Surat,22033,Petrol,Manual,844999,Cars24,1429
+1438,Bmw,5 Series 520D 2.,2011,Chennai,91410,Diesel,Automatic,629000,Cars24,951
+1439,Volkswagen,Ameo HIGHLINE1.2L,2016,Pune,59833,Petrol,Manual,330000,Cars24,828
+1440,Hyundai,Elite i20 SPORTZ PLUS 1.,2020,Noida,299016,Petrol,Manual,413000,Cars24,2728
+1441,Hyundai,NEW SANTRO SPORTZ MT,2020,Kolkata,20427,Petrol,Manual,233000,Cars24,2485
+1442,Hyundai,Elite i20 MAGNA EXECUTIVE 1.,2017,New-Delhi,249797,Petrol,Manual,351000,Cars24,1153
+1443,Bmw,5 Series 520D 2.,2011,Bangalore,2503,Diesel,Automatic,432000,Cars24,334
+1444,Mahindra,XUV300 W8 (O) 1.2 PETROL,2023,Lucknow,27880,Petrol,Manual,844000,Cars24,2161
+1445,Renault,Kwid RXT 1.,2018,Hyderabad,31081,Petrol,Manual,241000,Cars24,164
+1446,Tata,ALTROZ XE PETROL,2022,Noida,45910,Petrol,Manual,380000,Cars24,2620
+1447,Hyundai,Creta SX AT 1.6 PETROL,2019,Coimbatore,36909,Petrol,Automatic,1120000,Cars24,3034
+1448,Renault,Kwid RXT 1.0 (O),2018,New-Delhi,67960,Petrol,Manual,131000,Cars24,1311
+1449,Volkswagen,Polo COMFORTLINE 1.2L PETROL,2011,Noida,59593,Petrol,Manual,133000,Cars24,2973
+1450,Bmw,3 Series 320i,2011,Noida,57260,Petrol,Automatic,237000,Cars24,2834
+1451,Toyota,YARIS G MT,2021,Chennai,63745,Petrol,Manual,825000,Cars24,969
+1452,Toyota,URBAN CRUISER HIGH GRADE AT,2022,Ahmedabad,41627,Petrol,Automatic,713000,Cars24,1995
+1453,Kia,SELTOS  X LINE 1.5 TURBO PETROL DCT,2023,Pune,18345,Petrol,Automatic,1748000,Cars24,812
+1454,Ford,Classic LXI 1.4 DIESEL,2011,Ahmedabad,41674,Diesel,Manual,102000,Cars24,1951
+1455,Renault,TRIBER RXT,2022,Jaipur,89239,Petrol,Manual,469000,Cars24,2387
+1456,Honda,Amaze 1.2L I-VTEC E,2022,Noida,44884,Petrol,Manual,440000,Cars24,2661
+1457,Mahindra,Scorpio S11 2WD,2021,Ahmedabad,83882,Diesel,Manual,1362000,Cars24,1969
+1458,Tata,TIGOR XZ PETROL,2017,Pune,16950,Petrol,Manual,291000,Cars24,643
+1459,Mahindra,XUV700 AX 7 LUXURY D AT 7 STR,2021,New-Delhi,92783,Diesel,Automatic,1412000,Cars24,1234
+1460,Honda,Amaze 1.2L I-VTEC S,2015,New-Delhi,74628,Petrol,Manual,193000,Cars24,1083
+1461,Hyundai,Creta SX PLUS AT 1.6 PETROL,2016,Kochi,92748,Petrol,Automatic,569000,Cars24,1800
+1462,Ford,Ecosport TITANIUM 1.5L PETROL AT,2015,Coimbatore,97618,Petrol,Automatic,415000,Cars24,3037
+1463,Bmw,X3 XDRIVE30D M SPORT,2015,Hyderabad,27565,Diesel,Automatic,1766000,Cars24,137
+1464,Volkswagen,VIRTUS COMFORTLINE TSI 1.0 MT,2022,Noida,47712,Petrol,Manual,691000,Cars24,2962
+1465,Tata,NEXON XZ PLUS DIESEL,2018,Agra,29149,Diesel,Manual,480000,Cars24,1577
+1466,Honda,City 1.5L I-VTEC V MT,2017,Noida,32701,Petrol,Manual,474000,Cars24,2658
+1467,Renault,Kwid CLIMBER AMT 1.,2022,Chennai,19923,Petrol,Automatic,423000,Cars24,978
+1468,Volkswagen,Polo HIGHLINE1.2L,2017,Bangalore,32071,Petrol,Manual,625000,Cars24,407
+1469,Honda,WR-V 1.2L I-VTEC VX MT,2019,Agra,40224,Petrol,Manual,525000,Cars24,1605
+1470,Kia,CARENS LUXURY PLUS 1.4 PETROL DCT 7 STR,2022,New-Delhi,37117,Petrol,Automatic,1176000,Cars24,1348
+1471,Toyota,Fortuner 3.0 4X2 AT,2013,Jaipur,14793,Diesel,Automatic,815000,Cars24,2374
+1472,Maruti,Swift VXI AMT,2019,Hyderabad,72472,Petrol,Automatic,434999,Cars24,55
+1473,Tata,NEXON XM DIESEL,2018,Hyderabad,58109,Diesel,Manual,544000,Cars24,15
+1474,Volkswagen,TAIGUN TOPLINE 1.0 TSI AT,2022,Coimbatore,88974,Petrol,Automatic,1094000,Cars24,3068
+1475,Honda,Amaze 1.2L I-VTEC VX CVT,2019,New-Delhi,76708,Petrol,Automatic,501000,Cars24,1082
+1476,Maruti,Alto K10 LXI,2014,Noida,53727,Petrol,Manual,133000,Cars24,2698
+1477,Kia,CARENS Gravity 1.5 Petrol MT,2024,Agra,13681,Petrol,Manual,1130000,Cars24,1713
+1478,Tata,Manza AQUA QUADRAJET,2011,Coimbatore,56800,Diesel,Manual,171000,Cars24,2993
+1479,Tata,Hexa XTA 4X2 6 STR,2017,Jaipur,57257,Diesel,Automatic,605000,Cars24,2247
+1480,Renault,Kiger RXE MT,2023,New-Delhi,21298,Petrol,Manual,433000,Cars24,1330
+1481,Ford,Ecosport TITANIUM + 1.5L PETROL AT,2020,Chennai,48073,Petrol,Automatic,614000,Cars24,920
+1482,Maruti,BREZZA VXI SMART HYBRID,2022,Hyderabad,92819,Petrol,Manual,667000,Cars24,56
+1483,Kia,SELTOS HTX IVT 1.5 PETROL,2022,Ahmedabad,61271,Petrol,Automatic,1010000,Cars24,2028
+1484,Renault,TRIBER RXZ,2024,Noida,11938,Petrol,Manual,634000,Cars24,2887
+1485,Maruti,Celerio VXI AMT,2016,Kochi,61043,Petrol,Automatic,330000,Cars24,1774
+1486,Tata,Tiago XZ PLUS PETROL,2020,Mumbai,40765,Petrol,Manual,384000,Cars24,436
+1487,Honda,WR-V 1.5L I-DTEC VX MT,2017,Bangalore,98677,Diesel,Manual,515000,Cars24,252
+1488,Renault,Kwid RXL,2019,Chennai,40154,Petrol,Manual,250000,Cars24,973
+1489,Renault,Duster RXS PETROL,2019,Pune,57795,Petrol,Manual,438000,Cars24,782
+1490,Volkswagen,Polo COMFORTLINE 1.2L,2013,Bangalore,73040,Diesel,Manual,283000,Cars24,413
+1491,Maruti,Alto VXI,2019,Surat,57853,Petrol,Manual,197000,Cars24,1469
+1492,Hyundai,Eon ERA +,2016,New-Delhi,47892,Cng,Manual,170000,Cars24,1147
+1493,Honda,City 1.5L I-VTEC SV,2016,Kochi,61122,Petrol,Manual,465000,Cars24,1756
+1494,Volkswagen,Polo COMFORTLINE 1.0L TSI AT,2021,Pune,32487,Petrol,Automatic,648000,Cars24,820
+1495,Tata,ALTROZ XE PETROL,2022,New-Delhi,45910,Petrol,Manual,380000,Cars24,1046
+1496,Hyundai,Creta SX (O) 1.6 PETROL,2018,New-Delhi,53145,Petrol,Manual,692000,Cars24,1165
+1497,Toyota,Glanza V AMT,2023,Kochi,32933,Petrol,Automatic,742000,Cars24,1824
+1498,Toyota,Corolla Altis G DIESEL,2011,Ahmedabad,3303,Diesel,Manual,200000,Cars24,1998
+1499,Ford,Figo Aspire TITANIUM 1.2 PETROL,2018,Agra,78585,Petrol,Manual,320000,Cars24,1655
+1500,Mahindra,XUV700 AX 5 P MT 5 STR,2022,New-Delhi,53053,Petrol,Manual,1131000,Cars24,1233
+1501,Mahindra,Bolero B6 (O),2022,Mumbai,53843,Diesel,Manual,674000,Cars24,526
+1502,Toyota,Etios G,2011,New-Delhi,89817,Cng,Manual,94000,Cars24,1274
+1503,Mahindra,Verito 1.5 D,2014,Jaipur,67700,Diesel,Manual,105000,Cars24,2343
+1504,Renault,TRIBER RXZ,2023,Chennai,48161,Petrol,Manual,594000,Cars24,975
+1505,Kia,SELTOS HTX IVT 1.5 PETROL,2020,Chennai,39454,Petrol,Automatic,1101000,Cars24,997
+1506,Renault,Duster 85 PS RXL DIESEL,2013,Agra,72589,Diesel,Manual,211000,Cars24,1701
+1507,Maruti,Swift VXI AMT,2019,Hyderabad,922,Petrol,Automatic,434999,Cars24,42
+1508,Ford,Ecosport TREND 1.5L DIESEL,2014,Jaipur,30259,Diesel,Manual,238000,Cars24,2326
+1509,Ford,FREESTYLE TITANIUM 1.2 PETROL,2020,Hyderabad,58367,Petrol,Manual,474000,Cars24,93
+1510,Hyundai,VENUE S 1.,2021,New-Delhi,290532,Petrol,Manual,493000,Cars24,1161
+1511,Renault,Duster 110 PS RXZ DIESEL,2019,Kochi,15893,Diesel,Manual,625000,Cars24,1836
+1512,Tata,Harrier XE 2.0L KRYOTEC,2020,New-Delhi,92436,Diesel,Manual,755000,Cars24,1065
+1513,Kia,SONET HTX 1.0 IMT,2021,Jaipur,66722,Petrol,Manual,578000,Cars24,2403
+1514,Volkswagen,TAIGUN HIGHLINE 1.0 TSI MT,2022,Kolkata,79375,Petrol,Manual,700000,Cars24,2593
+1515,Tata,ALTROZ XZ PETROL,2020,New-Delhi,52416,Petrol,Manual,420000,Cars24,1026
+1516,Maruti,New Wagon-R LXI CNG (O) 1.,2021,Mumbai,54697,Cng,Manual,389000,Cars24,477
+1517,Honda,City 1.5L I-VTEC VX,2016,Kolkata,11496,Petrol,Manual,332000,Cars24,2442
+1518,Volkswagen,Polo HIGHLINE PLUS 1.5 16 ALLOY,2018,Hyderabad,66438,Diesel,Manual,509999,Cars24,210
+1519,Tata,ALTROZ XZA Lux,2024,Kolkata,12097,Petrol,Automatic,770000,Cars24,2432
+1520,Honda,Amaze 1.5L I-DTEC E,2014,Agra,82695,Diesel,Manual,181000,Cars24,1590
+1521,Renault,Kwid RXT 1.0 (O),2021,Surat,20253,Petrol,Manual,300000,Cars24,1540
+1522,Hyundai,Elite i20 ASTA 1.,2017,Chennai,249960,Petrol,Manual,453000,Cars24,911
+1523,Ford,Ecosport TITANIUM 1.5L THUNDER EDTION DIESEL,2020,Ahmedabad,83649,Diesel,Manual,586000,Cars24,1937
+1524,Mahindra,Thar LX  P 4WD AT CONVERTIBLE,2021,Hyderabad,40525,Petrol,Automatic,1000000,Cars24,110
+1525,Maruti,Celerio ZXI,2023,Pune,42976,Petrol,Manual,413000,Cars24,684
+1526,Ford,Figo EXI 1.4 DIESEL,2011,Kolkata,51809,Diesel,Manual,68000,Cars24,2501
+1527,Honda,City 1.5L I-VTEC V MT,2017,Coimbatore,36518,Petrol,Manual,605000,Cars24,3005
+1528,Renault,Lodgy 110 PS RXL STEPWAY 8 STR,2017,Hyderabad,66243,Diesel,Manual,525000,Cars24,161
+1529,Honda,Amaze 1.2L I-VTEC S,2020,Agra,51770,Petrol,Manual,428000,Cars24,1587
+1530,Tata,Tiago XZ PETROL,2017,Mumbai,33515,Petrol,Manual,297000,Cars24,426
+1531,Toyota,Etios V,2011,Pune,52429,Petrol,Manual,193000,Cars24,774
+1532,Tata,NEXON XZ PETROL,2019,Jaipur,53559,Petrol,Manual,480000,Cars24,2244
+1533,Honda,Amaze 1.5L I-DTEC S,2020,Hyderabad,15246,Diesel,Manual,475000,Cars24,25
+1534,Toyota,Etios G,2013,Kochi,32204,Petrol,Manual,359000,Cars24,1825
+1535,Hyundai,Elite i20 MAGNA PLUS 1.,2019,Agra,218000,Petrol,Manual,450000,Cars24,1636
+1536,Hyundai,i20 Active 1.2 S,2015,Mumbai,87877,Petrol,Manual,279000,Cars24,501
+1537,Ford,Figo Aspire TITANIUM1.5 DIESEL,2016,New-Delhi,45244,Diesel,Manual,200000,Cars24,1201
+1538,Maruti,Dzire VXI,2018,New-Delhi,87151,Petrol,Manual,348000,Cars24,1112
+1539,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,2017,Bangalore,79865,Petrol,Manual,399000,Cars24,283
+1540,Honda,Amaze 1.2L I-VTEC VX CVT,2024,Surat,11191,Petrol,Automatic,764000,Cars24,1456
+1541,Hyundai,i10 SPORTZ 1.,2014,Lucknow,164570,Petrol,Manual,199000,Cars24,2137
+1542,Renault,Kwid RXT 0.8 (O),2016,Kochi,91411,Petrol,Manual,130000,Cars24,1829
+1543,Kia,SELTOS HTK PLUS 1.5 DIESEL IMT,2022,Noida,39349,Diesel,Manual,1018000,Cars24,2945
+1544,Maruti,Swift VXI,2014,Mumbai,95878,Petrol,Manual,249000,Cars24,466
+1545,Maruti,Vitara Brezza LDI (O),2017,Agra,81941,Diesel,Manual,391000,Cars24,1610
+1546,Mahindra,XUV500 W7 AT,2019,Noida,16095,Diesel,Automatic,897000,Cars24,2811
+1547,Ford,Ecosport TREND+ 1.0L ECOBOOST,2016,Kochi,49073,Petrol,Manual,285000,Cars24,1804
+1548,Maruti,Baleno DELTA PETROL 1.,2017,New-Delhi,258660,Petrol,Manual,313000,Cars24,1116
+1549,Maruti,Celerio VXI AMT,2017,Bangalore,12468,Petrol,Automatic,310000,Cars24,267
+1550,Honda,Amaze 1.2L I-VTEC S,2013,Surat,96955,Petrol,Manual,225000,Cars24,1451
+1551,Kia,SELTOS HTX PETROL 1.,2023,Bangalore,530582,Petrol,Manual,1120000,Cars24,398
+1552,Honda,City 1.5L I-VTEC ZX CVT,2019,Ahmedabad,65180,Petrol,Automatic,627000,Cars24,1880
+1553,Mahindra,KUV 100 NXT K8 P 6 STR,2017,New-Delhi,54683,Petrol,Manual,282000,Cars24,1256
+1554,Ford,Ecosport AMBIENTE 1.5L DIESEL,2014,Chennai,17219,Diesel,Manual,312000,Cars24,921
+1555,Honda,City 1.5L I-VTEC VX (O) MT,2016,Mumbai,73026,Petrol,Manual,368000,Cars24,450
+1556,Hyundai,i10 MAGNA 1.,2013,Kochi,4654,Petrol,Manual,161000,Cars24,1791
+1557,Honda,Jazz 1.2L I-VTEC X,2012,Agra,4506,Petrol,Manual,150000,Cars24,1597
+1558,Maruti,Alto 800 LXI,2012,Kochi,62499,Petrol,Manual,128000,Cars24,1768
+1559,Maruti,Swift VXI,2015,New-Delhi,75871,Cng,Manual,282000,Cars24,1106
+1560,Maruti,Eeco 5 STR WITH A/C+HTR,2011,Coimbatore,11563,Petrol,Manual,256000,Cars24,3022
+1561,Ford,Ecosport TITANIUM 1.5L DIESEL,2017,Mumbai,29589,Diesel,Manual,450000,Cars24,511
+1562,Volkswagen,Polo COMFORTLINE 1.2L,2016,Noida,88927,Petrol,Manual,326000,Cars24,2969
+1563,Toyota,Urban Cruiser Taisor V 1.0 Petrol MT,2024,Noida,1840,Petrol,Manual,869000,Cars24,2873
+1564,Honda,Jazz 1.2L I-VTEC V AT,2017,New-Delhi,63606,Petrol,Automatic,322000,Cars24,1104
+1565,Honda,Amaze 1.2L I-VTEC VX CVT,2021,Chennai,14057,Petrol,Automatic,645000,Cars24,871
+1566,Volkswagen,TAIGUN TOPLINE 1.0 TSI AT,2022,Mumbai,55428,Petrol,Automatic,863000,Cars24,615
+1567,Maruti,Celerio LXI,2020,Jaipur,31679,Petrol,Manual,317000,Cars24,2294
+1568,Ford,Ecosport TITANIUM 1.5L PETROL,2014,Kochi,19285,Petrol,Manual,312000,Cars24,1814
+1569,Toyota,Glanza E,2024,Mumbai,25155,Petrol,Manual,561000,Cars24,569
+1570,Ford,Ecosport TITANIUM 1.5L SPORTS(SUNROOF) DIESEL,2019,Chennai,60466,Diesel,Manual,750000,Cars24,926
+1571,Ford,Ecosport TITANIUM 1.5L DIESEL,2020,Hyderabad,76631,Diesel,Manual,730000,Cars24,94
+1572,Maruti,Swift ZXI,2015,Kochi,19459,Petrol,Manual,337000,Cars24,1763
+1573,Ford,Ecosport TITANIUM 1.5L SIGNATURE EDITION (SUNROOF) PETROL,2019,Surat,3358,Petrol,Manual,494000,Cars24,1497
+1574,Toyota,Innova Crysta 2.7 VX 7 STR,2018,New-Delhi,42152,Petrol,Manual,1022000,Cars24,1283
+1575,Toyota,URBAN CRUISER HYRYDER E NEO DRIVE,2023,Coimbatore,19021,Petrol,Manual,1087000,Cars24,3053
+1576,Tata,NEXON XT PLUS PETROL,2019,Kochi,9365,Petrol,Manual,559000,Cars24,1734
+1577,Maruti,Swift VDI,2018,Agra,65266,Diesel,Manual,373000,Cars24,1615
+1578,Tata,ALTROZ Accomplished Plus S Petrol 6DCT,2025,Kolkata,831,Petrol,Automatic,927000,Cars24,2423
+1579,Renault,Kwid RXT 1.0 AMT (O),2017,Ahmedabad,46838,Petrol,Automatic,140000,Cars24,2017
+1580,Toyota,Glanza S,2022,Ahmedabad,23236,Petrol,Manual,570000,Cars24,1990
+1581,Tata,NEXON XZ PLUS PETROL KAZIRANGA,2022,Hyderabad,51223,Petrol,Manual,875000,Cars24,17
+1582,Volkswagen,Ameo COMFORTLINE 1.2L,2016,Kolkata,41863,Petrol,Manual,315000,Cars24,2594
+1583,Toyota,Innova Crysta 2.7 VX 7 STR,2018,Noida,42152,Petrol,Manual,1022000,Cars24,2858
+1584,Renault,Kiger RXT (O) MT,2022,Lucknow,27994,Petrol,Manual,507000,Cars24,2198
+1585,Mahindra,XUV300 W8 (O) 1.2 PETROL,2022,New-Delhi,33154,Petrol,Manual,765000,Cars24,1242
+1586,Hyundai,Elite i20 ASTA 1.2 (O),2017,Jaipur,1369,Petrol,Manual,385000,Cars24,2318
+1587,Honda,Civic 1.8L I-VTEC ZX CVT,2019,Noida,91237,Petrol,Automatic,866000,Cars24,2671
+1588,Mahindra,Thar LX HARD TOP 4WD MT,2024,Agra,20822,Diesel,Manual,1366000,Cars24,1670
+1589,Volkswagen,Ameo HIGHLINE PLUS 1.5L AT 16 ALLOY,2019,Mumbai,39898,Diesel,Automatic,478000,Cars24,618
+1590,Renault,Kwid CLIMBER 1.0 AMT,2017,Hyderabad,1118,Petrol,Automatic,202000,Cars24,169
+1591,Renault,Kwid RXT 1.0 AMT (O),2017,Mumbai,66456,Petrol,Automatic,200000,Cars24,587
+1592,Maruti,Celerio VXI,2015,Kolkata,34911,Petrol,Manual,199000,Cars24,2470
+1593,Bmw,3 Series 320D LUXURYLINE,2013,Pune,43967,Diesel,Automatic,850000,Cars24,757
+1594,Hyundai,ALCAZAR Signature 7 STR 1.5 Turbo GDi Petrol DCT,2024,Noida,4227,Petrol,Automatic,1850000,Cars24,2743
+1595,Ford,Figo EXI 1.4 DIESEL,2012,Jaipur,82741,Diesel,Manual,82000,Cars24,2324
+1596,Kia,SONET HTK PLUS 1.,2021,Lucknow,571830,Diesel,Manual,669000,Cars24,2219
+1597,Kia,CARENS PRESTIGE PLUS 1.4 PETROL 7 STR,2022,Lucknow,35514,Petrol,Manual,844999,Cars24,2212
+1598,Maruti,Baleno ZETA PETROL 1.,2021,Kolkata,291729,Petrol,Manual,390000,Cars24,2458
+1599,Kia,SONET HTX 1.0 IMT,2020,Kochi,47182,Petrol,Manual,710000,Cars24,1839
+1600,Tata,Tiago XZ PETROL,2017,Jaipur,65432,Petrol,Manual,336000,Cars24,2239
+1601,Tata,Tiago XT PETROL,2018,Kolkata,6040,Petrol,Manual,250999,Cars24,2422
+1602,Tata,NEXON EV EMPOWERED LONG RANGE,2024,Noida,29329,Electric,Automatic,1475000,Cars24,2623
+1603,Maruti,Dzire ZXI AMT,2018,Jaipur,79699,Petrol,Automatic,459999,Cars24,2292
+1604,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,2019,Surat,89483,Petrol,Manual,354000,Cars24,1493
+1605,Renault,Duster 110 PS RXZ DIESEL,2012,Jaipur,14702,Diesel,Manual,145000,Cars24,2392
+1606,Maruti,Alto 800 LXI,2014,Kochi,63515,Petrol,Manual,173000,Cars24,1766
+1607,Renault,Kwid RXL 1.,2017,Kolkata,63153,Petrol,Manual,161000,Cars24,2549
+1608,Mahindra,BOLERO NEO N10 R,2021,Bangalore,15049,Diesel,Manual,814000,Cars24,332
+1609,Hyundai,NEW I20 ASTA 1.2 MT,2021,Surat,45985,Petrol,Manual,608000,Cars24,1483
+1610,Ford,Ecosport TITANIUM 1.5L PETROL AT,2017,Bangalore,42467,Petrol,Automatic,563000,Cars24,313
+1611,Ford,Ecosport TITANIUM 1.5L PETROL,2016,Noida,55779,Petrol,Manual,329000,Cars24,2786
+1612,Renault,Kwid RXT 0.,2016,New-Delhi,4832,Petrol,Manual,150000,Cars24,1310
+1613,Renault,Duster RXS 1.3 TURBO PETROL CVT,2020,Coimbatore,48465,Petrol,Automatic,872000,Cars24,3059
+1614,Tata,Harrier XZA PLUS 2.0L KRYOTEC HALO EDITION,2022,New-Delhi,75732,Diesel,Automatic,1050000,Cars24,1063
+1615,Tata,TIGOR XZ CNG,2023,Ahmedabad,84063,Cng,Manual,465000,Cars24,1868
+1616,Volkswagen,Polo COMFORTLINE 1.0L MPI,2018,New-Delhi,74450,Petrol,Manual,379000,Cars24,1407
+1617,Tata,NEXON CREATIVE + 1.2 PETROL,2024,Mumbai,24851,Petrol,Manual,938000,Cars24,428
+1618,Toyota,Innova 2.5 G4 8 STR,2012,Mumbai,21305,Diesel,Manual,315000,Cars24,565
+1619,Toyota,Glanza V,2021,New-Delhi,39572,Petrol,Manual,443000,Cars24,1294
+1620,Tata,Tiago XZA PETROL,2017,Pune,69327,Petrol,Automatic,310000,Cars24,637
+1621,Hyundai,Xcent S (O) 1.,2014,Pune,264985,Petrol,Manual,246000,Cars24,696
+1622,Toyota,Innova Crysta 2.4 ZX AT 7 STR,2020,Pune,95785,Diesel,Automatic,2190000,Cars24,771
+1623,Tata,TIGOR XZ CNG,2023,Agra,81067,Cng,Manual,608000,Cars24,1580
+1624,Bmw,5 Series 525D 2.,2012,Bangalore,75118,Diesel,Automatic,1318000,Cars24,338
+1625,Kia,SONET HTX 1.,2021,Lucknow,596089,Diesel,Manual,770000,Cars24,2229
+1626,Hyundai,Elite i20 MAGNA PLUS 1.,2019,Jaipur,283244,Petrol,Manual,375000,Cars24,2299
+1627,Maruti,Wagon R 1.0 LXI CNG,2013,Lucknow,74525,Cng,Manual,182000,Cars24,2115
+1628,Maruti,Ertiga VXI SHVS,2021,New-Delhi,89102,Petrol,Manual,633000,Cars24,1136
+1629,Hyundai,NEW I20 SPORTZ 1.2 MT,2023,Jaipur,48674,Petrol,Manual,577000,Cars24,2312
+1630,Mahindra,Thar LX P 2WD AT HT,2023,Noida,31288,Petrol,Automatic,1095000,Cars24,2806
+1631,Tata,Tiago XT PETROL,2017,Chennai,70783,Petrol,Manual,347000,Cars24,854
+1632,Ford,Figo Aspire TREND 1.2 PETROL,2015,Ahmedabad,90975,Petrol,Manual,208000,Cars24,1946
+1633,Volkswagen,Polo TRENDLINE 1.2L PETROL,2015,New-Delhi,44879,Petrol,Manual,236000,Cars24,1400
+1634,Ford,Ecosport TITANIUM 1.5L PETROL AT,2015,Mumbai,76001,Petrol,Automatic,241000,Cars24,518
+1635,Mahindra,XUV500 W10 1.,2016,Jaipur,23000,Diesel,Manual,492000,Cars24,2346
+1636,Tata,Safari XT,2022,New-Delhi,66510,Diesel,Manual,990000,Cars24,1052
+1637,Tata,NEXON PURE 1.2 PETROL,2024,Bangalore,39183,Petrol,Manual,731000,Cars24,231
+1638,Honda,Jazz 1.2L I-VTEC V AT,2016,Bangalore,89309,Petrol,Automatic,347000,Cars24,241
+1639,Maruti,Alto K10 VXI,2018,Jaipur,61893,Petrol,Manual,267000,Cars24,2287
+1640,Volkswagen,Polo HIGHLINE 1.6L,2011,Kolkata,20090,Petrol,Manual,132000,Cars24,2592
+1641,Volkswagen,Vento HIGHLINE DIESEL 1.,2014,Kochi,84455,Diesel,Manual,299000,Cars24,1851
+1642,Mahindra,XUV300 W8 (O) 1.2 PETROL AMT,2022,Chennai,7982,Petrol,Automatic,1228000,Cars24,949
+1643,Kia,SELTOS  HTK PLUS 1.5 PETROL MT,2023,Pune,31141,Petrol,Manual,974000,Cars24,804
+1644,Honda,Civic 1.8L I-VTEC ZX CVT,2019,Noida,42015,Petrol,Automatic,1126000,Cars24,2662
+1645,Tata,Tiago XM PETROL,2017,Agra,62606,Petrol,Manual,238000,Cars24,1570
+1646,Honda,City 1.5L I-VTEC VX,2019,Noida,64055,Cng,Manual,587000,Cars24,2663
+1647,Hyundai,Grand i10 SPORTZ (O) 1.2 KAPPA VTVT,2017,Noida,47654,Petrol,Manual,323000,Cars24,2722
+1648,Toyota,Fortuner 2.8 4X2 MT,2018,Lucknow,38526,Diesel,Manual,1669000,Cars24,2176
+1649,Kia,SELTOS HTX DIESEL 1.,2022,Coimbatore,7819,Diesel,Manual,1293000,Cars24,3065
+1650,Mahindra,XUV500 W9 AT,2019,Mumbai,37942,Diesel,Automatic,947000,Cars24,530
+1651,Ford,Ecosport TITANIUM + SE 1.5L DIESEL,2021,Lucknow,34356,Diesel,Manual,797000,Cars24,2153
+1652,Renault,Kwid RXT 1.0 AMT (O),2021,Mumbai,24947,Petrol,Automatic,341000,Cars24,576
+1653,Toyota,Etios G,2011,Noida,83695,Petrol,Manual,331000,Cars24,2855
+1654,Renault,Duster 85 PS RXS MT DIESEL,2019,New-Delhi,75991,Diesel,Manual,400000,Cars24,1327
+1655,Volkswagen,Polo TRENDLINE 1.2L PETROL,2012,New-Delhi,86563,Petrol,Manual,127000,Cars24,1393
+1656,Toyota,Glanza G,2021,Chennai,40895,Petrol,Manual,633000,Cars24,959
+1657,Mahindra,XUV300 W6 1.2 PETROL,2021,Noida,31263,Petrol,Manual,557000,Cars24,2830
+1658,Mahindra,XUV500 W10 AT,2017,Pune,4604,Diesel,Automatic,830000,Cars24,753
+1659,Ford,Ecosport TITANIUM 1.5L DIESEL,2016,Hyderabad,40958,Diesel,Manual,415000,Cars24,96
+1660,Hyundai,Tucson PLATINUM 2.0 AT PETROL,2024,Noida,14376,Petrol,Automatic,2490000,Cars24,2737
+1661,Ford,Ecosport TITANIUM 1.5L DIESEL,2020,Mumbai,98391,Diesel,Manual,526000,Cars24,521
+1662,Tata,NEXON FEARLESS PURPLE + SUNROOF DUAL TONE 1.2 PETROL,2023,Hyderabad,43754,Petrol,Manual,907000,Cars24,6
+1663,Hyundai,Verna SX (O)1.5 MPi,2022,Bangalore,41963,Petrol,Manual,949000,Cars24,281
+1664,Tata,TIGOR XZ PLUS CNG,2022,Surat,95760,Cng,Manual,499000,Cars24,1432
+1665,Tata,ALTROZ XZ DIESEL,2021,Hyderabad,75871,Diesel,Manual,578000,Cars24,8
+1666,Toyota,Glanza G ISG,2019,Kolkata,45930,Petrol,Manual,405000,Cars24,2545
+1667,Mahindra,XUV500 W,2016,Jaipur,60890,Diesel,Manual,536000,Cars24,2353
+1668,Maruti,Vitara Brezza ZXI PLUS,2021,Lucknow,58231,Petrol,Manual,590000,Cars24,2108
+1669,Maruti,Celerio ZXI PLUS,2022,Chennai,52036,Petrol,Manual,540000,Cars24,881
+1670,Bmw,3 Series 325i,2010,Coimbatore,45685,Petrol,Automatic,438000,Cars24,3047
+1671,Toyota,Glanza V,2021,New-Delhi,9982,Petrol,Manual,697000,Cars24,1279
+1672,Volkswagen,Vento TRENDLINE 1.,2010,Kolkata,8401,Petrol,Manual,128000,Cars24,2591
+1673,Volkswagen,Polo COMFORTLINE 1.2L PETROL,2011,Ahmedabad,44927,Petrol,Manual,121000,Cars24,2059
+1674,Ford,Ecosport TREND 1.5L DIESEL,2017,Surat,79601,Diesel,Manual,374000,Cars24,1498
+1675,Toyota,Innova Crysta 2.7 GX 7 STR MT,2018,Noida,92199,Petrol,Manual,918000,Cars24,2865
+1676,Maruti,Dzire ZXI PLUS,2018,Surat,77751,Petrol,Manual,461000,Cars24,1457
+1677,Maruti,Vitara Brezza ZDI PLUS,2016,Mumbai,70966,Diesel,Manual,582000,Cars24,465
+1678,Maruti,Alto K10 VXI AMT,2016,Kochi,72853,Petrol,Automatic,256000,Cars24,1772
+1679,Volkswagen,Polo HIGHLINE1.5L,2015,Hyderabad,51336,Diesel,Manual,300000,Cars24,208
+1680,Maruti,Baleno ALPHA CVT PETROL 1.,2018,New-Delhi,277995,Petrol,Automatic,461000,Cars24,1115
+1681,Renault,Duster RXZ 1.5 PETROL MT,2020,New-Delhi,29103,Petrol,Manual,500000,Cars24,1338
+1682,Hyundai,Elite i20 MAGNA PLUS 1.,2019,Noida,280799,Petrol,Manual,337000,Cars24,2753
+1683,Kia,SONET GTX PLUS 1.,2020,New-Delhi,548478,Diesel,Manual,819999,Cars24,1345
+1684,Mahindra,XUV700 AX 5 D MT 7 STR,2023,New-Delhi,52319,Diesel,Manual,1325000,Cars24,1247
+1685,Ford,Ecosport TITANIUM 1.5L DIESEL,2018,Jaipur,16297,Diesel,Manual,513999,Cars24,2321
+1686,Maruti,IGNIS ALPHA 1.2 DUAL TONE,2017,Coimbatore,46941,Petrol,Manual,526000,Cars24,3023
+1687,Renault,Kwid RXT 1.0 (O),2021,Kolkata,23674,Petrol,Manual,289000,Cars24,2548
+1688,Hyundai,i20 Active 1.2 S,2016,New-Delhi,73976,Petrol,Manual,299000,Cars24,1163
+1689,Renault,Duster 110 PS RXZ DIESEL,2013,Coimbatore,12854,Diesel,Manual,364000,Cars24,3057
+1690,Kia,SELTOS GTX PLUS AT 1.5 DIESEL,2020,Pune,67305,Diesel,Automatic,1264000,Cars24,803
+1691,Honda,City 1.5L I-VTEC VX CVT,2015,Ahmedabad,74220,Petrol,Automatic,523000,Cars24,1887
+1692,Renault,TRIBER RXZ,2020,Agra,72218,Petrol,Manual,400000,Cars24,1706
+1693,Mahindra,Verito 1.5 D,2017,Jaipur,10446,Diesel,Manual,92000,Cars24,2342
+1694,Tata,ALTROZ XZ DIESEL,2021,Chennai,66835,Diesel,Manual,540000,Cars24,843
+1695,Honda,City 1.5L I-DTEC SV,2019,Jaipur,46741,Diesel,Manual,533000,Cars24,2262
+1696,Mahindra,XUV500 W,2015,Agra,5488,Diesel,Manual,498000,Cars24,1676
+1697,Renault,Kiger RXE MT,2022,Lucknow,44744,Petrol,Manual,400000,Cars24,2204
+1698,Honda,WR-V 1.5L I-DTEC V MT,2019,Ahmedabad,80812,Diesel,Manual,482000,Cars24,1888
+1699,Maruti,Vitara Brezza VXI,2022,New-Delhi,44559,Petrol,Manual,656000,Cars24,1108
+1700,Ford,Ecosport TITANIUM 1.5L PETROL,2019,Noida,22891,Petrol,Manual,455999,Cars24,2787
+1701,Bmw,3 Series 320 D EXCLUSIVE,2012,Mumbai,71837,Diesel,Automatic,564000,Cars24,548
+1702,Kia,SELTOS HTK 1.5 DIESEL,2020,New-Delhi,96196,Diesel,Manual,675000,Cars24,1352
+1703,Maruti,Swift Dzire VXI,2013,Coimbatore,85305,Petrol,Manual,320000,Cars24,3018
+1704,Ford,New Figo AMBIENTE 1.5 DIESEL,2016,Jaipur,45611,Diesel,Manual,231999,Cars24,2323
+1705,Kia,SELTOS HTK PLUS 1.5 DIESEL,2019,Coimbatore,68373,Diesel,Manual,815000,Cars24,3061
+1706,Toyota,Innova Crysta 2.4 VX 8 STR,2016,Mumbai,66857,Diesel,Manual,1441000,Cars24,573
+1707,Maruti,Wagon R 1.0 LXI CNG,2014,Agra,88011,Cng,Manual,150000,Cars24,1609
+1708,Kia,SELTOS GTX PLUS 1.4 PETROL,2020,Chennai,14432,Petrol,Manual,927999,Cars24,990
+1709,Hyundai,Creta S 1.6 PETROL,2015,Mumbai,90066,Petrol,Manual,423000,Cars24,492
+1710,Maruti,Celerio VXI AMT,2014,Coimbatore,67538,Petrol,Automatic,330000,Cars24,3012
+1711,Mahindra,XUV500 W,2016,Agra,47207,Diesel,Manual,474000,Cars24,1666
+1712,Volkswagen,Polo HIGHLINE1.2L,2015,Pune,83337,Cng,Manual,330000,Cars24,829
+1713,Hyundai,AURA SX 1.2 CNG,2022,Kochi,21535,Cng,Manual,446000,Cars24,1796
+1714,Ford,Ecosport TITANIUM 1.5L DIESEL (OPT),2015,Pune,92067,Diesel,Manual,450000,Cars24,714
+1715,Ford,Ecosport TITANIUM 1.5L PETROL,2016,Pune,41467,Petrol,Manual,386000,Cars24,720
+1716,Honda,WR-V 1.2L I-VTEC VX MT,2018,New-Delhi,65875,Petrol,Manual,398000,Cars24,1105
+1717,Hyundai,VENUE S 1.,2021,Mumbai,221960,Petrol,Manual,584000,Cars24,498
+1718,Mahindra,XUV500 W,2013,Jaipur,59781,Diesel,Manual,323000,Cars24,2355
+1719,Volkswagen,Vento HIGHLINE 1.6 MPI,2014,Noida,17851,Petrol,Manual,247000,Cars24,2955
+1720,Hyundai,Verna 1.6 VTVT SX,2018,New-Delhi,78109,Petrol,Manual,487000,Cars24,1159
+1721,Bmw,5 Series 530i M Sport,2022,Hyderabad,32897,Petrol,Automatic,5107000,Cars24,135
+1722,Mahindra,XUV300 W8 (O) 1.2 PETROL,2022,Jaipur,23928,Petrol,Manual,850000,Cars24,2357
+1723,Volkswagen,Polo GT TSI AT,2017,Mumbai,69761,Petrol,Automatic,372000,Cars24,619
+1724,Volkswagen,Polo COMFORTLINE 1.2L PETROL,2012,Kolkata,972,Petrol,Manual,148000,Cars24,2584
+1725,Maruti,Ertiga   VXI (O) CNG,2024,New-Delhi,18586,Cng,Manual,919999,Cars24,1138
+1726,Maruti,S PRESSO VXI (O),2021,New-Delhi,39303,Petrol,Manual,260000,Cars24,1144
+1727,Toyota,Glanza G AMT,2024,Noida,9277,Petrol,Automatic,710000,Cars24,2847
+1728,Tata,TIGOR XE PETROL,2019,Kochi,31788,Petrol,Manual,332000,Cars24,1731
+1729,Renault,Kwid RXT 1.0 AMT (O),2017,Surat,19573,Petrol,Automatic,163000,Cars24,1539
+1730,Tata,NEXON XZA PLUS DIESEL,2018,Bangalore,80557,Diesel,Automatic,655000,Cars24,227
+1731,Ford,Ecosport TITANIUM 1.5L DIESEL,2017,Ahmedabad,79818,Diesel,Manual,453000,Cars24,1941
+1732,Toyota,Etios Liva GD,2013,Ahmedabad,4068,Diesel,Manual,202000,Cars24,1988
+1733,Bmw,X1 sDrive 20d x Line,2017,Jaipur,74508,Diesel,Automatic,1590000,Cars24,2358
+1734,Toyota,Innova Crysta 2.4 VX 8STR,2024,Kolkata,24095,Diesel,Manual,2230000,Cars24,2544
+1735,Maruti,Alto K10 VXI,2013,Kochi,62963,Petrol,Manual,200000,Cars24,1778
+1736,Maruti,Vitara Brezza ZDI PLUS,2018,Surat,44919,Diesel,Manual,509000,Cars24,1472
+1737,Tata,Harrier XZA PLUS 2.0L,2020,Pune,96329,Diesel,Automatic,1144000,Cars24,641
+1738,Tata,TIAGO NRG XZ AMT,2023,Bangalore,48348,Petrol,Automatic,522000,Cars24,220
+1739,Ford,Figo Aspire TITANIUM 1.2 PETROL,2017,Lucknow,54102,Petrol,Manual,263000,Cars24,2146
+1740,Kia,SELTOS HTE 1.5 PETROL,2021,Bangalore,18340,Petrol,Manual,799000,Cars24,387
+1741,Renault,Duster 110 PS RXZ 4X2 AMT DIESEL,2017,Pune,75760,Diesel,Automatic,455000,Cars24,794
+1742,Kia,SELTOS GTX PLUS AT 1.5 DIESEL,2020,Chennai,62674,Diesel,Automatic,1300000,Cars24,1001
+1743,Kia,SYROS  HTX 1.0 Turbo 6MT,2025,Jaipur,2598,Petrol,Manual,941000,Cars24,2396
+1744,Hyundai,NEW I20 MAGNA 1.2 MT,2021,Agra,633,Petrol,Manual,538000,Cars24,1632
+1745,Maruti,Wagon R 1.0 VXI,2013,Noida,98532,Petrol,Manual,123000,Cars24,2709
+1746,Toyota,Corolla Altis G PETROL,2011,Bangalore,29413,Petrol,Manual,350000,Cars24,359
+1747,Bmw,3 Series 320D GT LUXURY LINE,2014,Hyderabad,56770,Diesel,Automatic,1137000,Cars24,127
+1748,Mahindra,MARAZZO M4 7 STR,2019,New-Delhi,71260,Diesel,Manual,509999,Cars24,1255
+1749,Mahindra,BOLERO NEO N,2021,Hyderabad,440245,Diesel,Manual,780000,Cars24,102
+1750,Toyota,Etios CROSS 1.2 G,2015,Noida,64247,Cng,Manual,244000,Cars24,2838
+1751,Toyota,Innova Crysta 2.4 G 7 STR,2021,Noida,41094,Diesel,Manual,1550000,Cars24,2853
+1752,Renault,Duster RXZ 1.3 TURBO PETROL CVT,2021,New-Delhi,47541,Petrol,Automatic,672000,Cars24,1329
+1753,Hyundai,Verna 1.6 CRDI SX,2019,Lucknow,67455,Diesel,Manual,675000,Cars24,2127
+1754,Volkswagen,Polo 1.0 GT TSI AT,2021,Coimbatore,53441,Petrol,Automatic,933000,Cars24,3070
+1755,Honda,Amaze 1.5L I-DTEC S,2015,Agra,2753,Diesel,Manual,208000,Cars24,1599
+1756,Renault,TRIBER RXE MT,2024,Lucknow,41268,Petrol,Manual,580000,Cars24,2203
+1757,Renault,Pulse RXL PETROL,2014,Bangalore,28164,Petrol,Manual,206000,Cars24,382
+1758,Tata,Tiago XT PETROL,2017,Chennai,51005,Petrol,Manual,351000,Cars24,837
+1759,Tata,Tiago XE PETROL,2018,Kochi,57255,Petrol,Manual,300000,Cars24,1736
+1760,Toyota,Etios G,2014,Hyderabad,75687,Petrol,Manual,351000,Cars24,141
+1761,Tata,NEXON XZ PLUS PETROL SUNROOF DARK EDITION,2023,Coimbatore,9671,Petrol,Manual,849000,Cars24,2986
+1762,Honda,City 1.5L I-VTEC VX CVT,2017,Jaipur,68322,Petrol,Automatic,480999,Cars24,2267
+1763,Volkswagen,Ameo COMFORTLINE 1.2L,2016,Pune,50963,Petrol,Manual,337000,Cars24,831
+1764,Kia,SELTOS HTK PLUS 1.5 IMT,2023,Surat,28939,Petrol,Manual,925000,Cars24,1544
+1765,Tata,ALTROZ XE PETROL,2020,Hyderabad,50611,Petrol,Manual,430999,Cars24,19
+1766,Kia,SELTOS HTK PLUS 1.,2020,Noida,573424,Petrol,Manual,596000,Cars24,2914
+1767,Bmw,X3 X DRIVE 20D X-Line,2017,Hyderabad,89948,Diesel,Automatic,1850000,Cars24,136
+1768,Toyota,Etios CROSS 1.2 G,2015,Noida,70549,Petrol,Manual,260000,Cars24,2869
+1769,Tata,TIGOR XZ (O) PETROL,2017,Jaipur,31484,Petrol,Manual,280000,Cars24,2249
+1770,Mahindra,Xylo D,2013,Chennai,29612,Diesel,Manual,348000,Cars24,942
+1771,Tata,NEXON SMART+ 1.2 PETROL,2024,New-Delhi,27455,Petrol,Manual,644000,Cars24,1048
+1772,Kia,SELTOS HTK PLUS 1.,2020,Noida,539045,Petrol,Manual,680000,Cars24,2911
+1773,Mahindra,Thar LX HT PETROL 4WD MT,2022,New-Delhi,27661,Petrol,Manual,990000,Cars24,1252
+1774,Hyundai,VENUE SX 1.0 TURBO,2019,Kochi,25217,Petrol,Manual,540000,Cars24,1785
+1775,Mahindra,XUV500 W7 AT,2020,Hyderabad,73840,Diesel,Automatic,974000,Cars24,108
+1776,Bmw,3 Series 320d,2012,Kolkata,68875,Diesel,Automatic,413000,Cars24,2525
+1777,Hyundai,Verna SX (O) 1.0 TURBO DCT,2022,Noida,42458,Petrol,Automatic,994999,Cars24,2749
+1778,Hyundai,Eon ERA +,2013,Bangalore,59810,Petrol,Manual,196000,Cars24,277
+1779,Toyota,URBAN CRUISER HIGH GRADE MT,2021,Kolkata,28082,Petrol,Manual,636000,Cars24,2537
+1780,Honda,City 1.5L I-VTEC V MT,2017,Bangalore,79288,Petrol,Manual,540000,Cars24,253
+1781,Hyundai,GRAND I10 NIOS ASTA 1.2 KAPPA VTVT,2022,Kolkata,56783,Petrol,Manual,426000,Cars24,2484
+1782,Mahindra,XUV500 W,2015,Agra,85386,Diesel,Manual,387000,Cars24,1674
+1783,Maruti,IGNIS ALPHA 1.,2017,Ahmedabad,236733,Petrol,Manual,346000,Cars24,1912
+1784,Maruti,Alto K10 VXI,2018,Noida,67276,Petrol,Manual,189000,Cars24,2696
+1785,Hyundai,NEW SANTRO SPORTZ MT,2019,Kochi,33896,Petrol,Manual,358000,Cars24,1782
+1786,Toyota,URBAN CRUISER HIGH GRADE MT,2021,Chennai,30993,Petrol,Manual,899000,Cars24,968
+1787,Maruti,Swift LXI,2014,Noida,61207,Petrol,Manual,195000,Cars24,2678
+1788,Hyundai,Elite i20 MAGNA EXECUTIVE 1.,2018,Lucknow,229948,Petrol,Manual,457000,Cars24,2121
+1789,Mahindra,XUV300 W8 1.5 DIESEL,2022,Bangalore,2718,Diesel,Manual,805000,Cars24,325
+1790,Ford,Ecosport TITANIUM 1.5L DIESEL,2021,Ahmedabad,44845,Diesel,Manual,825000,Cars24,1936
+1791,Ford,Ecosport TITANIUM 1.0L ECOBOOST,2014,Noida,74404,Petrol,Manual,231000,Cars24,2788
+1792,Tata,NEXON XM PLUS SUNROOF PETROL,2022,Noida,56339,Petrol,Manual,563000,Cars24,2634
+1793,Volkswagen,VIRTUS HIGHLINE TSI 1.0 MT,2022,Lucknow,57376,Petrol,Manual,968000,Cars24,2237
+1794,Renault,Kwid RXT 1.,2016,Noida,53417,Petrol,Manual,187000,Cars24,2899
+1795,Ford,Ecosport TITANIUM 1.5L PETROL,2021,Hyderabad,35985,Petrol,Manual,720000,Cars24,90
+1796,Kia,SONET HTE 1.,2021,New-Delhi,249972,Cng,Manual,590000,Cars24,1356
+1797,Kia,SELTOS GTX PLUS 1.4 PETROL,2019,Noida,76363,Petrol,Manual,894999,Cars24,2946
+1798,Maruti,Swift VXI,2014,Surat,38009,Petrol,Manual,261000,Cars24,1470
+1799,Kia,SELTOS HTX 1.5 PETROL,2021,Noida,49033,Petrol,Manual,792000,Cars24,2913
+1800,Renault,Kwid CLIMBER 1.,2017,Bangalore,40348,Petrol,Manual,299000,Cars24,364
+1801,Mahindra,XUV500 W10 AT,2017,Mumbai,85275,Diesel,Automatic,783000,Cars24,532
+1802,Renault,Kiger RXZ TURBO MT,2022,Noida,88148,Petrol,Manual,479000,Cars24,2903
+1803,Toyota,Etios Liva G,2016,Kolkata,57076,Petrol,Manual,266000,Cars24,2540
+1804,Honda,Amaze 1.2L I-VTEC V,2018,Ahmedabad,3029,Cng,Manual,473000,Cars24,1894
+1805,Toyota,URBAN CRUISER PREMIUM GRADE MT,2021,Mumbai,51489,Petrol,Manual,682000,Cars24,572
+1806,Ford,Ecosport TITANIUM 1.5L PETROL AT,2016,Noida,60315,Petrol,Automatic,302000,Cars24,2775
+1807,Ford,Ecosport TREND 1.5L PETROL,2017,Jaipur,54547,Petrol,Manual,383000,Cars24,2335
+1808,Tata,Tiago XT PETROL,2024,Ahmedabad,4702,Petrol,Manual,436000,Cars24,1869
+1809,Toyota,YARIS J CVT,2020,Jaipur,62121,Petrol,Automatic,652000,Cars24,2372
+1810,Tata,ALTROZ XZ + SUNROOF,2023,Jaipur,37220,Petrol,Manual,602000,Cars24,2246
+1811,Renault,Pulse RXL PETROL,2015,Ahmedabad,50382,Petrol,Manual,220000,Cars24,2008
+1812,Renault,Kiger RXZ AMT,2022,Mumbai,65563,Petrol,Automatic,490000,Cars24,583
+1813,Maruti,Baleno DELTA CVT PETROL 1.,2018,Bangalore,249998,Petrol,Automatic,530000,Cars24,272
+1814,Bmw,X3 XDRIVE 20D,2012,Hyderabad,3700,Diesel,Automatic,1106000,Cars24,119
+1815,Honda,Jazz 1.2L I-VTEC V AT,2018,Mumbai,50520,Petrol,Automatic,349000,Cars24,458
+1816,Hyundai,Eon ERA +,2015,Lucknow,46782,Petrol,Manual,147000,Cars24,2128
+1817,Hyundai,Tucson PLATINUM 2.0 AT PETROL,2024,New-Delhi,14376,Petrol,Automatic,2490000,Cars24,1151
+1818,Honda,WR-V 1.5L I-DTEC VX MT,2017,Surat,29737,Diesel,Manual,400000,Cars24,1454
+1819,Renault,Kiger RXZ MT,2022,Pune,40096,Petrol,Manual,500000,Cars24,788
+1820,Honda,Civic 1.8L I-VTEC ZX CVT,2019,Mumbai,54002,Petrol,Automatic,1010000,Cars24,452
+1821,Mahindra,Scorpio VLX 2WD,2011,Kolkata,49560,Diesel,Manual,281000,Cars24,2515
+1822,Mahindra,Bolero POWER PLUS SLE,2018,Lucknow,78901,Diesel,Manual,393000,Cars24,2164
+1823,Renault,Lodgy 110 PS RXZ 8 STR,2015,Kolkata,86401,Diesel,Manual,265000,Cars24,2563
+1824,Mahindra,XUV700 AX 7 LUXURY D MT 7 STR,2022,Coimbatore,8226,Diesel,Manual,1750000,Cars24,3042
+1825,Kia,SELTOS HTX 1.5 PETROL,2021,Noida,93352,Petrol,Manual,781000,Cars24,2909
+1826,Honda,City 1.5L I-VTEC V MT,2019,Chennai,50981,Petrol,Manual,630000,Cars24,863
+1827,Volkswagen,Vento HIGHLINE PETROL AT,2016,Coimbatore,21165,Petrol,Automatic,401000,Cars24,3072
+1828,Maruti,S PRESSO VXI+,2024,Coimbatore,15343,Petrol,Manual,542000,Cars24,3024
+1829,Kia,SELTOS GTX PLUS DCT 1.4 PETROL,2020,Mumbai,50084,Petrol,Automatic,1059000,Cars24,601
+1830,Mahindra,XUV300 W4 1.2 PETROL,2022,Jaipur,23259,Petrol,Manual,592000,Cars24,2338
+1831,Honda,City 1.5L I-VTEC SV,2016,Kochi,2619,Petrol,Manual,412000,Cars24,1749
+1832,Honda,City 1.5L I-VTEC V MT,2017,Noida,72652,Petrol,Manual,441000,Cars24,2642
+1833,Hyundai,Elite i20 SPORTZ PLUS 1.,2020,Hyderabad,236392,Petrol,Manual,556000,Cars24,76
+1834,Volkswagen,Vento HIGHLINE PLUS 1.2 AT 16 ALLOY,2018,Hyderabad,67061,Petrol,Automatic,580000,Cars24,199
+1835,Ford,Ecosport TITANIUM 1.5L SPORTS(SUNROOF) DIESEL,2019,Surat,87698,Diesel,Manual,626000,Cars24,1507
+1836,Maruti,Ciaz VXI+,2016,Chennai,35074,Petrol,Manual,476000,Cars24,891
+1837,Hyundai,Sonata 2.4 GDI MT,2012,Mumbai,7130,Petrol,Manual,179000,Cars24,484
+1838,Hyundai,Verna 1.4 EX CRDI,2019,Pune,67423,Diesel,Manual,790000,Cars24,704
+1839,Tata,Tiago XZ PLUS CNG,2022,Noida,62730,Cng,Manual,444000,Cars24,2608
+1840,Hyundai,NEW SANTRO SPORTZ MT,2021,Jaipur,28560,Petrol,Manual,355000,Cars24,2309
+1841,Honda,WR-V 1.2L I-VTEC S MT,2017,Kolkata,55352,Petrol,Manual,317000,Cars24,2445
+1842,Kia,SONET HTX 1.0 IMT,2023,Noida,70770,Petrol,Manual,661000,Cars24,2941
+1843,Volkswagen,Ameo HIGHLINE1.5L,2017,Chennai,47305,Diesel,Manual,450000,Cars24,1014
+1844,Toyota,Etios V,2014,Pune,81689,Petrol,Manual,211000,Cars24,765
+1845,Honda,Jazz 1.2L I-VTEC V AT,2018,Jaipur,84839,Petrol,Automatic,430000,Cars24,2273
+1846,Hyundai,Elite i20 MAGNA EXECUTIVE 1.,2017,Noida,249797,Petrol,Manual,351000,Cars24,2750
+1847,Mahindra,Kuv100 K8 5 STR,2016,Noida,84296,Petrol,Manual,165000,Cars24,2812
+1848,Maruti,Swift VXI,2016,Coimbatore,6864,Petrol,Manual,377000,Cars24,3020
+1849,Hyundai,Verna FLUIDIC 1.6 CRDI SX AT,2014,Mumbai,69212,Diesel,Automatic,327000,Cars24,502
+1850,Toyota,Etios G,2011,Noida,41339,Petrol,Manual,100000,Cars24,2851
+1851,Hyundai,Elite i20 MAGNA EXECUTIVE 1.,2017,Surat,288067,Petrol,Manual,390000,Cars24,1490
+1852,Honda,City 1.5L I-DTEC V,2014,Agra,79380,Diesel,Manual,288000,Cars24,1594
+1853,Toyota,Corolla Altis G DIESEL,2011,Ahmedabad,71994,Diesel,Manual,272000,Cars24,2001
+1854,Ford,Ecosport TITANIUM 1.5L DIESEL,2018,New-Delhi,72263,Diesel,Manual,469000,Cars24,1203
+1855,Honda,Civic 1.8L I-VTEC ZX CVT,2019,Bangalore,15018,Petrol,Automatic,1055000,Cars24,247
+1856,Toyota,Corolla Altis G PETROL,2011,Kolkata,81811,Petrol,Manual,193000,Cars24,2541
+1857,Ford,Figo TITANIUM 1.2 PETROL,2014,Bangalore,54003,Petrol,Manual,185000,Cars24,301
+1858,Hyundai,Xcent BASE 1.,2015,Ahmedabad,28390,Cng,Manual,241000,Cars24,1930
+1859,Ford,Ecosport TITANIUM 1.5L DIESEL (OPT),2014,Mumbai,84949,Diesel,Manual,394000,Cars24,510
+1860,Ford,Figo Aspire TITANIUM 1.2 PETROL,2016,Bangalore,36486,Petrol,Manual,388000,Cars24,307
+1861,Tata,Tiago XE PETROL,2020,Noida,83153,Cng,Manual,296000,Cars24,2622
+1862,Ford,Figo Aspire TITANIUM 1.2 PETROL,2019,New-Delhi,14033,Petrol,Manual,335000,Cars24,1222
+1863,Hyundai,EXTER S 1.2 CNG MT,2023,New-Delhi,48641,Cng,Manual,595000,Cars24,1149
+1864,Toyota,Etios G,2012,Ahmedabad,62129,Cng,Manual,150000,Cars24,1987
+1865,Honda,WR-V 1.2L I-VTEC VX MT,2017,Pune,46036,Petrol,Manual,526000,Cars24,659
+1866,Ford,Ecosport TITANIUM 1.5L PETROL,2019,New-Delhi,22891,Petrol,Manual,455999,Cars24,1218
+1867,Hyundai,i20 SPORTZ 1.,2013,Coimbatore,13347,Petrol,Manual,227999,Cars24,3028
+1868,Maruti,Ertiga VXI AT,2018,Mumbai,31118,Petrol,Automatic,634000,Cars24,464
+1869,Honda,Brio S MT,2014,Hyderabad,90678,Petrol,Manual,194000,Cars24,23
+1870,Maruti,Baleno DELTA PETROL 1.,2022,Lucknow,268223,Petrol,Manual,484000,Cars24,2109
+1871,Maruti,Alto 800 LXI,2014,Surat,83005,Petrol,Manual,118000,Cars24,1476
+1872,Toyota,Innova 2.5 GX 7 STR,2014,Lucknow,96442,Diesel,Manual,547000,Cars24,2189
+1873,Hyundai,Eon MAGNA,2012,Pune,51846,Petrol,Manual,170000,Cars24,707
+1874,Mahindra,MARAZZO M2 7STR,2019,Jaipur,69853,Diesel,Manual,549000,Cars24,2340
+1875,Renault,Duster 110 PS RXZ DIESEL,2012,Kolkata,84995,Diesel,Manual,145000,Cars24,2561
+1876,Maruti,New Wagon-R VXI 1.,2019,Mumbai,70949,Petrol,Manual,351000,Cars24,467
+1877,Honda,Jazz 1.2L I-VTEC VX,2018,Bangalore,32908,Petrol,Manual,498000,Cars24,239
+1878,Ford,Ecosport TITANIUM 1.0L ECOBOOST,2014,Ahmedabad,91332,Petrol,Manual,312000,Cars24,1935
+1879,Bmw,X1 sDrive20d,2011,Pune,68669,Diesel,Automatic,359000,Cars24,756
+1880,Honda,City 1.5L I-VTEC SV CVT,2015,Mumbai,69844,Petrol,Automatic,428000,Cars24,446
+1881,Tata,Indigo ECS VX CR,2013,Chennai,498988,Diesel,Manual,115999,Cars24,846
+1882,Ford,Ecosport TITANIUM 1.5L PETROL,2016,New-Delhi,55779,Petrol,Manual,329000,Cars24,1215
+1883,Bmw,3 Series 320d,2012,Surat,53642,Diesel,Automatic,685000,Cars24,1525
+1884,Tata,Tiago XE PETROL,2018,Mumbai,26180,Petrol,Manual,265000,Cars24,434
+1885,Hyundai,Elite i20 SPORTZ 1.2 (O),2015,Hyderabad,73818,Petrol,Manual,434999,Cars24,60
+1886,Renault,Kwid RXT 1.0 AMT,2022,Chennai,17977,Petrol,Automatic,409999,Cars24,983
+1887,Ford,Ecosport TITANIUM 1.0L ECOBOOST SPORTS(SUNROOF),2019,Pune,19588,Petrol,Manual,700000,Cars24,716
+1888,Volkswagen,Polo TRENDLINE 1.2L PETROL,2018,Lucknow,12866,Petrol,Manual,306000,Cars24,2231
+1889,Mahindra,Kuv100 K2 PLUS 6 STR,2016,Noida,68317,Petrol,Manual,158000,Cars24,2810
+1890,Bmw,3 Series 320d,2013,Chennai,83206,Diesel,Automatic,797000,Cars24,952
+1891,Honda,Amaze 1.5L I-DTEC S,2019,Chennai,67254,Diesel,Manual,668000,Cars24,856
+1892,Hyundai,Grand i10 ASTA (O) 1.2 KAPPA VTVT,2016,Pune,47019,Petrol,Manual,393000,Cars24,699
+1893,Tata,Tiago XT PETROL,2018,Ahmedabad,51057,Petrol,Manual,294000,Cars24,1858
+1894,Toyota,Innova Crysta 2.4 GX 8STR,2024,Agra,51287,Diesel,Manual,1807000,Cars24,1690
+1895,Tata,Tiago XE PETROL,2020,Kolkata,50986,Petrol,Manual,323000,Cars24,2413
+1896,Renault,Kwid CLIMBER 1.0 (O),2020,Kolkata,8716,Petrol,Manual,365000,Cars24,2562
+1897,Honda,Jazz 1.2L I-VTEC SV,2015,Kochi,20297,Petrol,Manual,320000,Cars24,1750
+1898,Tata,Safari XMA,2021,Hyderabad,41475,Diesel,Automatic,1305000,Cars24,18
+1899,Hyundai,i10 SPORTZ 1.,2013,Kochi,270004,Petrol,Manual,141000,Cars24,1789
+1900,Mahindra,XUV300 W8 1.5 DIESEL,2019,Agra,11654,Diesel,Manual,550000,Cars24,1669
+1901,Honda,City 1.5L I-VTE V CVT,2018,Mumbai,47275,Petrol,Automatic,518000,Cars24,456
+1902,Honda,Brio S MT,2013,Ahmedabad,87101,Petrol,Manual,180000,Cars24,1884
+1903,Maruti,Ciaz DELTA 1.4 MT PETROL,2018,Hyderabad,79242,Petrol,Manual,459000,Cars24,44
+1904,Ford,Ecosport TITANIUM + 1.5L PETROL AT,2018,New-Delhi,88763,Petrol,Automatic,451000,Cars24,1221
+1905,Maruti,Swift Dzire VDI,2013,Agra,37663,Diesel,Manual,202999,Cars24,1607
+1906,Mahindra,Kuv100 K2 TRIP D,2018,Noida,68537,Diesel,Manual,235000,Cars24,2823
+1907,Renault,TRIBER RXL MT,2019,Kolkata,25199,Petrol,Manual,360000,Cars24,2557
+1908,Tata,Tiago XT CNG,2022,Ahmedabad,63254,Cng,Manual,434999,Cars24,1857
+1909,Ford,Ecosport TREND 1.5L DIESEL,2015,Jaipur,6437,Diesel,Manual,315000,Cars24,2333
+1910,Tata,ALTROZ XE PETROL,2021,New-Delhi,81966,Petrol,Manual,372000,Cars24,1060
+1911,Kia,SELTOS GTX (O) 1.,2022,Pune,435856,Petrol,Manual,1236000,Cars24,809
+1912,Ford,Figo ZXI 1.4 DIESEL,2014,Pune,31816,Diesel,Manual,169000,Cars24,724
+1913,Mahindra,XUV700 AX 7 LUXURY D AT 7 STR,2022,Hyderabad,39226,Diesel,Automatic,2100000,Cars24,118
+1914,Kia,SELTOS GTX PLUS 1.4 PETROL,2019,New-Delhi,64002,Petrol,Manual,881000,Cars24,1350
+1915,Kia,SELTOS HTX (O)1.5 Petrol MT,2025,Noida,8337,Petrol,Manual,1727000,Cars24,2908
+1916,Maruti,Wagon R 1.0 VXI,2013,Surat,38044,Petrol,Manual,180000,Cars24,1473
+1917,Maruti,Ritz VDI,2012,Kochi,8727,Diesel,Manual,227999,Cars24,1780
+1918,Bmw,5 Series 525D 3.,2011,Pune,76851,Diesel,Automatic,800000,Cars24,760
+1919,Kia,SELTOS HTX PETROL 1.,2022,Bangalore,526183,Petrol,Manual,1091000,Cars24,385
+1920,Honda,City 1.5L I-VTEC V MT,2019,Noida,39899,Petrol,Manual,556000,Cars24,2643
+1921,Honda,City 1.5L I-VTEC VX CVT,2022,New-Delhi,87931,Cng,Automatic,818000,Cars24,1101
+1922,Kia,SONET GTX PLUS 1.,2020,Lucknow,64438,Diesel,Manual,700000,Cars24,2224
+1923,Mahindra,XUV300 W8 (O) 1.5 DIESEL AMT,2021,Lucknow,79822,Diesel,Automatic,695000,Cars24,2163
+1924,Toyota,Innova Crysta 2.4 VX 7 STR,2021,Lucknow,1563,Diesel,Manual,1657000,Cars24,2194
+1925,Hyundai,Creta S 1.5 PETROL,2023,Chennai,32965,Petrol,Manual,1010000,Cars24,900
+1926,Volkswagen,Ameo COMFORTLINE 1.2L,2017,Pune,36026,Petrol,Manual,352000,Cars24,817
+1927,Honda,WR-V 1.5L I-DTEC VX MT,2017,Surat,80293,Diesel,Manual,450000,Cars24,1450
+1928,Tata,PUNCH ADVENTURE AMT,2023,Jaipur,24086,Petrol,Automatic,632000,Cars24,2254
+1929,Toyota,Innova Crysta 2.4 VX 7 STR,2021,Noida,51576,Diesel,Manual,1850000,Cars24,2860
+1930,Tata,Harrier XT PLUS 2.0L KRYOTEC DARK EDITON,2023,New-Delhi,66975,Diesel,Manual,1080000,Cars24,1064
+1931,Honda,City 1.5L I-VTEC S MT,2011,Kochi,81676,Petrol,Manual,254000,Cars24,1753
+1932,Honda,Brio S MT,2015,New-Delhi,35480,Petrol,Manual,182000,Cars24,1074
+1933,Honda,Brio S MT,2016,Lucknow,42628,Petrol,Manual,190000,Cars24,2095
+1934,Volkswagen,Vento 1.2 TSI HIGHLINE PLUS AT,2017,New-Delhi,43250,Petrol,Automatic,455999,Cars24,1398
+1935,Ford,Fiesta Classic CLXI 1.6 PETROL,2011,Chennai,76659,Petrol,Manual,144000,Cars24,932
+1936,Tata,ALTROZ XZ PETROL,2022,Kolkata,38959,Petrol,Manual,530000,Cars24,2426
+1937,Hyundai,NEW SANTRO SPORTZ CNG,2019,Pune,65041,Cng,Manual,351000,Cars24,703
+1938,Renault,Kwid RXT 1.0 AMT (O),2020,Lucknow,29168,Petrol,Automatic,300000,Cars24,2196
+1939,Toyota,Innova Crysta 2.4 G 8 STR,2022,Agra,70036,Diesel,Manual,1652000,Cars24,1684
+1940,Ford,Figo ZXI 1.4 DIESEL,2011,Chennai,95206,Diesel,Manual,131000,Cars24,933
+1941,Ford,Ecosport TITANIUM 1.5L PETROL AT,2015,New-Delhi,83407,Petrol,Automatic,291000,Cars24,1190
+1942,Toyota,YARIS J CVT,2018,Noida,34529,Petrol,Automatic,360000,Cars24,2848
+1943,Toyota,URBAN CRUISER PREMIUM GRADE MT,2021,Mumbai,81982,Petrol,Manual,574000,Cars24,557
+1944,Volkswagen,Vento HIGHLINE DIESEL 1.,2014,Bangalore,20837,Diesel,Manual,293000,Cars24,411
+1945,Maruti,Swift VXI,2015,Noida,75871,Cng,Manual,282000,Cars24,2695
+1946,Renault,Kwid CLIMBER 1.0 AMT (O),2019,Hyderabad,34835,Petrol,Automatic,321000,Cars24,172
+1947,Tata,TIGOR XZ PLUS PETROL,2019,Mumbai,17534,Petrol,Manual,395000,Cars24,442
+1948,Renault,Kwid RXT 0.,2016,New-Delhi,413,Petrol,Manual,124000,Cars24,1315
+1949,Honda,Jazz 1.2L I-VTEC X,2012,Coimbatore,9572,Petrol,Manual,248000,Cars24,3002
+1950,Honda,City 1.5L I-VTE V CVT,2019,New-Delhi,57022,Petrol,Automatic,591000,Cars24,1073
+1951,Kia,SELTOS GTX PLUS DCT 1.4 PETROL,2019,Lucknow,929,Petrol,Automatic,1226000,Cars24,2211
+1952,Tata,ALTROZ XZ DIESEL,2019,Ahmedabad,65041,Diesel,Manual,438999,Cars24,1870
+1953,Ford,Figo Aspire TITANIUM 1.5 DIESEL SPORTS EDITION,2017,Noida,73543,Diesel,Manual,290000,Cars24,2766
+1954,Ford,FREESTYLE TITANIUM 1.5 DIESEL,2020,Bangalore,32601,Diesel,Manual,493000,Cars24,308
+1955,Ford,Ecosport TITANIUM 1.5L DIESEL,2013,Kolkata,75007,Diesel,Manual,261000,Cars24,2503
+1956,Volkswagen,Polo GT TSI AT,2013,New-Delhi,25821,Petrol,Automatic,261000,Cars24,1396
+1957,Ford,Endeavour 2.5L 4X2 MT,2011,Mumbai,23971,Diesel,Manual,286000,Cars24,513
+1958,Hyundai,Creta SX (O) IVT 1.5 PETROL,2023,Noida,22040,Petrol,Automatic,1235000,Cars24,2725
+1959,Kia,SELTOS HTK PLUS AT 1.5 DIESEL,2019,Lucknow,18913,Diesel,Automatic,808000,Cars24,2226
+1960,Maruti,Celerio ZXI AMT,2017,Pune,75598,Petrol,Automatic,358000,Cars24,678
+1961,Hyundai,NEW SANTRO SPORTZ EXECUTIVE MT CNG,2022,Noida,91678,Cng,Manual,372000,Cars24,2735
+1962,Tata,PUNCH CREATIVE  AMT,2021,Bangalore,20842,Petrol,Automatic,610000,Cars24,229
+1963,Renault,Lodgy 85 PS RXZ STEPWAY 8 STR,2017,Agra,63514,Diesel,Manual,389000,Cars24,1708
+1964,Hyundai,Elite i20 SPORTZ PLUS  1.2 CVT,2019,Ahmedabad,36954,Petrol,Automatic,422000,Cars24,1924
+1965,Ford,Figo TITANIUM 1.2 PETROL,2011,Noida,14108,Petrol,Manual,69000,Cars24,2770
+1966,Hyundai,Grand i10 SPORTZ 1.2 KAPPA VTVT,2018,New-Delhi,94763,Petrol,Manual,246000,Cars24,1168
+1967,Ford,Figo Aspire TITANIUM 1.2 PETROL,2018,Ahmedabad,94480,Petrol,Manual,305000,Cars24,1939
+1968,Tata,NEXON XZA PLUS SUNROOF PETROL,2021,New-Delhi,79504,Petrol,Automatic,656000,Cars24,1045
+1969,Hyundai,Eon ERA +,2016,Noida,47892,Cng,Manual,170000,Cars24,2739
+1970,Ford,Ecosport TITANIUM + 1.5L PETROL AT,2020,Kolkata,11974,Petrol,Automatic,805000,Cars24,2506
+1971,Honda,City 1.5L I-VTEC ZX CVT,2017,Pune,66841,Petrol,Automatic,589000,Cars24,669
+1972,Volkswagen,Polo TRENDLINE 1.0L,2019,Ahmedabad,66402,Petrol,Manual,355000,Cars24,2045
+1973,Toyota,Etios G,2012,Noida,51779,Petrol,Manual,120000,Cars24,2846
+1974,Tata,TIGOR XZ (O) PETROL,2017,Hyderabad,34483,Petrol,Manual,304000,Cars24,2
+1975,Mahindra,XUV300 W6 1.5 Diesel,2023,Agra,40219,Diesel,Manual,900000,Cars24,1668
+1976,Renault,Duster 110 PS RXZ 4X2 AMT DIESEL,2017,Pune,41961,Diesel,Automatic,412000,Cars24,781
+1977,Volkswagen,TAIGUN GT 1.5 TSI MT,2021,Bangalore,24890,Petrol,Manual,1099000,Cars24,418
+1978,Ford,Ecosport TITANIUM 1.5L PETROL,2018,Bangalore,65955,Petrol,Manual,560000,Cars24,297
+1979,Maruti,Alto 800 LXI,2019,New-Delhi,53252,Petrol,Manual,199000,Cars24,1140
+1980,Kia,SELTOS HTK 1.5 PETROL,2019,Bangalore,21642,Petrol,Manual,630000,Cars24,389
+1981,Mahindra,XUV500 W10 AT,2016,Mumbai,30373,Diesel,Automatic,672000,Cars24,538
+1982,Hyundai,NEW I20 ASTA (O) 1.2 AT,2023,Kolkata,35729,Petrol,Automatic,648000,Cars24,2480
+1983,Hyundai,GRAND I10 NIOS SPORTZ 1.2 KAPPA VTVT,2023,Kolkata,29661,Petrol,Manual,416000,Cars24,2481
+1984,Mahindra,Kuv100 K6 D 6 STR,2015,Surat,70063,Diesel,Manual,138000,Cars24,1516
+1985,Renault,Kiger RXZ TURBO CVT,2023,Mumbai,48970,Petrol,Automatic,665000,Cars24,575
+1986,Maruti,Swift VXI AMT,2018,Noida,59746,Petrol,Automatic,386000,Cars24,2704
+1987,Maruti,Baleno DELTA PETROL 1.,2022,Mumbai,251160,Petrol,Manual,538000,Cars24,470
+1988,Renault,Kwid RXT 0.,2016,Hyderabad,30438,Petrol,Manual,160000,Cars24,168
+1989,Mahindra,SCORPIO-N Z8 L DIESEL MT 2WD 7 STR,2023,New-Delhi,79841,Diesel,Manual,1698999,Cars24,1251
+1990,Toyota,Fortuner 2.8 4X4 MT,2019,Pune,26234,Diesel,Manual,3600000,Cars24,762
+1991,Hyundai,Elite i20 ASTA 1.2  CVT,2018,Pune,70957,Petrol,Automatic,425000,Cars24,710
+1992,Mahindra,XUV500 W,2016,Lucknow,25378,Diesel,Manual,390000,Cars24,2168
+1993,Tata,NEXON XM DIESEL,2019,Hyderabad,82764,Diesel,Manual,570000,Cars24,13
+1994,Bmw,3 Series 320d,2012,Surat,20049,Diesel,Automatic,500000,Cars24,1523
+1995,Renault,TRIBER RXE MT,2020,New-Delhi,18791,Petrol,Manual,344000,Cars24,1314
+1996,Volkswagen,Vento HIGHLINE DIESEL 1.,2012,Surat,14830,Diesel,Manual,139000,Cars24,1560
+1997,Bmw,X1 sDrive 20d Expedition,2017,Lucknow,97762,Diesel,Automatic,1335000,Cars24,2173
+1998,Tata,NEXON XZ PLUS PETROL SUNROOF,2020,Kochi,40528,Petrol,Manual,736000,Cars24,1739
+1999,Maruti,Baleno DELTA PETROL 1.,2018,New-Delhi,257999,Petrol,Manual,356000,Cars24,1114
+2000,Maruti,Alto LXI CNG,2021,Jaipur,74768,Cng,Manual,295000,Cars24,2291
