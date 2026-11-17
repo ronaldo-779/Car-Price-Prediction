@@ -1,0 +1,23 @@
+# Used Car Price Prediction - Project Dependencies
+
+# Core data processing
+pandas
+numpy
+
+# Machine learning and model training
+scikit-learn
+xgboost
+joblib
+
+# Streamlit dashboard and interactive visualizations
+streamlit
+plotly
+statsmodels
+
+# Notebook EDA and visualizations
+matplotlib
+seaborn
+
+# Optional: install these if you want to run Jupyter notebooks locally
+jupyter
+ipykernel
